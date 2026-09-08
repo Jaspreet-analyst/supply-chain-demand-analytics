@@ -1,0 +1,21 @@
+Supplier_ID,Supplier_Name,Country,Category,Lead_Time_Days,On_Time_Delivery_Pct,Quality_Score,Compliance_Rate_Pct,Annual_Spend_USD,Payment_Terms,Risk_Rating,Contract_Status,Preferred_Carrier
+SUP0001,Shanghai Premier Manufacturing,China,Health,15,86.1,91.5,81.1,249865.59,LC 90,Low,Active,Yang Ming
+SUP0002,Ningbo Global Exports,China,Sports,19,66.0,76.3,87.6,437733.42,LC 90,High,Expiring Soon,Evergreen
+SUP0003,Shenzhen Tech Components,China,Health,31,79.8,93.5,75.2,874098.08,Net 90,Medium,Active,Evergreen
+SUP0004,Busan Industrial Corp,Vietnam,Kitchen,35,96.6,73.0,84.5,720713.66,Net 90,Low,Active,ZIM
+SUP0005,Singapore Trade Hub,Germany,Kitchen,38,82.7,72.3,82.3,755188.3,Net 60,Medium,Active,Maersk
+SUP0006,Hong Kong Merchandise Ltd,China,Appliances,32,86.8,98.6,96.4,592048.53,Net 90,Low,Active,ONE
+SUP0007,Rotterdam European Goods,China,Sports,56,76.7,77.7,98.4,1288207.66,LC 90,Medium,Active,CMA CGM
+SUP0008,Hamburg Quality Products,Netherlands,Furniture,31,80.3,98.7,91.0,1384997.79,Net 30,Medium,Active,Maersk
+SUP0009,Taipei Electronics Co,Germany,Health,39,91.6,77.8,80.3,663621.87,LC 60,Low,Expiring Soon,ZIM
+SUP0010,Seoul Parts Manufacturing,Singapore,Health,22,69.7,77.2,89.0,1189942.68,LC 90,High,Expiring Soon,ONE
+SUP0011,Mumbai Textiles Ltd,China,Kitchen,22,72.2,84.8,77.3,263815.8,Net 60,High,Expiring Soon,MSC
+SUP0012,Bangkok Consumer Goods,Netherlands,Kitchen,52,77.7,98.9,88.2,1887740.18,Net 30,Medium,Under Review,Hapag-Lloyd
+SUP0013,Jakarta Industrial PT,Canada,Electronics,35,90.4,73.2,85.9,1909941.06,Net 90,Low,Under Review,CMA CGM
+SUP0014,Ho Chi Minh Apparel,Netherlands,Sports,20,81.8,95.2,82.5,437876.65,Net 90,Medium,Active,Maersk
+SUP0015,Colombo Trading Co,Singapore,Furniture,45,84.8,70.6,98.2,162954.07,LC 90,Medium,Active,MSC
+SUP0016,Guadalajara Auto Parts,China,Furniture,18,89.2,98.4,88.3,1336514.1,LC 90,Low,Active,Hapag-Lloyd
+SUP0017,Montreal Distribution,Netherlands,Kitchen,52,82.4,82.3,80.3,1473365.58,Net 60,Medium,Active,Yang Ming
+SUP0018,Toronto Wholesale Inc,Canada,Electronics,55,97.8,80.8,97.5,533415.95,Net 30,Low,Active,Maersk
+SUP0019,Vancouver Pacific Trading,China,Furniture,28,84.4,87.1,75.2,181430.64,Net 30,Medium,Active,MSC
+SUP0020,Calgary Resource Supply,China,Health,31,82.0,89.4,80.4,1874252.77,LC 90,Medium,Under Review,ZIM

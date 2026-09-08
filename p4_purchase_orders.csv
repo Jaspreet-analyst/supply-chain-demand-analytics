@@ -1,0 +1,1001 @@
+PO_ID,Supplier_ID,Supplier_Name,SKU_ID,SKU_Name,Category,Order_Quantity,Unit_Cost_USD,Total_PO_Value_USD,Order_Date,Expected_Delivery,Actual_Delivery,Delay_Days,On_Time,Warehouse,PO_Status,Order_Year,Order_Month,Order_Quarter
+PO0000001,SUP0008,Hamburg Quality Products,SKU00026,Standing Desk,Furniture,248,185.0,45880.0,2024-08-26,2024-09-26,2024-09-26,0,Yes,Calgary DC,Delivered,2024,8,Q3
+PO0000002,SUP0012,Bangkok Consumer Goods,SKU00014,Smart Watch,Electronics,160,95.0,15200.0,2024-04-21,2024-06-12,2024-06-27,15,No,Toronto DC,Delivered,2024,4,Q2
+PO0000003,SUP0002,Ningbo Global Exports,SKU00013,Protein Powder 2kg,Health,439,18.0,7902.0,2023-11-26,2023-12-15,2023-12-15,0,Yes,Calgary DC,Delivered,2023,11,Q4
+PO0000004,SUP0005,Singapore Trade Hub,SKU00014,Smart Watch,Electronics,1840,95.0,174800.0,2023-01-11,2023-02-18,2023-02-18,0,Yes,Toronto DC,Delivered,2023,1,Q1
+PO0000005,SUP0015,Colombo Trading Co,SKU00026,Standing Desk,Furniture,1157,185.0,214045.0,2022-07-20,2022-09-03,2022-09-03,0,Yes,Toronto DC,Delivered,2022,7,Q3
+PO0000006,SUP0003,Shenzhen Tech Components,SKU00030,Car Phone Mount,Automotive,1035,6.0,6210.0,2023-04-30,2023-05-31,2023-05-31,0,Yes,Vancouver DC,Delivered,2023,4,Q2
+PO0000007,SUP0013,Jakarta Industrial PT,SKU00029,Kids Building Blocks,Toys,849,11.0,9339.0,2022-05-01,2022-06-05,2022-06-05,0,Yes,Montreal DC,Delivered,2022,5,Q2
+PO0000008,SUP0015,Colombo Trading Co,SKU00010,Desk Lamp,Furniture,1046,20.0,20920.0,2024-05-16,2024-06-30,2024-06-30,0,Yes,Vancouver DC,Delivered,2024,5,Q2
+PO0000009,SUP0007,Rotterdam European Goods,SKU00010,Desk Lamp,Furniture,1160,20.0,23200.0,2023-03-22,2023-05-17,2023-05-17,0,Yes,Toronto DC,Delivered,2023,3,Q1
+PO0000010,SUP0011,Mumbai Textiles Ltd,SKU00002,Office Chair,Furniture,1932,120.0,231840.0,2022-04-13,2022-05-05,2022-05-05,0,Yes,Vancouver DC,Delivered,2022,4,Q2
+PO0000011,SUP0002,Ningbo Global Exports,SKU00017,Vitamin C 90 Pack,Health,189,8.0,1512.0,2022-06-14,2022-07-03,2022-07-03,0,Yes,Vancouver DC,Delivered,2022,6,Q2
+PO0000012,SUP0013,Jakarta Industrial PT,SKU00004,Kitchen Blender,Appliances,1318,32.0,42176.0,2023-05-20,2023-06-24,2023-06-24,0,Yes,Toronto DC,Delivered,2023,5,Q2
+PO0000013,SUP0014,Ho Chi Minh Apparel,SKU00022,Resistance Bands,Sports,468,7.0,3276.0,2024-12-06,2024-12-26,2025-01-06,11,No,Montreal DC,In Transit,2024,12,Q4
+PO0000014,SUP0008,Hamburg Quality Products,SKU00009,Denim Jeans,Apparel,664,22.0,14608.0,2024-03-21,2024-04-21,2024-04-21,0,Yes,Calgary DC,Delivered,2024,3,Q1
+PO0000015,SUP0011,Mumbai Textiles Ltd,SKU00030,Car Phone Mount,Automotive,1203,6.0,7218.0,2022-05-29,2022-06-20,2022-06-20,0,Yes,Toronto DC,Delivered,2022,5,Q2
+PO0000016,SUP0003,Shenzhen Tech Components,SKU00018,Gaming Mouse,Electronics,1961,25.0,49025.0,2023-03-13,2023-04-13,2023-04-13,0,Yes,Montreal DC,Delivered,2023,3,Q1
+PO0000017,SUP0003,Shenzhen Tech Components,SKU00029,Kids Building Blocks,Toys,947,11.0,10417.0,2023-05-16,2023-06-16,2023-06-16,0,Yes,Montreal DC,Delivered,2023,5,Q2
+PO0000018,SUP0020,Calgary Resource Supply,SKU00026,Standing Desk,Furniture,1185,185.0,219225.0,2024-12-19,2025-01-19,2025-01-19,0,Yes,Montreal DC,In Transit,2024,12,Q4
+PO0000019,SUP0004,Busan Industrial Corp,SKU00029,Kids Building Blocks,Toys,269,11.0,2959.0,2022-10-03,2022-11-07,2022-11-07,0,Yes,Vancouver DC,Delivered,2022,10,Q4
+PO0000020,SUP0009,Taipei Electronics Co,SKU00010,Desk Lamp,Furniture,1348,20.0,26960.0,2023-03-08,2023-04-16,2023-04-16,0,Yes,Montreal DC,Delivered,2023,3,Q1
+PO0000021,SUP0017,Montreal Distribution,SKU00016,Camping Tent,Outdoors,917,110.0,100870.0,2023-05-30,2023-07-21,2023-07-21,0,Yes,Montreal DC,Delivered,2023,5,Q2
+PO0000022,SUP0002,Ningbo Global Exports,SKU00001,Wireless Headphones,Electronics,586,45.0,26370.0,2023-11-15,2023-12-04,2023-12-04,0,Yes,Vancouver DC,Delivered,2023,11,Q4
+PO0000023,SUP0015,Colombo Trading Co,SKU00018,Gaming Mouse,Electronics,204,25.0,5100.0,2024-05-25,2024-07-09,2024-07-09,0,Yes,Vancouver DC,Delivered,2024,5,Q2
+PO0000024,SUP0018,Toronto Wholesale Inc,SKU00002,Office Chair,Furniture,930,120.0,111600.0,2024-01-27,2024-03-22,2024-03-22,0,Yes,Vancouver DC,Delivered,2024,1,Q1
+PO0000025,SUP0002,Ningbo Global Exports,SKU00010,Desk Lamp,Furniture,480,20.0,9600.0,2024-01-17,2024-02-05,2024-02-07,2,No,Vancouver DC,Delivered,2024,1,Q1
+PO0000026,SUP0004,Busan Industrial Corp,SKU00012,Backpack,Accessories,1945,28.0,54460.0,2024-04-12,2024-05-17,2024-05-17,0,Yes,Vancouver DC,Delivered,2024,4,Q2
+PO0000027,SUP0006,Hong Kong Merchandise Ltd,SKU00026,Standing Desk,Furniture,1558,185.0,288230.0,2022-12-29,2023-01-30,2023-01-30,0,Yes,Montreal DC,Delivered,2022,12,Q4
+PO0000028,SUP0014,Ho Chi Minh Apparel,SKU00026,Standing Desk,Furniture,1486,185.0,274910.0,2023-05-24,2023-06-13,2023-06-13,0,Yes,Toronto DC,Delivered,2023,5,Q2
+PO0000029,SUP0013,Jakarta Industrial PT,SKU00028,Dog Leash Set,Pet Supplies,1722,8.0,13776.0,2022-03-21,2022-04-25,2022-04-25,0,Yes,Calgary DC,Delivered,2022,3,Q1
+PO0000030,SUP0012,Bangkok Consumer Goods,SKU00010,Desk Lamp,Furniture,445,20.0,8900.0,2023-04-12,2023-06-03,2023-06-03,0,Yes,Calgary DC,Delivered,2023,4,Q2
+PO0000031,SUP0011,Mumbai Textiles Ltd,SKU00009,Denim Jeans,Apparel,1093,22.0,24046.0,2022-05-23,2022-06-14,2022-06-14,0,Yes,Calgary DC,Delivered,2022,5,Q2
+PO0000032,SUP0018,Toronto Wholesale Inc,SKU00011,Bluetooth Speaker,Electronics,584,30.0,17520.0,2022-02-26,2022-04-22,2022-04-26,4,No,Vancouver DC,Delivered,2022,2,Q1
+PO0000033,SUP0019,Vancouver Pacific Trading,SKU00009,Denim Jeans,Apparel,757,22.0,16654.0,2022-03-20,2022-04-17,2022-04-17,0,Yes,Montreal DC,Delivered,2022,3,Q1
+PO0000034,SUP0014,Ho Chi Minh Apparel,SKU00020,Throw Blanket,Home,1230,15.0,18450.0,2024-11-13,2024-12-03,2024-12-03,0,Yes,Vancouver DC,Delivered,2024,11,Q4
+PO0000035,SUP0009,Taipei Electronics Co,SKU00002,Office Chair,Furniture,1701,120.0,204120.0,2024-06-12,2024-07-21,2024-07-21,0,Yes,Vancouver DC,Delivered,2024,6,Q2
+PO0000036,SUP0012,Bangkok Consumer Goods,SKU00014,Smart Watch,Electronics,1408,95.0,133760.0,2022-05-24,2022-07-15,2022-07-15,0,Yes,Toronto DC,Delivered,2022,5,Q2
+PO0000037,SUP0010,Seoul Parts Manufacturing,SKU00017,Vitamin C 90 Pack,Health,1477,8.0,11816.0,2023-09-26,2023-10-18,2023-10-18,0,Yes,Montreal DC,Delivered,2023,9,Q3
+PO0000038,SUP0018,Toronto Wholesale Inc,SKU00005,Running Shoes,Footwear,826,48.0,39648.0,2023-01-28,2023-03-24,2023-03-24,0,Yes,Vancouver DC,Delivered,2023,1,Q1
+PO0000039,SUP0020,Calgary Resource Supply,SKU00019,Water Bottle 1L,Sports,50,10.0,500.0,2023-09-09,2023-10-10,2023-10-10,0,Yes,Montreal DC,Delivered,2023,9,Q3
+PO0000040,SUP0010,Seoul Parts Manufacturing,SKU00007,Yoga Mat,Sports,709,12.0,8508.0,2024-05-30,2024-06-21,2024-06-21,0,Yes,Calgary DC,Delivered,2024,5,Q2
+PO0000041,SUP0015,Colombo Trading Co,SKU00015,Cookware Set,Kitchen,1895,75.0,142125.0,2023-03-14,2023-04-28,2023-04-28,0,Yes,Vancouver DC,Delivered,2023,3,Q1
+PO0000042,SUP0003,Shenzhen Tech Components,SKU00010,Desk Lamp,Furniture,1726,20.0,34520.0,2024-11-21,2024-12-22,2024-12-22,0,Yes,Vancouver DC,Delivered,2024,11,Q4
+PO0000043,SUP0010,Seoul Parts Manufacturing,SKU00008,Coffee Maker,Appliances,551,38.0,20938.0,2023-02-12,2023-03-06,2023-03-06,0,Yes,Calgary DC,Delivered,2023,2,Q1
+PO0000044,SUP0020,Calgary Resource Supply,SKU00028,Dog Leash Set,Pet Supplies,1339,8.0,10712.0,2022-05-30,2022-06-30,2022-06-30,0,Yes,Vancouver DC,Delivered,2022,5,Q2
+PO0000045,SUP0013,Jakarta Industrial PT,SKU00016,Camping Tent,Outdoors,1458,110.0,160380.0,2024-03-29,2024-05-03,2024-05-03,0,Yes,Toronto DC,Delivered,2024,3,Q1
+PO0000046,SUP0004,Busan Industrial Corp,SKU00025,Insulated Lunch Bag,Accessories,1475,9.0,13275.0,2024-05-20,2024-06-24,2024-06-24,0,Yes,Calgary DC,Delivered,2024,5,Q2
+PO0000047,SUP0002,Ningbo Global Exports,SKU00018,Gaming Mouse,Electronics,1691,25.0,42275.0,2023-05-26,2023-06-14,2023-06-14,0,Yes,Calgary DC,Delivered,2023,5,Q2
+PO0000048,SUP0017,Montreal Distribution,SKU00018,Gaming Mouse,Electronics,1523,25.0,38075.0,2023-10-12,2023-12-03,2023-12-03,0,Yes,Calgary DC,Delivered,2023,10,Q4
+PO0000049,SUP0018,Toronto Wholesale Inc,SKU00015,Cookware Set,Kitchen,1589,75.0,119175.0,2022-11-22,2023-01-16,2023-01-16,0,Yes,Vancouver DC,Delivered,2022,11,Q4
+PO0000050,SUP0009,Taipei Electronics Co,SKU00025,Insulated Lunch Bag,Accessories,612,9.0,5508.0,2024-12-03,2025-01-11,2025-01-11,0,Yes,Calgary DC,In Transit,2024,12,Q4
+PO0000051,SUP0003,Shenzhen Tech Components,SKU00023,Bamboo Cutting Board,Kitchen,704,12.0,8448.0,2023-08-09,2023-09-09,2023-09-09,0,Yes,Toronto DC,Delivered,2023,8,Q3
+PO0000052,SUP0005,Singapore Trade Hub,SKU00005,Running Shoes,Footwear,1496,48.0,71808.0,2023-04-19,2023-05-27,2023-05-27,0,Yes,Vancouver DC,Delivered,2023,4,Q2
+PO0000053,SUP0003,Shenzhen Tech Components,SKU00014,Smart Watch,Electronics,901,95.0,85595.0,2024-04-14,2024-05-15,2024-05-15,0,Yes,Toronto DC,Delivered,2024,4,Q2
+PO0000054,SUP0007,Rotterdam European Goods,SKU00027,Face Moisturizer,Beauty,1246,12.0,14952.0,2024-05-10,2024-07-05,2024-07-18,13,No,Toronto DC,Delivered,2024,5,Q2
+PO0000055,SUP0019,Vancouver Pacific Trading,SKU00013,Protein Powder 2kg,Health,661,18.0,11898.0,2024-09-03,2024-10-01,2024-10-02,1,No,Calgary DC,Delivered,2024,9,Q3
+PO0000056,SUP0014,Ho Chi Minh Apparel,SKU00018,Gaming Mouse,Electronics,942,25.0,23550.0,2023-03-28,2023-04-17,2023-04-17,0,Yes,Calgary DC,Delivered,2023,3,Q1
+PO0000057,SUP0001,Shanghai Premier Manufacturing,SKU00013,Protein Powder 2kg,Health,1771,18.0,31878.0,2023-11-20,2023-12-05,2023-12-05,0,Yes,Calgary DC,Delivered,2023,11,Q4
+PO0000058,SUP0005,Singapore Trade Hub,SKU00020,Throw Blanket,Home,1262,15.0,18930.0,2024-12-29,2025-02-05,2025-02-06,1,No,Toronto DC,In Transit,2024,12,Q4
+PO0000059,SUP0003,Shenzhen Tech Components,SKU00021,Air Purifier,Appliances,422,80.0,33760.0,2024-05-27,2024-06-27,2024-07-02,5,No,Toronto DC,Delivered,2024,5,Q2
+PO0000060,SUP0009,Taipei Electronics Co,SKU00013,Protein Powder 2kg,Health,741,18.0,13338.0,2023-11-02,2023-12-11,2023-12-11,0,Yes,Calgary DC,Delivered,2023,11,Q4
+PO0000061,SUP0009,Taipei Electronics Co,SKU00025,Insulated Lunch Bag,Accessories,1013,9.0,9117.0,2024-05-13,2024-06-21,2024-06-30,9,No,Toronto DC,Delivered,2024,5,Q2
+PO0000062,SUP0018,Toronto Wholesale Inc,SKU00002,Office Chair,Furniture,1649,120.0,197880.0,2023-12-18,2024-02-11,2024-02-11,0,Yes,Toronto DC,Delivered,2023,12,Q4
+PO0000063,SUP0001,Shanghai Premier Manufacturing,SKU00008,Coffee Maker,Appliances,538,38.0,20444.0,2023-02-13,2023-02-28,2023-02-28,0,Yes,Vancouver DC,Delivered,2023,2,Q1
+PO0000064,SUP0016,Guadalajara Auto Parts,SKU00022,Resistance Bands,Sports,1002,7.0,7014.0,2022-08-23,2022-09-10,2022-09-29,19,No,Montreal DC,Delivered,2022,8,Q3
+PO0000065,SUP0012,Bangkok Consumer Goods,SKU00006,Laptop Stand,Electronics,271,18.0,4878.0,2022-08-23,2022-10-14,2022-10-20,6,No,Toronto DC,Delivered,2022,8,Q3
+PO0000066,SUP0010,Seoul Parts Manufacturing,SKU00019,Water Bottle 1L,Sports,456,10.0,4560.0,2024-02-08,2024-03-01,2024-03-14,13,No,Toronto DC,Delivered,2024,2,Q1
+PO0000067,SUP0019,Vancouver Pacific Trading,SKU00023,Bamboo Cutting Board,Kitchen,667,12.0,8004.0,2023-05-13,2023-06-10,2023-06-10,0,Yes,Toronto DC,Delivered,2023,5,Q2
+PO0000068,SUP0019,Vancouver Pacific Trading,SKU00026,Standing Desk,Furniture,1404,185.0,259740.0,2022-03-26,2022-04-23,2022-04-23,0,Yes,Montreal DC,Delivered,2022,3,Q1
+PO0000069,SUP0003,Shenzhen Tech Components,SKU00017,Vitamin C 90 Pack,Health,1734,8.0,13872.0,2023-11-30,2023-12-31,2024-01-01,1,No,Calgary DC,Delivered,2023,11,Q4
+PO0000070,SUP0004,Busan Industrial Corp,SKU00014,Smart Watch,Electronics,941,95.0,89395.0,2024-01-12,2024-02-16,2024-02-16,0,Yes,Vancouver DC,Delivered,2024,1,Q1
+PO0000071,SUP0017,Montreal Distribution,SKU00021,Air Purifier,Appliances,1152,80.0,92160.0,2023-07-08,2023-08-29,2023-09-18,20,No,Calgary DC,Delivered,2023,7,Q3
+PO0000072,SUP0015,Colombo Trading Co,SKU00014,Smart Watch,Electronics,1751,95.0,166345.0,2023-07-04,2023-08-18,2023-08-29,11,No,Toronto DC,Delivered,2023,7,Q3
+PO0000073,SUP0009,Taipei Electronics Co,SKU00029,Kids Building Blocks,Toys,1217,11.0,13387.0,2024-07-12,2024-08-20,2024-08-20,0,Yes,Calgary DC,Delivered,2024,7,Q3
+PO0000074,SUP0011,Mumbai Textiles Ltd,SKU00001,Wireless Headphones,Electronics,484,45.0,21780.0,2024-10-09,2024-10-31,2024-10-31,0,Yes,Montreal DC,Delivered,2024,10,Q4
+PO0000075,SUP0009,Taipei Electronics Co,SKU00011,Bluetooth Speaker,Electronics,615,30.0,18450.0,2023-07-27,2023-09-04,2023-09-04,0,Yes,Toronto DC,Delivered,2023,7,Q3
+PO0000076,SUP0017,Montreal Distribution,SKU00007,Yoga Mat,Sports,1050,12.0,12600.0,2022-06-25,2022-08-16,2022-08-16,0,Yes,Vancouver DC,Delivered,2022,6,Q2
+PO0000077,SUP0016,Guadalajara Auto Parts,SKU00021,Air Purifier,Appliances,240,80.0,19200.0,2024-10-02,2024-10-20,2024-10-20,0,Yes,Montreal DC,Delivered,2024,10,Q4
+PO0000078,SUP0008,Hamburg Quality Products,SKU00013,Protein Powder 2kg,Health,805,18.0,14490.0,2023-05-14,2023-06-14,2023-06-14,0,Yes,Calgary DC,Delivered,2023,5,Q2
+PO0000079,SUP0018,Toronto Wholesale Inc,SKU00017,Vitamin C 90 Pack,Health,1177,8.0,9416.0,2023-12-06,2024-01-30,2024-02-13,14,No,Montreal DC,Delivered,2023,12,Q4
+PO0000080,SUP0012,Bangkok Consumer Goods,SKU00023,Bamboo Cutting Board,Kitchen,522,12.0,6264.0,2024-07-18,2024-09-08,2024-09-08,0,Yes,Toronto DC,Delivered,2024,7,Q3
+PO0000081,SUP0007,Rotterdam European Goods,SKU00011,Bluetooth Speaker,Electronics,1463,30.0,43890.0,2022-09-02,2022-10-28,2022-11-15,18,No,Vancouver DC,Delivered,2022,9,Q3
+PO0000082,SUP0007,Rotterdam European Goods,SKU00007,Yoga Mat,Sports,1606,12.0,19272.0,2024-09-18,2024-11-13,2024-11-13,0,Yes,Montreal DC,Delivered,2024,9,Q3
+PO0000083,SUP0004,Busan Industrial Corp,SKU00027,Face Moisturizer,Beauty,417,12.0,5004.0,2023-02-02,2023-03-09,2023-03-09,0,Yes,Montreal DC,Delivered,2023,2,Q1
+PO0000084,SUP0001,Shanghai Premier Manufacturing,SKU00023,Bamboo Cutting Board,Kitchen,161,12.0,1932.0,2024-12-29,2025-01-13,2025-01-13,0,Yes,Montreal DC,In Transit,2024,12,Q4
+PO0000085,SUP0005,Singapore Trade Hub,SKU00021,Air Purifier,Appliances,1225,80.0,98000.0,2024-10-02,2024-11-09,2024-11-13,4,No,Montreal DC,Delivered,2024,10,Q4
+PO0000086,SUP0016,Guadalajara Auto Parts,SKU00016,Camping Tent,Outdoors,155,110.0,17050.0,2024-06-21,2024-07-09,2024-07-09,0,Yes,Montreal DC,Delivered,2024,6,Q2
+PO0000087,SUP0016,Guadalajara Auto Parts,SKU00004,Kitchen Blender,Appliances,1231,32.0,39392.0,2022-05-14,2022-06-01,2022-06-01,0,Yes,Toronto DC,Delivered,2022,5,Q2
+PO0000088,SUP0005,Singapore Trade Hub,SKU00005,Running Shoes,Footwear,292,48.0,14016.0,2023-09-15,2023-10-23,2023-10-26,3,No,Calgary DC,Delivered,2023,9,Q3
+PO0000089,SUP0020,Calgary Resource Supply,SKU00020,Throw Blanket,Home,1910,15.0,28650.0,2023-04-08,2023-05-09,2023-05-09,0,Yes,Calgary DC,Delivered,2023,4,Q2
+PO0000090,SUP0010,Seoul Parts Manufacturing,SKU00028,Dog Leash Set,Pet Supplies,173,8.0,1384.0,2024-05-28,2024-06-19,2024-06-19,0,Yes,Toronto DC,Delivered,2024,5,Q2
+PO0000091,SUP0007,Rotterdam European Goods,SKU00021,Air Purifier,Appliances,371,80.0,29680.0,2023-03-09,2023-05-04,2023-05-04,0,Yes,Vancouver DC,Delivered,2023,3,Q1
+PO0000092,SUP0006,Hong Kong Merchandise Ltd,SKU00018,Gaming Mouse,Electronics,972,25.0,24300.0,2022-06-03,2022-07-05,2022-07-05,0,Yes,Calgary DC,Delivered,2022,6,Q2
+PO0000093,SUP0010,Seoul Parts Manufacturing,SKU00002,Office Chair,Furniture,1489,120.0,178680.0,2023-04-20,2023-05-12,2023-05-12,0,Yes,Calgary DC,Delivered,2023,4,Q2
+PO0000094,SUP0003,Shenzhen Tech Components,SKU00022,Resistance Bands,Sports,1330,7.0,9310.0,2023-04-24,2023-05-25,2023-05-25,0,Yes,Vancouver DC,Delivered,2023,4,Q2
+PO0000095,SUP0014,Ho Chi Minh Apparel,SKU00004,Kitchen Blender,Appliances,1742,32.0,55744.0,2023-04-06,2023-04-26,2023-05-01,5,No,Vancouver DC,Delivered,2023,4,Q2
+PO0000096,SUP0003,Shenzhen Tech Components,SKU00002,Office Chair,Furniture,1738,120.0,208560.0,2022-12-06,2023-01-06,2023-01-06,0,Yes,Montreal DC,Delivered,2022,12,Q4
+PO0000097,SUP0015,Colombo Trading Co,SKU00004,Kitchen Blender,Appliances,1980,32.0,63360.0,2024-08-17,2024-10-01,2024-10-01,0,Yes,Montreal DC,Delivered,2024,8,Q3
+PO0000098,SUP0017,Montreal Distribution,SKU00018,Gaming Mouse,Electronics,131,25.0,3275.0,2024-10-08,2024-11-29,2024-11-29,0,Yes,Calgary DC,Delivered,2024,10,Q4
+PO0000099,SUP0011,Mumbai Textiles Ltd,SKU00020,Throw Blanket,Home,1430,15.0,21450.0,2023-05-28,2023-06-19,2023-06-19,0,Yes,Toronto DC,Delivered,2023,5,Q2
+PO0000100,SUP0009,Taipei Electronics Co,SKU00019,Water Bottle 1L,Sports,1384,10.0,13840.0,2022-03-24,2022-05-02,2022-05-02,0,Yes,Calgary DC,Delivered,2022,3,Q1
+PO0000101,SUP0009,Taipei Electronics Co,SKU00006,Laptop Stand,Electronics,1012,18.0,18216.0,2024-06-11,2024-07-20,2024-08-05,16,No,Montreal DC,Delivered,2024,6,Q2
+PO0000102,SUP0014,Ho Chi Minh Apparel,SKU00011,Bluetooth Speaker,Electronics,725,30.0,21750.0,2023-10-20,2023-11-09,2023-11-13,4,No,Calgary DC,Delivered,2023,10,Q4
+PO0000103,SUP0016,Guadalajara Auto Parts,SKU00010,Desk Lamp,Furniture,230,20.0,4600.0,2024-03-31,2024-04-18,2024-04-18,0,Yes,Montreal DC,Delivered,2024,3,Q1
+PO0000104,SUP0009,Taipei Electronics Co,SKU00011,Bluetooth Speaker,Electronics,1739,30.0,52170.0,2022-08-26,2022-10-04,2022-10-17,13,No,Toronto DC,Delivered,2022,8,Q3
+PO0000105,SUP0018,Toronto Wholesale Inc,SKU00015,Cookware Set,Kitchen,790,75.0,59250.0,2024-04-26,2024-06-20,2024-06-20,0,Yes,Calgary DC,Delivered,2024,4,Q2
+PO0000106,SUP0015,Colombo Trading Co,SKU00025,Insulated Lunch Bag,Accessories,318,9.0,2862.0,2022-04-16,2022-05-31,2022-05-31,0,Yes,Montreal DC,Delivered,2022,4,Q2
+PO0000107,SUP0015,Colombo Trading Co,SKU00029,Kids Building Blocks,Toys,1340,11.0,14740.0,2024-09-19,2024-11-03,2024-11-03,0,Yes,Vancouver DC,Delivered,2024,9,Q3
+PO0000108,SUP0006,Hong Kong Merchandise Ltd,SKU00010,Desk Lamp,Furniture,510,20.0,10200.0,2022-01-29,2022-03-02,2022-03-02,0,Yes,Toronto DC,Delivered,2022,1,Q1
+PO0000109,SUP0015,Colombo Trading Co,SKU00004,Kitchen Blender,Appliances,647,32.0,20704.0,2022-11-12,2022-12-27,2023-01-12,16,No,Montreal DC,Delivered,2022,11,Q4
+PO0000110,SUP0014,Ho Chi Minh Apparel,SKU00027,Face Moisturizer,Beauty,1178,12.0,14136.0,2024-09-15,2024-10-05,2024-10-05,0,Yes,Vancouver DC,Delivered,2024,9,Q3
+PO0000111,SUP0013,Jakarta Industrial PT,SKU00007,Yoga Mat,Sports,615,12.0,7380.0,2024-11-06,2024-12-11,2024-12-16,5,No,Calgary DC,Delivered,2024,11,Q4
+PO0000112,SUP0011,Mumbai Textiles Ltd,SKU00030,Car Phone Mount,Automotive,629,6.0,3774.0,2024-11-05,2024-11-27,2024-12-06,9,No,Montreal DC,Delivered,2024,11,Q4
+PO0000113,SUP0019,Vancouver Pacific Trading,SKU00019,Water Bottle 1L,Sports,1041,10.0,10410.0,2024-09-29,2024-10-27,2024-10-27,0,Yes,Montreal DC,Delivered,2024,9,Q3
+PO0000114,SUP0011,Mumbai Textiles Ltd,SKU00018,Gaming Mouse,Electronics,1830,25.0,45750.0,2024-02-12,2024-03-05,2024-03-20,15,No,Vancouver DC,Delivered,2024,2,Q1
+PO0000115,SUP0008,Hamburg Quality Products,SKU00019,Water Bottle 1L,Sports,891,10.0,8910.0,2024-02-24,2024-03-26,2024-04-03,8,No,Toronto DC,Delivered,2024,2,Q1
+PO0000116,SUP0011,Mumbai Textiles Ltd,SKU00024,USB-C Hub,Electronics,1409,20.0,28180.0,2024-08-26,2024-09-17,2024-09-17,0,Yes,Vancouver DC,Delivered,2024,8,Q3
+PO0000117,SUP0016,Guadalajara Auto Parts,SKU00002,Office Chair,Furniture,729,120.0,87480.0,2022-09-16,2022-10-04,2022-10-21,17,No,Toronto DC,Delivered,2022,9,Q3
+PO0000118,SUP0015,Colombo Trading Co,SKU00004,Kitchen Blender,Appliances,345,32.0,11040.0,2024-12-13,2025-01-27,2025-01-27,0,Yes,Calgary DC,In Transit,2024,12,Q4
+PO0000119,SUP0005,Singapore Trade Hub,SKU00003,Winter Jacket,Apparel,1468,55.0,80740.0,2024-08-19,2024-09-26,2024-09-26,0,Yes,Calgary DC,Delivered,2024,8,Q3
+PO0000120,SUP0003,Shenzhen Tech Components,SKU00028,Dog Leash Set,Pet Supplies,698,8.0,5584.0,2023-11-04,2023-12-05,2023-12-05,0,Yes,Calgary DC,Delivered,2023,11,Q4
+PO0000121,SUP0018,Toronto Wholesale Inc,SKU00002,Office Chair,Furniture,1936,120.0,232320.0,2022-05-21,2022-07-15,2022-07-15,0,Yes,Montreal DC,Delivered,2022,5,Q2
+PO0000122,SUP0008,Hamburg Quality Products,SKU00024,USB-C Hub,Electronics,1607,20.0,32140.0,2022-07-05,2022-08-05,2022-08-19,14,No,Toronto DC,Delivered,2022,7,Q3
+PO0000123,SUP0015,Colombo Trading Co,SKU00006,Laptop Stand,Electronics,1680,18.0,30240.0,2023-09-06,2023-10-21,2023-10-21,0,Yes,Toronto DC,Delivered,2023,9,Q3
+PO0000124,SUP0010,Seoul Parts Manufacturing,SKU00012,Backpack,Accessories,1137,28.0,31836.0,2024-02-07,2024-02-29,2024-02-29,0,Yes,Calgary DC,Delivered,2024,2,Q1
+PO0000125,SUP0019,Vancouver Pacific Trading,SKU00022,Resistance Bands,Sports,1298,7.0,9086.0,2023-01-04,2023-02-01,2023-02-01,0,Yes,Calgary DC,Delivered,2023,1,Q1
+PO0000126,SUP0020,Calgary Resource Supply,SKU00022,Resistance Bands,Sports,343,7.0,2401.0,2023-05-09,2023-06-09,2023-06-25,16,No,Vancouver DC,Delivered,2023,5,Q2
+PO0000127,SUP0015,Colombo Trading Co,SKU00021,Air Purifier,Appliances,69,80.0,5520.0,2023-06-05,2023-07-20,2023-07-20,0,Yes,Calgary DC,Delivered,2023,6,Q2
+PO0000128,SUP0010,Seoul Parts Manufacturing,SKU00022,Resistance Bands,Sports,757,7.0,5299.0,2022-11-20,2022-12-12,2022-12-12,0,Yes,Montreal DC,Delivered,2022,11,Q4
+PO0000129,SUP0014,Ho Chi Minh Apparel,SKU00023,Bamboo Cutting Board,Kitchen,457,12.0,5484.0,2023-05-28,2023-06-17,2023-07-02,15,No,Calgary DC,Delivered,2023,5,Q2
+PO0000130,SUP0016,Guadalajara Auto Parts,SKU00004,Kitchen Blender,Appliances,1227,32.0,39264.0,2023-05-01,2023-05-19,2023-05-19,0,Yes,Montreal DC,Delivered,2023,5,Q2
+PO0000131,SUP0010,Seoul Parts Manufacturing,SKU00001,Wireless Headphones,Electronics,1821,45.0,81945.0,2024-03-21,2024-04-12,2024-04-12,0,Yes,Toronto DC,Delivered,2024,3,Q1
+PO0000132,SUP0020,Calgary Resource Supply,SKU00024,USB-C Hub,Electronics,521,20.0,10420.0,2024-10-14,2024-11-14,2024-11-14,0,Yes,Montreal DC,Delivered,2024,10,Q4
+PO0000133,SUP0008,Hamburg Quality Products,SKU00021,Air Purifier,Appliances,1597,80.0,127760.0,2023-01-25,2023-02-25,2023-02-25,0,Yes,Vancouver DC,Delivered,2023,1,Q1
+PO0000134,SUP0004,Busan Industrial Corp,SKU00029,Kids Building Blocks,Toys,118,11.0,1298.0,2022-03-22,2022-04-26,2022-04-26,0,Yes,Montreal DC,Delivered,2022,3,Q1
+PO0000135,SUP0005,Singapore Trade Hub,SKU00003,Winter Jacket,Apparel,409,55.0,22495.0,2023-08-28,2023-10-05,2023-10-05,0,Yes,Vancouver DC,Delivered,2023,8,Q3
+PO0000136,SUP0005,Singapore Trade Hub,SKU00026,Standing Desk,Furniture,608,185.0,112480.0,2024-01-20,2024-02-27,2024-02-27,0,Yes,Vancouver DC,Delivered,2024,1,Q1
+PO0000137,SUP0009,Taipei Electronics Co,SKU00030,Car Phone Mount,Automotive,743,6.0,4458.0,2024-09-13,2024-10-22,2024-10-22,0,Yes,Toronto DC,Delivered,2024,9,Q3
+PO0000138,SUP0015,Colombo Trading Co,SKU00003,Winter Jacket,Apparel,1533,55.0,84315.0,2022-10-16,2022-11-30,2022-12-08,8,No,Calgary DC,Delivered,2022,10,Q4
+PO0000139,SUP0018,Toronto Wholesale Inc,SKU00012,Backpack,Accessories,1148,28.0,32144.0,2022-07-04,2022-08-28,2022-08-28,0,Yes,Toronto DC,Delivered,2022,7,Q3
+PO0000140,SUP0015,Colombo Trading Co,SKU00012,Backpack,Accessories,1357,28.0,37996.0,2023-06-21,2023-08-05,2023-08-05,0,Yes,Montreal DC,Delivered,2023,6,Q2
+PO0000141,SUP0004,Busan Industrial Corp,SKU00022,Resistance Bands,Sports,1860,7.0,13020.0,2023-04-24,2023-05-29,2023-05-29,0,Yes,Montreal DC,Delivered,2023,4,Q2
+PO0000142,SUP0020,Calgary Resource Supply,SKU00008,Coffee Maker,Appliances,668,38.0,25384.0,2022-05-10,2022-06-10,2022-06-25,15,No,Calgary DC,Delivered,2022,5,Q2
+PO0000143,SUP0004,Busan Industrial Corp,SKU00005,Running Shoes,Footwear,1058,48.0,50784.0,2022-04-03,2022-05-08,2022-05-08,0,Yes,Toronto DC,Delivered,2022,4,Q2
+PO0000144,SUP0004,Busan Industrial Corp,SKU00008,Coffee Maker,Appliances,1423,38.0,54074.0,2022-10-05,2022-11-09,2022-11-09,0,Yes,Calgary DC,Delivered,2022,10,Q4
+PO0000145,SUP0019,Vancouver Pacific Trading,SKU00024,USB-C Hub,Electronics,1757,20.0,35140.0,2022-11-13,2022-12-11,2022-12-11,0,Yes,Calgary DC,Delivered,2022,11,Q4
+PO0000146,SUP0020,Calgary Resource Supply,SKU00014,Smart Watch,Electronics,494,95.0,46930.0,2023-07-27,2023-08-27,2023-08-27,0,Yes,Calgary DC,Delivered,2023,7,Q3
+PO0000147,SUP0015,Colombo Trading Co,SKU00008,Coffee Maker,Appliances,802,38.0,30476.0,2024-01-13,2024-02-27,2024-03-02,4,No,Montreal DC,Delivered,2024,1,Q1
+PO0000148,SUP0002,Ningbo Global Exports,SKU00013,Protein Powder 2kg,Health,1993,18.0,35874.0,2023-07-20,2023-08-08,2023-08-15,7,No,Calgary DC,Delivered,2023,7,Q3
+PO0000149,SUP0003,Shenzhen Tech Components,SKU00022,Resistance Bands,Sports,153,7.0,1071.0,2023-03-11,2023-04-11,2023-05-01,20,No,Montreal DC,Delivered,2023,3,Q1
+PO0000150,SUP0008,Hamburg Quality Products,SKU00005,Running Shoes,Footwear,1185,48.0,56880.0,2023-02-25,2023-03-28,2023-03-31,3,No,Vancouver DC,Delivered,2023,2,Q1
+PO0000151,SUP0019,Vancouver Pacific Trading,SKU00007,Yoga Mat,Sports,1665,12.0,19980.0,2023-04-23,2023-05-21,2023-05-21,0,Yes,Toronto DC,Delivered,2023,4,Q2
+PO0000152,SUP0009,Taipei Electronics Co,SKU00028,Dog Leash Set,Pet Supplies,1685,8.0,13480.0,2022-10-24,2022-12-02,2022-12-02,0,Yes,Vancouver DC,Delivered,2022,10,Q4
+PO0000153,SUP0004,Busan Industrial Corp,SKU00022,Resistance Bands,Sports,1667,7.0,11669.0,2022-02-22,2022-03-29,2022-03-29,0,Yes,Vancouver DC,Delivered,2022,2,Q1
+PO0000154,SUP0019,Vancouver Pacific Trading,SKU00011,Bluetooth Speaker,Electronics,309,30.0,9270.0,2022-02-02,2022-03-02,2022-03-02,0,Yes,Calgary DC,Delivered,2022,2,Q1
+PO0000155,SUP0017,Montreal Distribution,SKU00004,Kitchen Blender,Appliances,791,32.0,25312.0,2022-05-11,2022-07-02,2022-07-02,0,Yes,Toronto DC,Delivered,2022,5,Q2
+PO0000156,SUP0015,Colombo Trading Co,SKU00017,Vitamin C 90 Pack,Health,1654,8.0,13232.0,2023-03-30,2023-05-14,2023-05-14,0,Yes,Montreal DC,Delivered,2023,3,Q1
+PO0000157,SUP0015,Colombo Trading Co,SKU00021,Air Purifier,Appliances,1785,80.0,142800.0,2022-03-05,2022-04-19,2022-04-21,2,No,Calgary DC,Delivered,2022,3,Q1
+PO0000158,SUP0014,Ho Chi Minh Apparel,SKU00022,Resistance Bands,Sports,958,7.0,6706.0,2022-08-10,2022-08-30,2022-08-30,0,Yes,Toronto DC,Delivered,2022,8,Q3
+PO0000159,SUP0003,Shenzhen Tech Components,SKU00011,Bluetooth Speaker,Electronics,1328,30.0,39840.0,2022-10-31,2022-12-01,2022-12-01,0,Yes,Montreal DC,Delivered,2022,10,Q4
+PO0000160,SUP0013,Jakarta Industrial PT,SKU00020,Throw Blanket,Home,1289,15.0,19335.0,2024-12-22,2025-01-26,2025-01-26,0,Yes,Calgary DC,In Transit,2024,12,Q4
+PO0000161,SUP0004,Busan Industrial Corp,SKU00026,Standing Desk,Furniture,490,185.0,90650.0,2022-08-23,2022-09-27,2022-09-27,0,Yes,Calgary DC,Delivered,2022,8,Q3
+PO0000162,SUP0015,Colombo Trading Co,SKU00029,Kids Building Blocks,Toys,978,11.0,10758.0,2023-04-13,2023-05-28,2023-05-28,0,Yes,Calgary DC,Delivered,2023,4,Q2
+PO0000163,SUP0014,Ho Chi Minh Apparel,SKU00024,USB-C Hub,Electronics,1412,20.0,28240.0,2022-07-14,2022-08-03,2022-08-03,0,Yes,Montreal DC,Delivered,2022,7,Q3
+PO0000164,SUP0012,Bangkok Consumer Goods,SKU00005,Running Shoes,Footwear,224,48.0,10752.0,2024-08-29,2024-10-20,2024-10-20,0,Yes,Toronto DC,Delivered,2024,8,Q3
+PO0000165,SUP0014,Ho Chi Minh Apparel,SKU00004,Kitchen Blender,Appliances,1251,32.0,40032.0,2024-02-03,2024-02-23,2024-02-23,0,Yes,Montreal DC,Delivered,2024,2,Q1
+PO0000166,SUP0004,Busan Industrial Corp,SKU00014,Smart Watch,Electronics,1526,95.0,144970.0,2023-12-26,2024-01-30,2024-02-13,14,No,Toronto DC,Delivered,2023,12,Q4
+PO0000167,SUP0010,Seoul Parts Manufacturing,SKU00020,Throw Blanket,Home,1089,15.0,16335.0,2023-10-02,2023-10-24,2023-10-24,0,Yes,Vancouver DC,Delivered,2023,10,Q4
+PO0000168,SUP0005,Singapore Trade Hub,SKU00022,Resistance Bands,Sports,767,7.0,5369.0,2024-09-14,2024-10-22,2024-10-30,8,No,Montreal DC,Delivered,2024,9,Q3
+PO0000169,SUP0004,Busan Industrial Corp,SKU00025,Insulated Lunch Bag,Accessories,928,9.0,8352.0,2023-07-25,2023-08-29,2023-08-29,0,Yes,Toronto DC,Delivered,2023,7,Q3
+PO0000170,SUP0020,Calgary Resource Supply,SKU00030,Car Phone Mount,Automotive,1489,6.0,8934.0,2023-07-02,2023-08-02,2023-08-02,0,Yes,Montreal DC,Delivered,2023,7,Q3
+PO0000171,SUP0011,Mumbai Textiles Ltd,SKU00012,Backpack,Accessories,1209,28.0,33852.0,2022-01-13,2022-02-04,2022-02-10,6,No,Calgary DC,Delivered,2022,1,Q1
+PO0000172,SUP0003,Shenzhen Tech Components,SKU00005,Running Shoes,Footwear,490,48.0,23520.0,2022-03-04,2022-04-04,2022-04-04,0,Yes,Calgary DC,Delivered,2022,3,Q1
+PO0000173,SUP0014,Ho Chi Minh Apparel,SKU00015,Cookware Set,Kitchen,1527,75.0,114525.0,2023-11-30,2023-12-20,2023-12-20,0,Yes,Montreal DC,Delivered,2023,11,Q4
+PO0000174,SUP0019,Vancouver Pacific Trading,SKU00020,Throw Blanket,Home,1595,15.0,23925.0,2022-06-23,2022-07-21,2022-07-21,0,Yes,Toronto DC,Delivered,2022,6,Q2
+PO0000175,SUP0003,Shenzhen Tech Components,SKU00009,Denim Jeans,Apparel,955,22.0,21010.0,2024-06-26,2024-07-27,2024-07-27,0,Yes,Calgary DC,Delivered,2024,6,Q2
+PO0000176,SUP0009,Taipei Electronics Co,SKU00007,Yoga Mat,Sports,277,12.0,3324.0,2024-11-15,2024-12-24,2024-12-24,0,Yes,Montreal DC,Delivered,2024,11,Q4
+PO0000177,SUP0019,Vancouver Pacific Trading,SKU00016,Camping Tent,Outdoors,859,110.0,94490.0,2024-12-15,2025-01-12,2025-01-12,0,Yes,Toronto DC,In Transit,2024,12,Q4
+PO0000178,SUP0001,Shanghai Premier Manufacturing,SKU00007,Yoga Mat,Sports,1615,12.0,19380.0,2023-09-10,2023-09-25,2023-09-25,0,Yes,Montreal DC,Delivered,2023,9,Q3
+PO0000179,SUP0010,Seoul Parts Manufacturing,SKU00011,Bluetooth Speaker,Electronics,931,30.0,27930.0,2022-09-03,2022-09-25,2022-09-25,0,Yes,Vancouver DC,Delivered,2022,9,Q3
+PO0000180,SUP0005,Singapore Trade Hub,SKU00013,Protein Powder 2kg,Health,1756,18.0,31608.0,2024-12-26,2025-02-02,2025-02-02,0,Yes,Montreal DC,In Transit,2024,12,Q4
+PO0000181,SUP0003,Shenzhen Tech Components,SKU00013,Protein Powder 2kg,Health,1936,18.0,34848.0,2022-03-28,2022-04-28,2022-04-28,0,Yes,Toronto DC,Delivered,2022,3,Q1
+PO0000182,SUP0011,Mumbai Textiles Ltd,SKU00019,Water Bottle 1L,Sports,1361,10.0,13610.0,2024-05-29,2024-06-20,2024-06-20,0,Yes,Calgary DC,Delivered,2024,5,Q2
+PO0000183,SUP0010,Seoul Parts Manufacturing,SKU00004,Kitchen Blender,Appliances,401,32.0,12832.0,2024-04-09,2024-05-01,2024-05-02,1,No,Calgary DC,Delivered,2024,4,Q2
+PO0000184,SUP0012,Bangkok Consumer Goods,SKU00003,Winter Jacket,Apparel,1256,55.0,69080.0,2024-06-13,2024-08-04,2024-08-04,0,Yes,Calgary DC,Delivered,2024,6,Q2
+PO0000185,SUP0017,Montreal Distribution,SKU00003,Winter Jacket,Apparel,503,55.0,27665.0,2024-03-21,2024-05-12,2024-05-12,0,Yes,Montreal DC,Delivered,2024,3,Q1
+PO0000186,SUP0006,Hong Kong Merchandise Ltd,SKU00003,Winter Jacket,Apparel,447,55.0,24585.0,2024-11-11,2024-12-13,2024-12-13,0,Yes,Montreal DC,Delivered,2024,11,Q4
+PO0000187,SUP0012,Bangkok Consumer Goods,SKU00024,USB-C Hub,Electronics,574,20.0,11480.0,2022-10-30,2022-12-21,2022-12-21,0,Yes,Vancouver DC,Delivered,2022,10,Q4
+PO0000188,SUP0006,Hong Kong Merchandise Ltd,SKU00020,Throw Blanket,Home,1632,15.0,24480.0,2022-11-10,2022-12-12,2022-12-12,0,Yes,Calgary DC,Delivered,2022,11,Q4
+PO0000189,SUP0015,Colombo Trading Co,SKU00025,Insulated Lunch Bag,Accessories,1329,9.0,11961.0,2024-07-08,2024-08-22,2024-08-22,0,Yes,Montreal DC,Delivered,2024,7,Q3
+PO0000190,SUP0011,Mumbai Textiles Ltd,SKU00005,Running Shoes,Footwear,1343,48.0,64464.0,2024-06-19,2024-07-11,2024-07-11,0,Yes,Montreal DC,Delivered,2024,6,Q2
+PO0000191,SUP0009,Taipei Electronics Co,SKU00019,Water Bottle 1L,Sports,685,10.0,6850.0,2022-04-26,2022-06-04,2022-06-04,0,Yes,Calgary DC,Delivered,2022,4,Q2
+PO0000192,SUP0015,Colombo Trading Co,SKU00002,Office Chair,Furniture,207,120.0,24840.0,2022-04-27,2022-06-11,2022-06-23,12,No,Toronto DC,Delivered,2022,4,Q2
+PO0000193,SUP0020,Calgary Resource Supply,SKU00020,Throw Blanket,Home,1185,15.0,17775.0,2024-11-04,2024-12-05,2024-12-05,0,Yes,Toronto DC,Delivered,2024,11,Q4
+PO0000194,SUP0015,Colombo Trading Co,SKU00030,Car Phone Mount,Automotive,1076,6.0,6456.0,2023-01-21,2023-03-07,2023-03-07,0,Yes,Vancouver DC,Delivered,2023,1,Q1
+PO0000195,SUP0002,Ningbo Global Exports,SKU00015,Cookware Set,Kitchen,222,75.0,16650.0,2022-07-31,2022-08-19,2022-08-30,11,No,Vancouver DC,Delivered,2022,7,Q3
+PO0000196,SUP0002,Ningbo Global Exports,SKU00008,Coffee Maker,Appliances,1298,38.0,49324.0,2024-06-15,2024-07-04,2024-07-04,0,Yes,Vancouver DC,Delivered,2024,6,Q2
+PO0000197,SUP0012,Bangkok Consumer Goods,SKU00012,Backpack,Accessories,742,28.0,20776.0,2023-08-03,2023-09-24,2023-09-24,0,Yes,Toronto DC,Delivered,2023,8,Q3
+PO0000198,SUP0011,Mumbai Textiles Ltd,SKU00003,Winter Jacket,Apparel,841,55.0,46255.0,2023-11-07,2023-11-29,2023-11-29,0,Yes,Montreal DC,Delivered,2023,11,Q4
+PO0000199,SUP0009,Taipei Electronics Co,SKU00024,USB-C Hub,Electronics,1409,20.0,28180.0,2022-11-04,2022-12-13,2022-12-13,0,Yes,Vancouver DC,Delivered,2022,11,Q4
+PO0000200,SUP0012,Bangkok Consumer Goods,SKU00010,Desk Lamp,Furniture,1971,20.0,39420.0,2024-03-13,2024-05-04,2024-05-04,0,Yes,Toronto DC,Delivered,2024,3,Q1
+PO0000201,SUP0010,Seoul Parts Manufacturing,SKU00018,Gaming Mouse,Electronics,1422,25.0,35550.0,2024-02-11,2024-03-04,2024-03-15,11,No,Toronto DC,Delivered,2024,2,Q1
+PO0000202,SUP0014,Ho Chi Minh Apparel,SKU00017,Vitamin C 90 Pack,Health,419,8.0,3352.0,2024-01-12,2024-02-01,2024-02-01,0,Yes,Vancouver DC,Delivered,2024,1,Q1
+PO0000203,SUP0011,Mumbai Textiles Ltd,SKU00025,Insulated Lunch Bag,Accessories,331,9.0,2979.0,2024-09-22,2024-10-14,2024-10-14,0,Yes,Vancouver DC,Delivered,2024,9,Q3
+PO0000204,SUP0003,Shenzhen Tech Components,SKU00010,Desk Lamp,Furniture,1760,20.0,35200.0,2022-07-27,2022-08-27,2022-08-27,0,Yes,Toronto DC,Delivered,2022,7,Q3
+PO0000205,SUP0011,Mumbai Textiles Ltd,SKU00029,Kids Building Blocks,Toys,382,11.0,4202.0,2022-09-26,2022-10-18,2022-10-18,0,Yes,Vancouver DC,Delivered,2022,9,Q3
+PO0000206,SUP0020,Calgary Resource Supply,SKU00026,Standing Desk,Furniture,796,185.0,147260.0,2022-12-06,2023-01-06,2023-01-06,0,Yes,Vancouver DC,Delivered,2022,12,Q4
+PO0000207,SUP0015,Colombo Trading Co,SKU00020,Throw Blanket,Home,539,15.0,8085.0,2023-08-07,2023-09-21,2023-09-21,0,Yes,Montreal DC,Delivered,2023,8,Q3
+PO0000208,SUP0016,Guadalajara Auto Parts,SKU00029,Kids Building Blocks,Toys,1218,11.0,13398.0,2023-02-02,2023-02-20,2023-02-20,0,Yes,Calgary DC,Delivered,2023,2,Q1
+PO0000209,SUP0015,Colombo Trading Co,SKU00025,Insulated Lunch Bag,Accessories,907,9.0,8163.0,2023-08-01,2023-09-15,2023-09-15,0,Yes,Vancouver DC,Delivered,2023,8,Q3
+PO0000210,SUP0007,Rotterdam European Goods,SKU00026,Standing Desk,Furniture,1034,185.0,191290.0,2022-10-11,2022-12-06,2022-12-06,0,Yes,Montreal DC,Delivered,2022,10,Q4
+PO0000211,SUP0018,Toronto Wholesale Inc,SKU00030,Car Phone Mount,Automotive,633,6.0,3798.0,2022-07-30,2022-09-23,2022-10-10,17,No,Toronto DC,Delivered,2022,7,Q3
+PO0000212,SUP0006,Hong Kong Merchandise Ltd,SKU00009,Denim Jeans,Apparel,945,22.0,20790.0,2024-07-09,2024-08-10,2024-08-10,0,Yes,Toronto DC,Delivered,2024,7,Q3
+PO0000213,SUP0008,Hamburg Quality Products,SKU00027,Face Moisturizer,Beauty,899,12.0,10788.0,2024-07-12,2024-08-12,2024-08-24,12,No,Toronto DC,Delivered,2024,7,Q3
+PO0000214,SUP0013,Jakarta Industrial PT,SKU00017,Vitamin C 90 Pack,Health,217,8.0,1736.0,2024-02-05,2024-03-11,2024-03-11,0,Yes,Montreal DC,Delivered,2024,2,Q1
+PO0000215,SUP0008,Hamburg Quality Products,SKU00001,Wireless Headphones,Electronics,1381,45.0,62145.0,2023-10-15,2023-11-15,2023-11-19,4,No,Montreal DC,Delivered,2023,10,Q4
+PO0000216,SUP0005,Singapore Trade Hub,SKU00005,Running Shoes,Footwear,1017,48.0,48816.0,2022-03-20,2022-04-27,2022-05-07,10,No,Vancouver DC,Delivered,2022,3,Q1
+PO0000217,SUP0016,Guadalajara Auto Parts,SKU00015,Cookware Set,Kitchen,491,75.0,36825.0,2022-01-11,2022-01-29,2022-01-29,0,Yes,Vancouver DC,Delivered,2022,1,Q1
+PO0000218,SUP0018,Toronto Wholesale Inc,SKU00024,USB-C Hub,Electronics,640,20.0,12800.0,2024-12-16,2025-02-09,2025-02-09,0,Yes,Vancouver DC,In Transit,2024,12,Q4
+PO0000219,SUP0010,Seoul Parts Manufacturing,SKU00004,Kitchen Blender,Appliances,1675,32.0,53600.0,2022-04-08,2022-04-30,2022-04-30,0,Yes,Calgary DC,Delivered,2022,4,Q2
+PO0000220,SUP0003,Shenzhen Tech Components,SKU00004,Kitchen Blender,Appliances,1344,32.0,43008.0,2024-10-20,2024-11-20,2024-11-20,0,Yes,Vancouver DC,Delivered,2024,10,Q4
+PO0000221,SUP0005,Singapore Trade Hub,SKU00010,Desk Lamp,Furniture,542,20.0,10840.0,2024-05-29,2024-07-06,2024-07-06,0,Yes,Calgary DC,Delivered,2024,5,Q2
+PO0000222,SUP0006,Hong Kong Merchandise Ltd,SKU00022,Resistance Bands,Sports,188,7.0,1316.0,2022-06-25,2022-07-27,2022-08-13,17,No,Toronto DC,Delivered,2022,6,Q2
+PO0000223,SUP0013,Jakarta Industrial PT,SKU00028,Dog Leash Set,Pet Supplies,814,8.0,6512.0,2024-08-20,2024-09-24,2024-09-24,0,Yes,Montreal DC,Delivered,2024,8,Q3
+PO0000224,SUP0001,Shanghai Premier Manufacturing,SKU00012,Backpack,Accessories,1395,28.0,39060.0,2022-05-19,2022-06-03,2022-06-03,0,Yes,Toronto DC,Delivered,2022,5,Q2
+PO0000225,SUP0019,Vancouver Pacific Trading,SKU00024,USB-C Hub,Electronics,1168,20.0,23360.0,2023-11-12,2023-12-10,2023-12-10,0,Yes,Montreal DC,Delivered,2023,11,Q4
+PO0000226,SUP0006,Hong Kong Merchandise Ltd,SKU00027,Face Moisturizer,Beauty,1711,12.0,20532.0,2024-08-09,2024-09-10,2024-09-10,0,Yes,Vancouver DC,Delivered,2024,8,Q3
+PO0000227,SUP0003,Shenzhen Tech Components,SKU00023,Bamboo Cutting Board,Kitchen,139,12.0,1668.0,2024-07-26,2024-08-26,2024-08-26,0,Yes,Vancouver DC,Delivered,2024,7,Q3
+PO0000228,SUP0002,Ningbo Global Exports,SKU00011,Bluetooth Speaker,Electronics,1719,30.0,51570.0,2023-09-28,2023-10-17,2023-10-17,0,Yes,Calgary DC,Delivered,2023,9,Q3
+PO0000229,SUP0009,Taipei Electronics Co,SKU00002,Office Chair,Furniture,1649,120.0,197880.0,2023-01-27,2023-03-07,2023-03-07,0,Yes,Toronto DC,Delivered,2023,1,Q1
+PO0000230,SUP0011,Mumbai Textiles Ltd,SKU00009,Denim Jeans,Apparel,869,22.0,19118.0,2022-09-12,2022-10-04,2022-10-04,0,Yes,Calgary DC,Delivered,2022,9,Q3
+PO0000231,SUP0013,Jakarta Industrial PT,SKU00011,Bluetooth Speaker,Electronics,802,30.0,24060.0,2023-01-18,2023-02-22,2023-02-22,0,Yes,Montreal DC,Delivered,2023,1,Q1
+PO0000232,SUP0003,Shenzhen Tech Components,SKU00024,USB-C Hub,Electronics,1734,20.0,34680.0,2024-05-19,2024-06-19,2024-06-19,0,Yes,Vancouver DC,Delivered,2024,5,Q2
+PO0000233,SUP0018,Toronto Wholesale Inc,SKU00010,Desk Lamp,Furniture,1403,20.0,28060.0,2023-10-20,2023-12-14,2023-12-14,0,Yes,Montreal DC,Delivered,2023,10,Q4
+PO0000234,SUP0010,Seoul Parts Manufacturing,SKU00015,Cookware Set,Kitchen,769,75.0,57675.0,2024-05-22,2024-06-13,2024-06-13,0,Yes,Calgary DC,Delivered,2024,5,Q2
+PO0000235,SUP0002,Ningbo Global Exports,SKU00024,USB-C Hub,Electronics,612,20.0,12240.0,2023-12-24,2024-01-12,2024-02-01,20,No,Toronto DC,Delivered,2023,12,Q4
+PO0000236,SUP0003,Shenzhen Tech Components,SKU00022,Resistance Bands,Sports,1585,7.0,11095.0,2024-04-11,2024-05-12,2024-05-12,0,Yes,Vancouver DC,Delivered,2024,4,Q2
+PO0000237,SUP0001,Shanghai Premier Manufacturing,SKU00005,Running Shoes,Footwear,533,48.0,25584.0,2024-06-16,2024-07-01,2024-07-01,0,Yes,Montreal DC,Delivered,2024,6,Q2
+PO0000238,SUP0012,Bangkok Consumer Goods,SKU00013,Protein Powder 2kg,Health,971,18.0,17478.0,2022-03-08,2022-04-29,2022-04-29,0,Yes,Montreal DC,Delivered,2022,3,Q1
+PO0000239,SUP0012,Bangkok Consumer Goods,SKU00015,Cookware Set,Kitchen,801,75.0,60075.0,2022-06-07,2022-07-29,2022-07-29,0,Yes,Calgary DC,Delivered,2022,6,Q2
+PO0000240,SUP0011,Mumbai Textiles Ltd,SKU00021,Air Purifier,Appliances,103,80.0,8240.0,2023-07-25,2023-08-16,2023-08-24,8,No,Vancouver DC,Delivered,2023,7,Q3
+PO0000241,SUP0016,Guadalajara Auto Parts,SKU00017,Vitamin C 90 Pack,Health,1637,8.0,13096.0,2024-03-03,2024-03-21,2024-03-21,0,Yes,Montreal DC,Delivered,2024,3,Q1
+PO0000242,SUP0015,Colombo Trading Co,SKU00007,Yoga Mat,Sports,327,12.0,3924.0,2023-08-08,2023-09-22,2023-09-22,0,Yes,Toronto DC,Delivered,2023,8,Q3
+PO0000243,SUP0015,Colombo Trading Co,SKU00006,Laptop Stand,Electronics,1781,18.0,32058.0,2024-06-30,2024-08-14,2024-08-17,3,No,Montreal DC,Delivered,2024,6,Q2
+PO0000244,SUP0012,Bangkok Consumer Goods,SKU00023,Bamboo Cutting Board,Kitchen,1875,12.0,22500.0,2022-05-13,2022-07-04,2022-07-04,0,Yes,Montreal DC,Delivered,2022,5,Q2
+PO0000245,SUP0006,Hong Kong Merchandise Ltd,SKU00023,Bamboo Cutting Board,Kitchen,298,12.0,3576.0,2022-12-23,2023-01-24,2023-01-24,0,Yes,Vancouver DC,Delivered,2022,12,Q4
+PO0000246,SUP0005,Singapore Trade Hub,SKU00008,Coffee Maker,Appliances,1222,38.0,46436.0,2024-10-08,2024-11-15,2024-11-15,0,Yes,Montreal DC,Delivered,2024,10,Q4
+PO0000247,SUP0015,Colombo Trading Co,SKU00026,Standing Desk,Furniture,184,185.0,34040.0,2022-09-23,2022-11-07,2022-11-27,20,No,Montreal DC,Delivered,2022,9,Q3
+PO0000248,SUP0013,Jakarta Industrial PT,SKU00023,Bamboo Cutting Board,Kitchen,888,12.0,10656.0,2024-09-07,2024-10-12,2024-10-12,0,Yes,Toronto DC,Delivered,2024,9,Q3
+PO0000249,SUP0005,Singapore Trade Hub,SKU00011,Bluetooth Speaker,Electronics,1109,30.0,33270.0,2022-06-01,2022-07-09,2022-07-09,0,Yes,Montreal DC,Delivered,2022,6,Q2
+PO0000250,SUP0005,Singapore Trade Hub,SKU00029,Kids Building Blocks,Toys,1915,11.0,21065.0,2023-01-08,2023-02-15,2023-02-15,0,Yes,Toronto DC,Delivered,2023,1,Q1
+PO0000251,SUP0004,Busan Industrial Corp,SKU00017,Vitamin C 90 Pack,Health,710,8.0,5680.0,2022-11-10,2022-12-15,2022-12-15,0,Yes,Vancouver DC,Delivered,2022,11,Q4
+PO0000252,SUP0012,Bangkok Consumer Goods,SKU00017,Vitamin C 90 Pack,Health,1350,8.0,10800.0,2023-08-05,2023-09-26,2023-09-26,0,Yes,Montreal DC,Delivered,2023,8,Q3
+PO0000253,SUP0005,Singapore Trade Hub,SKU00021,Air Purifier,Appliances,1079,80.0,86320.0,2023-09-13,2023-10-21,2023-10-21,0,Yes,Vancouver DC,Delivered,2023,9,Q3
+PO0000254,SUP0019,Vancouver Pacific Trading,SKU00019,Water Bottle 1L,Sports,1525,10.0,15250.0,2022-11-12,2022-12-10,2022-12-10,0,Yes,Montreal DC,Delivered,2022,11,Q4
+PO0000255,SUP0019,Vancouver Pacific Trading,SKU00002,Office Chair,Furniture,1363,120.0,163560.0,2022-02-28,2022-03-28,2022-03-28,0,Yes,Montreal DC,Delivered,2022,2,Q1
+PO0000256,SUP0007,Rotterdam European Goods,SKU00025,Insulated Lunch Bag,Accessories,1069,9.0,9621.0,2024-05-03,2024-06-28,2024-06-28,0,Yes,Montreal DC,Delivered,2024,5,Q2
+PO0000257,SUP0010,Seoul Parts Manufacturing,SKU00016,Camping Tent,Outdoors,199,110.0,21890.0,2023-05-17,2023-06-08,2023-06-08,0,Yes,Toronto DC,Delivered,2023,5,Q2
+PO0000258,SUP0006,Hong Kong Merchandise Ltd,SKU00015,Cookware Set,Kitchen,746,75.0,55950.0,2024-05-01,2024-06-02,2024-06-02,0,Yes,Vancouver DC,Delivered,2024,5,Q2
+PO0000259,SUP0011,Mumbai Textiles Ltd,SKU00028,Dog Leash Set,Pet Supplies,317,8.0,2536.0,2023-10-16,2023-11-07,2023-11-19,12,No,Montreal DC,Delivered,2023,10,Q4
+PO0000260,SUP0017,Montreal Distribution,SKU00018,Gaming Mouse,Electronics,300,25.0,7500.0,2022-08-06,2022-09-27,2022-09-27,0,Yes,Montreal DC,Delivered,2022,8,Q3
+PO0000261,SUP0015,Colombo Trading Co,SKU00008,Coffee Maker,Appliances,1986,38.0,75468.0,2022-10-16,2022-11-30,2022-11-30,0,Yes,Calgary DC,Delivered,2022,10,Q4
+PO0000262,SUP0020,Calgary Resource Supply,SKU00014,Smart Watch,Electronics,1962,95.0,186390.0,2023-05-24,2023-06-24,2023-06-30,6,No,Montreal DC,Delivered,2023,5,Q2
+PO0000263,SUP0007,Rotterdam European Goods,SKU00025,Insulated Lunch Bag,Accessories,1006,9.0,9054.0,2022-11-23,2023-01-18,2023-02-03,16,No,Calgary DC,Delivered,2022,11,Q4
+PO0000264,SUP0010,Seoul Parts Manufacturing,SKU00016,Camping Tent,Outdoors,1085,110.0,119350.0,2022-02-17,2022-03-11,2022-03-14,3,No,Calgary DC,Delivered,2022,2,Q1
+PO0000265,SUP0008,Hamburg Quality Products,SKU00007,Yoga Mat,Sports,1063,12.0,12756.0,2023-12-24,2024-01-24,2024-01-24,0,Yes,Calgary DC,Delivered,2023,12,Q4
+PO0000266,SUP0010,Seoul Parts Manufacturing,SKU00018,Gaming Mouse,Electronics,1857,25.0,46425.0,2022-01-17,2022-02-08,2022-02-08,0,Yes,Montreal DC,Delivered,2022,1,Q1
+PO0000267,SUP0012,Bangkok Consumer Goods,SKU00025,Insulated Lunch Bag,Accessories,154,9.0,1386.0,2024-04-05,2024-05-27,2024-05-27,0,Yes,Vancouver DC,Delivered,2024,4,Q2
+PO0000268,SUP0012,Bangkok Consumer Goods,SKU00018,Gaming Mouse,Electronics,972,25.0,24300.0,2023-08-15,2023-10-06,2023-10-06,0,Yes,Montreal DC,Delivered,2023,8,Q3
+PO0000269,SUP0020,Calgary Resource Supply,SKU00022,Resistance Bands,Sports,856,7.0,5992.0,2022-09-01,2022-10-02,2022-10-07,5,No,Montreal DC,Delivered,2022,9,Q3
+PO0000270,SUP0011,Mumbai Textiles Ltd,SKU00018,Gaming Mouse,Electronics,1092,25.0,27300.0,2024-01-19,2024-02-10,2024-02-10,0,Yes,Calgary DC,Delivered,2024,1,Q1
+PO0000271,SUP0017,Montreal Distribution,SKU00002,Office Chair,Furniture,732,120.0,87840.0,2022-04-03,2022-05-25,2022-05-25,0,Yes,Calgary DC,Delivered,2022,4,Q2
+PO0000272,SUP0017,Montreal Distribution,SKU00015,Cookware Set,Kitchen,336,75.0,25200.0,2022-11-02,2022-12-24,2023-01-13,20,No,Montreal DC,Delivered,2022,11,Q4
+PO0000273,SUP0020,Calgary Resource Supply,SKU00011,Bluetooth Speaker,Electronics,1564,30.0,46920.0,2022-11-29,2022-12-30,2023-01-12,13,No,Montreal DC,Delivered,2022,11,Q4
+PO0000274,SUP0019,Vancouver Pacific Trading,SKU00011,Bluetooth Speaker,Electronics,1501,30.0,45030.0,2024-11-04,2024-12-02,2024-12-02,0,Yes,Montreal DC,Delivered,2024,11,Q4
+PO0000275,SUP0016,Guadalajara Auto Parts,SKU00027,Face Moisturizer,Beauty,274,12.0,3288.0,2022-02-04,2022-02-22,2022-02-22,0,Yes,Calgary DC,Delivered,2022,2,Q1
+PO0000276,SUP0019,Vancouver Pacific Trading,SKU00010,Desk Lamp,Furniture,1392,20.0,27840.0,2022-02-24,2022-03-24,2022-03-24,0,Yes,Vancouver DC,Delivered,2022,2,Q1
+PO0000277,SUP0002,Ningbo Global Exports,SKU00019,Water Bottle 1L,Sports,1526,10.0,15260.0,2024-09-10,2024-09-29,2024-09-29,0,Yes,Calgary DC,Delivered,2024,9,Q3
+PO0000278,SUP0005,Singapore Trade Hub,SKU00027,Face Moisturizer,Beauty,1484,12.0,17808.0,2023-05-12,2023-06-19,2023-06-19,0,Yes,Toronto DC,Delivered,2023,5,Q2
+PO0000279,SUP0007,Rotterdam European Goods,SKU00001,Wireless Headphones,Electronics,895,45.0,40275.0,2024-06-22,2024-08-17,2024-08-17,0,Yes,Vancouver DC,Delivered,2024,6,Q2
+PO0000280,SUP0014,Ho Chi Minh Apparel,SKU00017,Vitamin C 90 Pack,Health,1112,8.0,8896.0,2024-08-23,2024-09-12,2024-09-12,0,Yes,Vancouver DC,Delivered,2024,8,Q3
+PO0000281,SUP0018,Toronto Wholesale Inc,SKU00011,Bluetooth Speaker,Electronics,404,30.0,12120.0,2024-09-06,2024-10-31,2024-10-31,0,Yes,Calgary DC,Delivered,2024,9,Q3
+PO0000282,SUP0018,Toronto Wholesale Inc,SKU00011,Bluetooth Speaker,Electronics,443,30.0,13290.0,2023-12-27,2024-02-20,2024-02-20,0,Yes,Vancouver DC,Delivered,2023,12,Q4
+PO0000283,SUP0009,Taipei Electronics Co,SKU00018,Gaming Mouse,Electronics,659,25.0,16475.0,2023-09-04,2023-10-13,2023-10-21,8,No,Montreal DC,Delivered,2023,9,Q3
+PO0000284,SUP0007,Rotterdam European Goods,SKU00023,Bamboo Cutting Board,Kitchen,1197,12.0,14364.0,2024-09-28,2024-11-23,2024-11-23,0,Yes,Montreal DC,Delivered,2024,9,Q3
+PO0000285,SUP0010,Seoul Parts Manufacturing,SKU00004,Kitchen Blender,Appliances,1633,32.0,52256.0,2024-02-17,2024-03-10,2024-03-23,13,No,Vancouver DC,Delivered,2024,2,Q1
+PO0000286,SUP0010,Seoul Parts Manufacturing,SKU00002,Office Chair,Furniture,955,120.0,114600.0,2023-08-13,2023-09-04,2023-09-04,0,Yes,Montreal DC,Delivered,2023,8,Q3
+PO0000287,SUP0016,Guadalajara Auto Parts,SKU00007,Yoga Mat,Sports,1201,12.0,14412.0,2023-02-18,2023-03-08,2023-03-08,0,Yes,Montreal DC,Delivered,2023,2,Q1
+PO0000288,SUP0005,Singapore Trade Hub,SKU00004,Kitchen Blender,Appliances,1903,32.0,60896.0,2023-05-06,2023-06-13,2023-06-13,0,Yes,Vancouver DC,Delivered,2023,5,Q2
+PO0000289,SUP0008,Hamburg Quality Products,SKU00002,Office Chair,Furniture,1017,120.0,122040.0,2022-07-25,2022-08-25,2022-08-25,0,Yes,Toronto DC,Delivered,2022,7,Q3
+PO0000290,SUP0005,Singapore Trade Hub,SKU00001,Wireless Headphones,Electronics,1853,45.0,83385.0,2022-11-20,2022-12-28,2022-12-28,0,Yes,Calgary DC,Delivered,2022,11,Q4
+PO0000291,SUP0016,Guadalajara Auto Parts,SKU00021,Air Purifier,Appliances,1372,80.0,109760.0,2023-02-13,2023-03-03,2023-03-03,0,Yes,Toronto DC,Delivered,2023,2,Q1
+PO0000292,SUP0003,Shenzhen Tech Components,SKU00021,Air Purifier,Appliances,1791,80.0,143280.0,2023-04-21,2023-05-22,2023-05-22,0,Yes,Toronto DC,Delivered,2023,4,Q2
+PO0000293,SUP0006,Hong Kong Merchandise Ltd,SKU00014,Smart Watch,Electronics,863,95.0,81985.0,2022-12-27,2023-01-28,2023-01-30,2,No,Calgary DC,Delivered,2022,12,Q4
+PO0000294,SUP0006,Hong Kong Merchandise Ltd,SKU00030,Car Phone Mount,Automotive,1213,6.0,7278.0,2023-08-16,2023-09-17,2023-09-17,0,Yes,Toronto DC,Delivered,2023,8,Q3
+PO0000295,SUP0011,Mumbai Textiles Ltd,SKU00010,Desk Lamp,Furniture,1871,20.0,37420.0,2024-07-19,2024-08-10,2024-08-10,0,Yes,Vancouver DC,Delivered,2024,7,Q3
+PO0000296,SUP0017,Montreal Distribution,SKU00015,Cookware Set,Kitchen,727,75.0,54525.0,2023-07-13,2023-09-03,2023-09-10,7,No,Vancouver DC,Delivered,2023,7,Q3
+PO0000297,SUP0015,Colombo Trading Co,SKU00021,Air Purifier,Appliances,740,80.0,59200.0,2023-06-11,2023-07-26,2023-07-26,0,Yes,Montreal DC,Delivered,2023,6,Q2
+PO0000298,SUP0019,Vancouver Pacific Trading,SKU00022,Resistance Bands,Sports,1358,7.0,9506.0,2023-01-31,2023-02-28,2023-02-28,0,Yes,Calgary DC,Delivered,2023,1,Q1
+PO0000299,SUP0014,Ho Chi Minh Apparel,SKU00017,Vitamin C 90 Pack,Health,245,8.0,1960.0,2023-11-03,2023-11-23,2023-11-23,0,Yes,Vancouver DC,Delivered,2023,11,Q4
+PO0000300,SUP0005,Singapore Trade Hub,SKU00016,Camping Tent,Outdoors,835,110.0,91850.0,2023-10-25,2023-12-02,2023-12-02,0,Yes,Vancouver DC,Delivered,2023,10,Q4
+PO0000301,SUP0015,Colombo Trading Co,SKU00025,Insulated Lunch Bag,Accessories,1530,9.0,13770.0,2023-07-01,2023-08-15,2023-08-15,0,Yes,Toronto DC,Delivered,2023,7,Q3
+PO0000302,SUP0009,Taipei Electronics Co,SKU00021,Air Purifier,Appliances,292,80.0,23360.0,2024-01-07,2024-02-15,2024-02-15,0,Yes,Calgary DC,Delivered,2024,1,Q1
+PO0000303,SUP0010,Seoul Parts Manufacturing,SKU00006,Laptop Stand,Electronics,1868,18.0,33624.0,2024-04-10,2024-05-02,2024-05-19,17,No,Montreal DC,Delivered,2024,4,Q2
+PO0000304,SUP0004,Busan Industrial Corp,SKU00021,Air Purifier,Appliances,498,80.0,39840.0,2023-08-28,2023-10-02,2023-10-02,0,Yes,Vancouver DC,Delivered,2023,8,Q3
+PO0000305,SUP0016,Guadalajara Auto Parts,SKU00005,Running Shoes,Footwear,1487,48.0,71376.0,2024-07-20,2024-08-07,2024-08-07,0,Yes,Calgary DC,Delivered,2024,7,Q3
+PO0000306,SUP0018,Toronto Wholesale Inc,SKU00026,Standing Desk,Furniture,1270,185.0,234950.0,2023-03-24,2023-05-18,2023-05-18,0,Yes,Toronto DC,Delivered,2023,3,Q1
+PO0000307,SUP0017,Montreal Distribution,SKU00015,Cookware Set,Kitchen,1205,75.0,90375.0,2024-12-17,2025-02-07,2025-02-07,0,Yes,Toronto DC,In Transit,2024,12,Q4
+PO0000308,SUP0002,Ningbo Global Exports,SKU00027,Face Moisturizer,Beauty,356,12.0,4272.0,2024-11-01,2024-11-20,2024-11-20,0,Yes,Vancouver DC,Delivered,2024,11,Q4
+PO0000309,SUP0011,Mumbai Textiles Ltd,SKU00028,Dog Leash Set,Pet Supplies,470,8.0,3760.0,2024-12-01,2024-12-23,2024-12-23,0,Yes,Calgary DC,Delivered,2024,12,Q4
+PO0000310,SUP0003,Shenzhen Tech Components,SKU00029,Kids Building Blocks,Toys,978,11.0,10758.0,2024-11-11,2024-12-12,2024-12-27,15,No,Vancouver DC,Delivered,2024,11,Q4
+PO0000311,SUP0017,Montreal Distribution,SKU00014,Smart Watch,Electronics,996,95.0,94620.0,2024-07-24,2024-09-14,2024-09-14,0,Yes,Montreal DC,Delivered,2024,7,Q3
+PO0000312,SUP0001,Shanghai Premier Manufacturing,SKU00013,Protein Powder 2kg,Health,1234,18.0,22212.0,2023-06-06,2023-06-21,2023-06-21,0,Yes,Toronto DC,Delivered,2023,6,Q2
+PO0000313,SUP0002,Ningbo Global Exports,SKU00014,Smart Watch,Electronics,173,95.0,16435.0,2023-12-07,2023-12-26,2023-12-26,0,Yes,Toronto DC,Delivered,2023,12,Q4
+PO0000314,SUP0016,Guadalajara Auto Parts,SKU00002,Office Chair,Furniture,327,120.0,39240.0,2023-08-11,2023-08-29,2023-08-29,0,Yes,Calgary DC,Delivered,2023,8,Q3
+PO0000315,SUP0012,Bangkok Consumer Goods,SKU00029,Kids Building Blocks,Toys,1907,11.0,20977.0,2024-02-23,2024-04-15,2024-04-30,15,No,Calgary DC,Delivered,2024,2,Q1
+PO0000316,SUP0013,Jakarta Industrial PT,SKU00003,Winter Jacket,Apparel,1150,55.0,63250.0,2022-09-30,2022-11-04,2022-11-04,0,Yes,Calgary DC,Delivered,2022,9,Q3
+PO0000317,SUP0017,Montreal Distribution,SKU00005,Running Shoes,Footwear,661,48.0,31728.0,2023-04-02,2023-05-24,2023-05-24,0,Yes,Calgary DC,Delivered,2023,4,Q2
+PO0000318,SUP0018,Toronto Wholesale Inc,SKU00014,Smart Watch,Electronics,556,95.0,52820.0,2024-12-25,2025-02-18,2025-03-03,13,No,Calgary DC,In Transit,2024,12,Q4
+PO0000319,SUP0012,Bangkok Consumer Goods,SKU00005,Running Shoes,Footwear,1534,48.0,73632.0,2023-07-19,2023-09-09,2023-09-16,7,No,Toronto DC,Delivered,2023,7,Q3
+PO0000320,SUP0002,Ningbo Global Exports,SKU00026,Standing Desk,Furniture,1859,185.0,343915.0,2024-05-08,2024-05-27,2024-05-27,0,Yes,Toronto DC,Delivered,2024,5,Q2
+PO0000321,SUP0008,Hamburg Quality Products,SKU00007,Yoga Mat,Sports,964,12.0,11568.0,2022-05-18,2022-06-18,2022-06-18,0,Yes,Toronto DC,Delivered,2022,5,Q2
+PO0000322,SUP0008,Hamburg Quality Products,SKU00024,USB-C Hub,Electronics,1155,20.0,23100.0,2022-04-01,2022-05-02,2022-05-02,0,Yes,Vancouver DC,Delivered,2022,4,Q2
+PO0000323,SUP0002,Ningbo Global Exports,SKU00005,Running Shoes,Footwear,1926,48.0,92448.0,2024-10-28,2024-11-16,2024-11-16,0,Yes,Montreal DC,Delivered,2024,10,Q4
+PO0000324,SUP0019,Vancouver Pacific Trading,SKU00020,Throw Blanket,Home,343,15.0,5145.0,2023-10-19,2023-11-16,2023-11-16,0,Yes,Vancouver DC,Delivered,2023,10,Q4
+PO0000325,SUP0014,Ho Chi Minh Apparel,SKU00010,Desk Lamp,Furniture,1261,20.0,25220.0,2023-07-18,2023-08-07,2023-08-07,0,Yes,Vancouver DC,Delivered,2023,7,Q3
+PO0000326,SUP0014,Ho Chi Minh Apparel,SKU00018,Gaming Mouse,Electronics,1978,25.0,49450.0,2024-10-12,2024-11-01,2024-11-03,2,No,Calgary DC,Delivered,2024,10,Q4
+PO0000327,SUP0017,Montreal Distribution,SKU00011,Bluetooth Speaker,Electronics,820,30.0,24600.0,2024-05-02,2024-06-23,2024-06-23,0,Yes,Vancouver DC,Delivered,2024,5,Q2
+PO0000328,SUP0018,Toronto Wholesale Inc,SKU00016,Camping Tent,Outdoors,1499,110.0,164890.0,2023-05-09,2023-07-03,2023-07-03,0,Yes,Vancouver DC,Delivered,2023,5,Q2
+PO0000329,SUP0015,Colombo Trading Co,SKU00030,Car Phone Mount,Automotive,903,6.0,5418.0,2022-04-29,2022-06-13,2022-06-13,0,Yes,Vancouver DC,Delivered,2022,4,Q2
+PO0000330,SUP0013,Jakarta Industrial PT,SKU00008,Coffee Maker,Appliances,211,38.0,8018.0,2023-06-07,2023-07-12,2023-07-12,0,Yes,Calgary DC,Delivered,2023,6,Q2
+PO0000331,SUP0012,Bangkok Consumer Goods,SKU00003,Winter Jacket,Apparel,1429,55.0,78595.0,2023-01-26,2023-03-19,2023-03-19,0,Yes,Toronto DC,Delivered,2023,1,Q1
+PO0000332,SUP0003,Shenzhen Tech Components,SKU00007,Yoga Mat,Sports,1907,12.0,22884.0,2023-03-21,2023-04-21,2023-04-21,0,Yes,Montreal DC,Delivered,2023,3,Q1
+PO0000333,SUP0010,Seoul Parts Manufacturing,SKU00030,Car Phone Mount,Automotive,1568,6.0,9408.0,2022-02-01,2022-02-23,2022-03-02,7,No,Toronto DC,Delivered,2022,2,Q1
+PO0000334,SUP0016,Guadalajara Auto Parts,SKU00030,Car Phone Mount,Automotive,862,6.0,5172.0,2023-05-12,2023-05-30,2023-05-30,0,Yes,Vancouver DC,Delivered,2023,5,Q2
+PO0000335,SUP0018,Toronto Wholesale Inc,SKU00011,Bluetooth Speaker,Electronics,1378,30.0,41340.0,2023-08-03,2023-09-27,2023-09-27,0,Yes,Montreal DC,Delivered,2023,8,Q3
+PO0000336,SUP0010,Seoul Parts Manufacturing,SKU00009,Denim Jeans,Apparel,1004,22.0,22088.0,2024-01-07,2024-01-29,2024-02-15,17,No,Toronto DC,Delivered,2024,1,Q1
+PO0000337,SUP0016,Guadalajara Auto Parts,SKU00025,Insulated Lunch Bag,Accessories,897,9.0,8073.0,2023-10-18,2023-11-05,2023-11-05,0,Yes,Toronto DC,Delivered,2023,10,Q4
+PO0000338,SUP0019,Vancouver Pacific Trading,SKU00028,Dog Leash Set,Pet Supplies,1183,8.0,9464.0,2023-03-30,2023-04-27,2023-04-27,0,Yes,Calgary DC,Delivered,2023,3,Q1
+PO0000339,SUP0010,Seoul Parts Manufacturing,SKU00005,Running Shoes,Footwear,1216,48.0,58368.0,2023-02-06,2023-02-28,2023-02-28,0,Yes,Vancouver DC,Delivered,2023,2,Q1
+PO0000340,SUP0016,Guadalajara Auto Parts,SKU00018,Gaming Mouse,Electronics,1050,25.0,26250.0,2023-11-23,2023-12-11,2023-12-11,0,Yes,Calgary DC,Delivered,2023,11,Q4
+PO0000341,SUP0015,Colombo Trading Co,SKU00006,Laptop Stand,Electronics,1169,18.0,21042.0,2023-12-23,2024-02-06,2024-02-06,0,Yes,Calgary DC,Delivered,2023,12,Q4
+PO0000342,SUP0006,Hong Kong Merchandise Ltd,SKU00030,Car Phone Mount,Automotive,1784,6.0,10704.0,2022-05-01,2022-06-02,2022-06-02,0,Yes,Toronto DC,Delivered,2022,5,Q2
+PO0000343,SUP0002,Ningbo Global Exports,SKU00025,Insulated Lunch Bag,Accessories,1341,9.0,12069.0,2022-01-14,2022-02-02,2022-02-02,0,Yes,Vancouver DC,Delivered,2022,1,Q1
+PO0000344,SUP0003,Shenzhen Tech Components,SKU00023,Bamboo Cutting Board,Kitchen,983,12.0,11796.0,2022-11-06,2022-12-07,2022-12-07,0,Yes,Montreal DC,Delivered,2022,11,Q4
+PO0000345,SUP0002,Ningbo Global Exports,SKU00020,Throw Blanket,Home,1139,15.0,17085.0,2024-09-16,2024-10-05,2024-10-05,0,Yes,Calgary DC,Delivered,2024,9,Q3
+PO0000346,SUP0001,Shanghai Premier Manufacturing,SKU00001,Wireless Headphones,Electronics,637,45.0,28665.0,2024-12-20,2025-01-04,2025-01-04,0,Yes,Toronto DC,In Transit,2024,12,Q4
+PO0000347,SUP0017,Montreal Distribution,SKU00027,Face Moisturizer,Beauty,247,12.0,2964.0,2024-05-31,2024-07-22,2024-07-22,0,Yes,Vancouver DC,Delivered,2024,5,Q2
+PO0000348,SUP0008,Hamburg Quality Products,SKU00007,Yoga Mat,Sports,597,12.0,7164.0,2024-12-14,2025-01-14,2025-01-23,9,No,Calgary DC,In Transit,2024,12,Q4
+PO0000349,SUP0003,Shenzhen Tech Components,SKU00012,Backpack,Accessories,1477,28.0,41356.0,2024-04-11,2024-05-12,2024-05-12,0,Yes,Vancouver DC,Delivered,2024,4,Q2
+PO0000350,SUP0010,Seoul Parts Manufacturing,SKU00022,Resistance Bands,Sports,826,7.0,5782.0,2022-06-15,2022-07-07,2022-07-07,0,Yes,Calgary DC,Delivered,2022,6,Q2
+PO0000351,SUP0018,Toronto Wholesale Inc,SKU00016,Camping Tent,Outdoors,219,110.0,24090.0,2022-04-25,2022-06-19,2022-06-19,0,Yes,Calgary DC,Delivered,2022,4,Q2
+PO0000352,SUP0014,Ho Chi Minh Apparel,SKU00021,Air Purifier,Appliances,245,80.0,19600.0,2023-11-10,2023-11-30,2023-12-19,19,No,Toronto DC,Delivered,2023,11,Q4
+PO0000353,SUP0008,Hamburg Quality Products,SKU00007,Yoga Mat,Sports,202,12.0,2424.0,2024-08-31,2024-10-01,2024-10-01,0,Yes,Montreal DC,Delivered,2024,8,Q3
+PO0000354,SUP0018,Toronto Wholesale Inc,SKU00019,Water Bottle 1L,Sports,694,10.0,6940.0,2022-03-09,2022-05-03,2022-05-09,6,No,Toronto DC,Delivered,2022,3,Q1
+PO0000355,SUP0007,Rotterdam European Goods,SKU00019,Water Bottle 1L,Sports,662,10.0,6620.0,2022-10-23,2022-12-18,2022-12-31,13,No,Vancouver DC,Delivered,2022,10,Q4
+PO0000356,SUP0019,Vancouver Pacific Trading,SKU00008,Coffee Maker,Appliances,1597,38.0,60686.0,2024-03-07,2024-04-04,2024-04-04,0,Yes,Vancouver DC,Delivered,2024,3,Q1
+PO0000357,SUP0003,Shenzhen Tech Components,SKU00017,Vitamin C 90 Pack,Health,525,8.0,4200.0,2023-12-10,2024-01-10,2024-01-10,0,Yes,Toronto DC,Delivered,2023,12,Q4
+PO0000358,SUP0011,Mumbai Textiles Ltd,SKU00020,Throw Blanket,Home,609,15.0,9135.0,2024-03-23,2024-04-14,2024-04-14,0,Yes,Calgary DC,Delivered,2024,3,Q1
+PO0000359,SUP0016,Guadalajara Auto Parts,SKU00008,Coffee Maker,Appliances,934,38.0,35492.0,2023-12-30,2024-01-17,2024-02-04,18,No,Vancouver DC,Delivered,2023,12,Q4
+PO0000360,SUP0019,Vancouver Pacific Trading,SKU00022,Resistance Bands,Sports,654,7.0,4578.0,2024-02-18,2024-03-17,2024-03-17,0,Yes,Vancouver DC,Delivered,2024,2,Q1
+PO0000361,SUP0003,Shenzhen Tech Components,SKU00003,Winter Jacket,Apparel,1655,55.0,91025.0,2023-07-03,2023-08-03,2023-08-03,0,Yes,Vancouver DC,Delivered,2023,7,Q3
+PO0000362,SUP0013,Jakarta Industrial PT,SKU00011,Bluetooth Speaker,Electronics,1981,30.0,59430.0,2024-01-09,2024-02-13,2024-02-13,0,Yes,Montreal DC,Delivered,2024,1,Q1
+PO0000363,SUP0015,Colombo Trading Co,SKU00012,Backpack,Accessories,433,28.0,12124.0,2023-07-07,2023-08-21,2023-08-21,0,Yes,Calgary DC,Delivered,2023,7,Q3
+PO0000364,SUP0015,Colombo Trading Co,SKU00018,Gaming Mouse,Electronics,233,25.0,5825.0,2024-11-15,2024-12-30,2024-12-30,0,Yes,Montreal DC,Delivered,2024,11,Q4
+PO0000365,SUP0018,Toronto Wholesale Inc,SKU00003,Winter Jacket,Apparel,897,55.0,49335.0,2023-10-27,2023-12-21,2023-12-21,0,Yes,Calgary DC,Delivered,2023,10,Q4
+PO0000366,SUP0003,Shenzhen Tech Components,SKU00024,USB-C Hub,Electronics,1453,20.0,29060.0,2023-05-13,2023-06-13,2023-06-13,0,Yes,Calgary DC,Delivered,2023,5,Q2
+PO0000367,SUP0006,Hong Kong Merchandise Ltd,SKU00005,Running Shoes,Footwear,348,48.0,16704.0,2023-07-05,2023-08-06,2023-08-06,0,Yes,Toronto DC,Delivered,2023,7,Q3
+PO0000368,SUP0006,Hong Kong Merchandise Ltd,SKU00014,Smart Watch,Electronics,1652,95.0,156940.0,2023-07-20,2023-08-21,2023-08-21,0,Yes,Toronto DC,Delivered,2023,7,Q3
+PO0000369,SUP0012,Bangkok Consumer Goods,SKU00009,Denim Jeans,Apparel,450,22.0,9900.0,2023-05-21,2023-07-12,2023-07-12,0,Yes,Calgary DC,Delivered,2023,5,Q2
+PO0000370,SUP0004,Busan Industrial Corp,SKU00005,Running Shoes,Footwear,730,48.0,35040.0,2023-09-16,2023-10-21,2023-10-22,1,No,Calgary DC,Delivered,2023,9,Q3
+PO0000371,SUP0011,Mumbai Textiles Ltd,SKU00015,Cookware Set,Kitchen,1810,75.0,135750.0,2023-11-17,2023-12-09,2023-12-23,14,No,Vancouver DC,Delivered,2023,11,Q4
+PO0000372,SUP0010,Seoul Parts Manufacturing,SKU00011,Bluetooth Speaker,Electronics,865,30.0,25950.0,2023-02-16,2023-03-10,2023-03-10,0,Yes,Montreal DC,Delivered,2023,2,Q1
+PO0000373,SUP0010,Seoul Parts Manufacturing,SKU00024,USB-C Hub,Electronics,717,20.0,14340.0,2024-10-02,2024-10-24,2024-10-24,0,Yes,Calgary DC,Delivered,2024,10,Q4
+PO0000374,SUP0009,Taipei Electronics Co,SKU00027,Face Moisturizer,Beauty,1204,12.0,14448.0,2024-03-15,2024-04-23,2024-04-23,0,Yes,Vancouver DC,Delivered,2024,3,Q1
+PO0000375,SUP0019,Vancouver Pacific Trading,SKU00018,Gaming Mouse,Electronics,1539,25.0,38475.0,2023-01-04,2023-02-01,2023-02-01,0,Yes,Calgary DC,Delivered,2023,1,Q1
+PO0000376,SUP0007,Rotterdam European Goods,SKU00015,Cookware Set,Kitchen,1679,75.0,125925.0,2023-08-20,2023-10-15,2023-10-18,3,No,Calgary DC,Delivered,2023,8,Q3
+PO0000377,SUP0016,Guadalajara Auto Parts,SKU00005,Running Shoes,Footwear,365,48.0,17520.0,2023-09-13,2023-10-01,2023-10-01,0,Yes,Calgary DC,Delivered,2023,9,Q3
+PO0000378,SUP0013,Jakarta Industrial PT,SKU00003,Winter Jacket,Apparel,870,55.0,47850.0,2024-07-08,2024-08-12,2024-08-12,0,Yes,Calgary DC,Delivered,2024,7,Q3
+PO0000379,SUP0018,Toronto Wholesale Inc,SKU00002,Office Chair,Furniture,1922,120.0,230640.0,2024-01-07,2024-03-02,2024-03-02,0,Yes,Toronto DC,Delivered,2024,1,Q1
+PO0000380,SUP0004,Busan Industrial Corp,SKU00025,Insulated Lunch Bag,Accessories,1304,9.0,11736.0,2023-05-24,2023-06-28,2023-06-28,0,Yes,Toronto DC,Delivered,2023,5,Q2
+PO0000381,SUP0019,Vancouver Pacific Trading,SKU00021,Air Purifier,Appliances,931,80.0,74480.0,2024-03-29,2024-04-26,2024-05-07,11,No,Toronto DC,Delivered,2024,3,Q1
+PO0000382,SUP0001,Shanghai Premier Manufacturing,SKU00004,Kitchen Blender,Appliances,1112,32.0,35584.0,2023-06-14,2023-06-29,2023-06-29,0,Yes,Vancouver DC,Delivered,2023,6,Q2
+PO0000383,SUP0015,Colombo Trading Co,SKU00012,Backpack,Accessories,1255,28.0,35140.0,2024-03-12,2024-04-26,2024-04-26,0,Yes,Vancouver DC,Delivered,2024,3,Q1
+PO0000384,SUP0012,Bangkok Consumer Goods,SKU00001,Wireless Headphones,Electronics,1935,45.0,87075.0,2024-09-15,2024-11-06,2024-11-06,0,Yes,Toronto DC,Delivered,2024,9,Q3
+PO0000385,SUP0004,Busan Industrial Corp,SKU00027,Face Moisturizer,Beauty,982,12.0,11784.0,2022-10-18,2022-11-22,2022-11-22,0,Yes,Vancouver DC,Delivered,2022,10,Q4
+PO0000386,SUP0017,Montreal Distribution,SKU00016,Camping Tent,Outdoors,1528,110.0,168080.0,2023-12-15,2024-02-05,2024-02-05,0,Yes,Calgary DC,Delivered,2023,12,Q4
+PO0000387,SUP0011,Mumbai Textiles Ltd,SKU00003,Winter Jacket,Apparel,285,55.0,15675.0,2023-09-07,2023-09-29,2023-10-01,2,No,Toronto DC,Delivered,2023,9,Q3
+PO0000388,SUP0011,Mumbai Textiles Ltd,SKU00021,Air Purifier,Appliances,1566,80.0,125280.0,2022-08-12,2022-09-03,2022-09-09,6,No,Vancouver DC,Delivered,2022,8,Q3
+PO0000389,SUP0017,Montreal Distribution,SKU00006,Laptop Stand,Electronics,996,18.0,17928.0,2022-11-24,2023-01-15,2023-01-15,0,Yes,Vancouver DC,Delivered,2022,11,Q4
+PO0000390,SUP0013,Jakarta Industrial PT,SKU00021,Air Purifier,Appliances,935,80.0,74800.0,2023-01-13,2023-02-17,2023-02-17,0,Yes,Calgary DC,Delivered,2023,1,Q1
+PO0000391,SUP0001,Shanghai Premier Manufacturing,SKU00024,USB-C Hub,Electronics,846,20.0,16920.0,2023-02-09,2023-02-24,2023-02-24,0,Yes,Toronto DC,Delivered,2023,2,Q1
+PO0000392,SUP0007,Rotterdam European Goods,SKU00007,Yoga Mat,Sports,1687,12.0,20244.0,2023-07-25,2023-09-19,2023-09-19,0,Yes,Vancouver DC,Delivered,2023,7,Q3
+PO0000393,SUP0012,Bangkok Consumer Goods,SKU00011,Bluetooth Speaker,Electronics,1423,30.0,42690.0,2023-02-08,2023-04-01,2023-04-01,0,Yes,Calgary DC,Delivered,2023,2,Q1
+PO0000394,SUP0017,Montreal Distribution,SKU00021,Air Purifier,Appliances,853,80.0,68240.0,2023-10-04,2023-11-25,2023-11-25,0,Yes,Toronto DC,Delivered,2023,10,Q4
+PO0000395,SUP0012,Bangkok Consumer Goods,SKU00012,Backpack,Accessories,1429,28.0,40012.0,2024-07-26,2024-09-16,2024-09-16,0,Yes,Montreal DC,Delivered,2024,7,Q3
+PO0000396,SUP0020,Calgary Resource Supply,SKU00019,Water Bottle 1L,Sports,538,10.0,5380.0,2022-06-23,2022-07-24,2022-07-24,0,Yes,Montreal DC,Delivered,2022,6,Q2
+PO0000397,SUP0004,Busan Industrial Corp,SKU00006,Laptop Stand,Electronics,906,18.0,16308.0,2024-02-04,2024-03-10,2024-03-10,0,Yes,Vancouver DC,Delivered,2024,2,Q1
+PO0000398,SUP0019,Vancouver Pacific Trading,SKU00013,Protein Powder 2kg,Health,1150,18.0,20700.0,2024-05-16,2024-06-13,2024-06-13,0,Yes,Vancouver DC,Delivered,2024,5,Q2
+PO0000399,SUP0018,Toronto Wholesale Inc,SKU00006,Laptop Stand,Electronics,694,18.0,12492.0,2024-09-29,2024-11-23,2024-11-23,0,Yes,Calgary DC,Delivered,2024,9,Q3
+PO0000400,SUP0020,Calgary Resource Supply,SKU00002,Office Chair,Furniture,449,120.0,53880.0,2024-01-06,2024-02-06,2024-02-06,0,Yes,Calgary DC,Delivered,2024,1,Q1
+PO0000401,SUP0018,Toronto Wholesale Inc,SKU00017,Vitamin C 90 Pack,Health,901,8.0,7208.0,2024-10-10,2024-12-04,2024-12-04,0,Yes,Calgary DC,Delivered,2024,10,Q4
+PO0000402,SUP0016,Guadalajara Auto Parts,SKU00006,Laptop Stand,Electronics,1608,18.0,28944.0,2022-06-19,2022-07-07,2022-07-07,0,Yes,Vancouver DC,Delivered,2022,6,Q2
+PO0000403,SUP0010,Seoul Parts Manufacturing,SKU00002,Office Chair,Furniture,394,120.0,47280.0,2023-07-17,2023-08-08,2023-08-08,0,Yes,Calgary DC,Delivered,2023,7,Q3
+PO0000404,SUP0019,Vancouver Pacific Trading,SKU00024,USB-C Hub,Electronics,1222,20.0,24440.0,2024-10-11,2024-11-08,2024-11-08,0,Yes,Toronto DC,Delivered,2024,10,Q4
+PO0000405,SUP0009,Taipei Electronics Co,SKU00025,Insulated Lunch Bag,Accessories,135,9.0,1215.0,2024-01-22,2024-03-01,2024-03-19,18,No,Calgary DC,Delivered,2024,1,Q1
+PO0000406,SUP0018,Toronto Wholesale Inc,SKU00007,Yoga Mat,Sports,1388,12.0,16656.0,2024-05-20,2024-07-14,2024-07-14,0,Yes,Vancouver DC,Delivered,2024,5,Q2
+PO0000407,SUP0010,Seoul Parts Manufacturing,SKU00028,Dog Leash Set,Pet Supplies,1815,8.0,14520.0,2022-03-08,2022-03-30,2022-03-30,0,Yes,Toronto DC,Delivered,2022,3,Q1
+PO0000408,SUP0015,Colombo Trading Co,SKU00028,Dog Leash Set,Pet Supplies,1560,8.0,12480.0,2022-08-29,2022-10-13,2022-10-13,0,Yes,Montreal DC,Delivered,2022,8,Q3
+PO0000409,SUP0020,Calgary Resource Supply,SKU00021,Air Purifier,Appliances,1657,80.0,132560.0,2024-05-26,2024-06-26,2024-06-26,0,Yes,Vancouver DC,Delivered,2024,5,Q2
+PO0000410,SUP0007,Rotterdam European Goods,SKU00026,Standing Desk,Furniture,625,185.0,115625.0,2022-05-02,2022-06-27,2022-06-27,0,Yes,Vancouver DC,Delivered,2022,5,Q2
+PO0000411,SUP0011,Mumbai Textiles Ltd,SKU00023,Bamboo Cutting Board,Kitchen,2000,12.0,24000.0,2023-08-23,2023-09-14,2023-09-14,0,Yes,Toronto DC,Delivered,2023,8,Q3
+PO0000412,SUP0005,Singapore Trade Hub,SKU00025,Insulated Lunch Bag,Accessories,1825,9.0,16425.0,2024-04-22,2024-05-30,2024-06-01,2,No,Vancouver DC,Delivered,2024,4,Q2
+PO0000413,SUP0005,Singapore Trade Hub,SKU00008,Coffee Maker,Appliances,1609,38.0,61142.0,2022-10-27,2022-12-04,2022-12-15,11,No,Calgary DC,Delivered,2022,10,Q4
+PO0000414,SUP0016,Guadalajara Auto Parts,SKU00005,Running Shoes,Footwear,204,48.0,9792.0,2023-07-05,2023-07-23,2023-07-23,0,Yes,Toronto DC,Delivered,2023,7,Q3
+PO0000415,SUP0013,Jakarta Industrial PT,SKU00017,Vitamin C 90 Pack,Health,1049,8.0,8392.0,2023-07-24,2023-08-28,2023-08-28,0,Yes,Montreal DC,Delivered,2023,7,Q3
+PO0000416,SUP0019,Vancouver Pacific Trading,SKU00001,Wireless Headphones,Electronics,1478,45.0,66510.0,2022-07-10,2022-08-07,2022-08-07,0,Yes,Montreal DC,Delivered,2022,7,Q3
+PO0000417,SUP0003,Shenzhen Tech Components,SKU00026,Standing Desk,Furniture,929,185.0,171865.0,2024-12-30,2025-01-30,2025-01-30,0,Yes,Vancouver DC,In Transit,2024,12,Q4
+PO0000418,SUP0016,Guadalajara Auto Parts,SKU00009,Denim Jeans,Apparel,1233,22.0,27126.0,2023-10-24,2023-11-11,2023-11-11,0,Yes,Vancouver DC,Delivered,2023,10,Q4
+PO0000419,SUP0019,Vancouver Pacific Trading,SKU00028,Dog Leash Set,Pet Supplies,1611,8.0,12888.0,2024-09-20,2024-10-18,2024-10-29,11,No,Toronto DC,Delivered,2024,9,Q3
+PO0000420,SUP0002,Ningbo Global Exports,SKU00004,Kitchen Blender,Appliances,1806,32.0,57792.0,2024-07-30,2024-08-18,2024-08-18,0,Yes,Vancouver DC,Delivered,2024,7,Q3
+PO0000421,SUP0015,Colombo Trading Co,SKU00015,Cookware Set,Kitchen,1460,75.0,109500.0,2022-01-02,2022-02-16,2022-02-16,0,Yes,Vancouver DC,Delivered,2022,1,Q1
+PO0000422,SUP0010,Seoul Parts Manufacturing,SKU00006,Laptop Stand,Electronics,562,18.0,10116.0,2023-07-16,2023-08-07,2023-08-07,0,Yes,Toronto DC,Delivered,2023,7,Q3
+PO0000423,SUP0012,Bangkok Consumer Goods,SKU00022,Resistance Bands,Sports,675,7.0,4725.0,2022-12-05,2023-01-26,2023-01-26,0,Yes,Vancouver DC,Delivered,2022,12,Q4
+PO0000424,SUP0014,Ho Chi Minh Apparel,SKU00021,Air Purifier,Appliances,1026,80.0,82080.0,2022-07-06,2022-07-26,2022-07-26,0,Yes,Toronto DC,Delivered,2022,7,Q3
+PO0000425,SUP0005,Singapore Trade Hub,SKU00019,Water Bottle 1L,Sports,69,10.0,690.0,2023-04-09,2023-05-17,2023-05-17,0,Yes,Toronto DC,Delivered,2023,4,Q2
+PO0000426,SUP0011,Mumbai Textiles Ltd,SKU00027,Face Moisturizer,Beauty,1028,12.0,12336.0,2022-09-04,2022-09-26,2022-09-26,0,Yes,Toronto DC,Delivered,2022,9,Q3
+PO0000427,SUP0008,Hamburg Quality Products,SKU00013,Protein Powder 2kg,Health,802,18.0,14436.0,2022-07-02,2022-08-02,2022-08-02,0,Yes,Montreal DC,Delivered,2022,7,Q3
+PO0000428,SUP0005,Singapore Trade Hub,SKU00013,Protein Powder 2kg,Health,1203,18.0,21654.0,2022-09-30,2022-11-07,2022-11-07,0,Yes,Toronto DC,Delivered,2022,9,Q3
+PO0000429,SUP0020,Calgary Resource Supply,SKU00021,Air Purifier,Appliances,486,80.0,38880.0,2022-12-03,2023-01-03,2023-01-03,0,Yes,Vancouver DC,Delivered,2022,12,Q4
+PO0000430,SUP0014,Ho Chi Minh Apparel,SKU00020,Throw Blanket,Home,255,15.0,3825.0,2024-06-25,2024-07-15,2024-07-15,0,Yes,Vancouver DC,Delivered,2024,6,Q2
+PO0000431,SUP0004,Busan Industrial Corp,SKU00019,Water Bottle 1L,Sports,694,10.0,6940.0,2024-02-26,2024-04-01,2024-04-13,12,No,Vancouver DC,Delivered,2024,2,Q1
+PO0000432,SUP0008,Hamburg Quality Products,SKU00009,Denim Jeans,Apparel,1278,22.0,28116.0,2022-06-22,2022-07-23,2022-07-23,0,Yes,Montreal DC,Delivered,2022,6,Q2
+PO0000433,SUP0001,Shanghai Premier Manufacturing,SKU00028,Dog Leash Set,Pet Supplies,1093,8.0,8744.0,2023-09-10,2023-09-25,2023-09-25,0,Yes,Vancouver DC,Delivered,2023,9,Q3
+PO0000434,SUP0013,Jakarta Industrial PT,SKU00010,Desk Lamp,Furniture,280,20.0,5600.0,2022-04-22,2022-05-27,2022-05-27,0,Yes,Vancouver DC,Delivered,2022,4,Q2
+PO0000435,SUP0016,Guadalajara Auto Parts,SKU00021,Air Purifier,Appliances,74,80.0,5920.0,2022-05-26,2022-06-13,2022-06-30,17,No,Montreal DC,Delivered,2022,5,Q2
+PO0000436,SUP0011,Mumbai Textiles Ltd,SKU00005,Running Shoes,Footwear,1168,48.0,56064.0,2024-03-03,2024-03-25,2024-03-25,0,Yes,Vancouver DC,Delivered,2024,3,Q1
+PO0000437,SUP0016,Guadalajara Auto Parts,SKU00025,Insulated Lunch Bag,Accessories,78,9.0,702.0,2022-05-30,2022-06-17,2022-06-17,0,Yes,Montreal DC,Delivered,2022,5,Q2
+PO0000438,SUP0007,Rotterdam European Goods,SKU00002,Office Chair,Furniture,1337,120.0,160440.0,2022-05-04,2022-06-29,2022-06-29,0,Yes,Calgary DC,Delivered,2022,5,Q2
+PO0000439,SUP0014,Ho Chi Minh Apparel,SKU00023,Bamboo Cutting Board,Kitchen,1151,12.0,13812.0,2024-04-03,2024-04-23,2024-04-23,0,Yes,Vancouver DC,Delivered,2024,4,Q2
+PO0000440,SUP0009,Taipei Electronics Co,SKU00003,Winter Jacket,Apparel,466,55.0,25630.0,2023-09-27,2023-11-05,2023-11-05,0,Yes,Vancouver DC,Delivered,2023,9,Q3
+PO0000441,SUP0018,Toronto Wholesale Inc,SKU00011,Bluetooth Speaker,Electronics,1759,30.0,52770.0,2024-03-11,2024-05-05,2024-05-05,0,Yes,Toronto DC,Delivered,2024,3,Q1
+PO0000442,SUP0010,Seoul Parts Manufacturing,SKU00023,Bamboo Cutting Board,Kitchen,226,12.0,2712.0,2024-06-14,2024-07-06,2024-07-06,0,Yes,Calgary DC,Delivered,2024,6,Q2
+PO0000443,SUP0004,Busan Industrial Corp,SKU00015,Cookware Set,Kitchen,1397,75.0,104775.0,2022-04-23,2022-05-28,2022-05-28,0,Yes,Vancouver DC,Delivered,2022,4,Q2
+PO0000444,SUP0004,Busan Industrial Corp,SKU00001,Wireless Headphones,Electronics,760,45.0,34200.0,2022-10-09,2022-11-13,2022-11-13,0,Yes,Montreal DC,Delivered,2022,10,Q4
+PO0000445,SUP0006,Hong Kong Merchandise Ltd,SKU00012,Backpack,Accessories,291,28.0,8148.0,2022-09-17,2022-10-19,2022-10-19,0,Yes,Toronto DC,Delivered,2022,9,Q3
+PO0000446,SUP0011,Mumbai Textiles Ltd,SKU00026,Standing Desk,Furniture,588,185.0,108780.0,2024-05-29,2024-06-20,2024-06-20,0,Yes,Toronto DC,Delivered,2024,5,Q2
+PO0000447,SUP0016,Guadalajara Auto Parts,SKU00015,Cookware Set,Kitchen,1809,75.0,135675.0,2024-11-12,2024-11-30,2024-11-30,0,Yes,Vancouver DC,Delivered,2024,11,Q4
+PO0000448,SUP0012,Bangkok Consumer Goods,SKU00006,Laptop Stand,Electronics,1430,18.0,25740.0,2023-06-07,2023-07-29,2023-08-02,4,No,Toronto DC,Delivered,2023,6,Q2
+PO0000449,SUP0008,Hamburg Quality Products,SKU00024,USB-C Hub,Electronics,1817,20.0,36340.0,2024-11-08,2024-12-09,2024-12-09,0,Yes,Toronto DC,Delivered,2024,11,Q4
+PO0000450,SUP0008,Hamburg Quality Products,SKU00002,Office Chair,Furniture,357,120.0,42840.0,2024-08-24,2024-09-24,2024-09-24,0,Yes,Vancouver DC,Delivered,2024,8,Q3
+PO0000451,SUP0002,Ningbo Global Exports,SKU00018,Gaming Mouse,Electronics,902,25.0,22550.0,2024-05-08,2024-05-27,2024-05-27,0,Yes,Montreal DC,Delivered,2024,5,Q2
+PO0000452,SUP0009,Taipei Electronics Co,SKU00027,Face Moisturizer,Beauty,1078,12.0,12936.0,2022-06-09,2022-07-18,2022-07-18,0,Yes,Toronto DC,Delivered,2022,6,Q2
+PO0000453,SUP0006,Hong Kong Merchandise Ltd,SKU00008,Coffee Maker,Appliances,191,38.0,7258.0,2024-11-22,2024-12-24,2024-12-26,2,No,Calgary DC,Delivered,2024,11,Q4
+PO0000454,SUP0010,Seoul Parts Manufacturing,SKU00025,Insulated Lunch Bag,Accessories,985,9.0,8865.0,2023-09-29,2023-10-21,2023-10-21,0,Yes,Toronto DC,Delivered,2023,9,Q3
+PO0000455,SUP0012,Bangkok Consumer Goods,SKU00007,Yoga Mat,Sports,1564,12.0,18768.0,2023-08-21,2023-10-12,2023-10-12,0,Yes,Vancouver DC,Delivered,2023,8,Q3
+PO0000456,SUP0015,Colombo Trading Co,SKU00012,Backpack,Accessories,1169,28.0,32732.0,2024-10-07,2024-11-21,2024-11-21,0,Yes,Vancouver DC,Delivered,2024,10,Q4
+PO0000457,SUP0005,Singapore Trade Hub,SKU00001,Wireless Headphones,Electronics,759,45.0,34155.0,2024-04-19,2024-05-27,2024-05-27,0,Yes,Toronto DC,Delivered,2024,4,Q2
+PO0000458,SUP0011,Mumbai Textiles Ltd,SKU00001,Wireless Headphones,Electronics,1135,45.0,51075.0,2024-02-10,2024-03-03,2024-03-03,0,Yes,Vancouver DC,Delivered,2024,2,Q1
+PO0000459,SUP0014,Ho Chi Minh Apparel,SKU00016,Camping Tent,Outdoors,240,110.0,26400.0,2022-05-03,2022-05-23,2022-05-23,0,Yes,Toronto DC,Delivered,2022,5,Q2
+PO0000460,SUP0008,Hamburg Quality Products,SKU00029,Kids Building Blocks,Toys,812,11.0,8932.0,2024-11-30,2024-12-31,2024-12-31,0,Yes,Calgary DC,Delivered,2024,11,Q4
+PO0000461,SUP0003,Shenzhen Tech Components,SKU00019,Water Bottle 1L,Sports,1729,10.0,17290.0,2022-07-15,2022-08-15,2022-08-15,0,Yes,Calgary DC,Delivered,2022,7,Q3
+PO0000462,SUP0003,Shenzhen Tech Components,SKU00019,Water Bottle 1L,Sports,317,10.0,3170.0,2022-05-08,2022-06-08,2022-06-08,0,Yes,Vancouver DC,Delivered,2022,5,Q2
+PO0000463,SUP0010,Seoul Parts Manufacturing,SKU00009,Denim Jeans,Apparel,1556,22.0,34232.0,2023-10-08,2023-10-30,2023-10-30,0,Yes,Montreal DC,Delivered,2023,10,Q4
+PO0000464,SUP0011,Mumbai Textiles Ltd,SKU00015,Cookware Set,Kitchen,465,75.0,34875.0,2023-07-11,2023-08-02,2023-08-02,0,Yes,Vancouver DC,Delivered,2023,7,Q3
+PO0000465,SUP0019,Vancouver Pacific Trading,SKU00004,Kitchen Blender,Appliances,1004,32.0,32128.0,2022-11-15,2022-12-13,2022-12-13,0,Yes,Montreal DC,Delivered,2022,11,Q4
+PO0000466,SUP0014,Ho Chi Minh Apparel,SKU00004,Kitchen Blender,Appliances,998,32.0,31936.0,2024-01-04,2024-01-24,2024-01-24,0,Yes,Montreal DC,Delivered,2024,1,Q1
+PO0000467,SUP0004,Busan Industrial Corp,SKU00003,Winter Jacket,Apparel,1477,55.0,81235.0,2022-11-19,2022-12-24,2023-01-03,10,No,Toronto DC,Delivered,2022,11,Q4
+PO0000468,SUP0007,Rotterdam European Goods,SKU00027,Face Moisturizer,Beauty,558,12.0,6696.0,2023-11-03,2023-12-29,2023-12-29,0,Yes,Montreal DC,Delivered,2023,11,Q4
+PO0000469,SUP0013,Jakarta Industrial PT,SKU00017,Vitamin C 90 Pack,Health,406,8.0,3248.0,2022-04-11,2022-05-16,2022-05-16,0,Yes,Toronto DC,Delivered,2022,4,Q2
+PO0000470,SUP0013,Jakarta Industrial PT,SKU00028,Dog Leash Set,Pet Supplies,561,8.0,4488.0,2024-07-15,2024-08-19,2024-08-19,0,Yes,Toronto DC,Delivered,2024,7,Q3
+PO0000471,SUP0015,Colombo Trading Co,SKU00004,Kitchen Blender,Appliances,1750,32.0,56000.0,2022-10-14,2022-11-28,2022-11-28,0,Yes,Vancouver DC,Delivered,2022,10,Q4
+PO0000472,SUP0005,Singapore Trade Hub,SKU00007,Yoga Mat,Sports,1970,12.0,23640.0,2024-03-31,2024-05-08,2024-05-08,0,Yes,Toronto DC,Delivered,2024,3,Q1
+PO0000473,SUP0019,Vancouver Pacific Trading,SKU00019,Water Bottle 1L,Sports,182,10.0,1820.0,2023-06-15,2023-07-13,2023-07-13,0,Yes,Vancouver DC,Delivered,2023,6,Q2
+PO0000474,SUP0015,Colombo Trading Co,SKU00026,Standing Desk,Furniture,1748,185.0,323380.0,2022-09-21,2022-11-05,2022-11-08,3,No,Montreal DC,Delivered,2022,9,Q3
+PO0000475,SUP0004,Busan Industrial Corp,SKU00002,Office Chair,Furniture,1225,120.0,147000.0,2024-08-02,2024-09-06,2024-09-06,0,Yes,Calgary DC,Delivered,2024,8,Q3
+PO0000476,SUP0013,Jakarta Industrial PT,SKU00016,Camping Tent,Outdoors,403,110.0,44330.0,2022-03-02,2022-04-06,2022-04-06,0,Yes,Montreal DC,Delivered,2022,3,Q1
+PO0000477,SUP0007,Rotterdam European Goods,SKU00030,Car Phone Mount,Automotive,1859,6.0,11154.0,2023-01-19,2023-03-16,2023-03-16,0,Yes,Vancouver DC,Delivered,2023,1,Q1
+PO0000478,SUP0002,Ningbo Global Exports,SKU00020,Throw Blanket,Home,1857,15.0,27855.0,2023-05-19,2023-06-07,2023-06-07,0,Yes,Calgary DC,Delivered,2023,5,Q2
+PO0000479,SUP0002,Ningbo Global Exports,SKU00003,Winter Jacket,Apparel,458,55.0,25190.0,2023-07-27,2023-08-15,2023-08-15,0,Yes,Vancouver DC,Delivered,2023,7,Q3
+PO0000480,SUP0018,Toronto Wholesale Inc,SKU00026,Standing Desk,Furniture,785,185.0,145225.0,2022-02-09,2022-04-05,2022-04-05,0,Yes,Calgary DC,Delivered,2022,2,Q1
+PO0000481,SUP0018,Toronto Wholesale Inc,SKU00026,Standing Desk,Furniture,1078,185.0,199430.0,2024-09-19,2024-11-13,2024-11-25,12,No,Montreal DC,Delivered,2024,9,Q3
+PO0000482,SUP0013,Jakarta Industrial PT,SKU00009,Denim Jeans,Apparel,498,22.0,10956.0,2023-01-04,2023-02-08,2023-02-08,0,Yes,Toronto DC,Delivered,2023,1,Q1
+PO0000483,SUP0009,Taipei Electronics Co,SKU00002,Office Chair,Furniture,1246,120.0,149520.0,2024-08-24,2024-10-02,2024-10-02,0,Yes,Vancouver DC,Delivered,2024,8,Q3
+PO0000484,SUP0006,Hong Kong Merchandise Ltd,SKU00004,Kitchen Blender,Appliances,1721,32.0,55072.0,2023-05-23,2023-06-24,2023-06-24,0,Yes,Toronto DC,Delivered,2023,5,Q2
+PO0000485,SUP0008,Hamburg Quality Products,SKU00019,Water Bottle 1L,Sports,1781,10.0,17810.0,2024-03-06,2024-04-06,2024-04-18,12,No,Vancouver DC,Delivered,2024,3,Q1
+PO0000486,SUP0006,Hong Kong Merchandise Ltd,SKU00008,Coffee Maker,Appliances,107,38.0,4066.0,2023-10-14,2023-11-15,2023-11-27,12,No,Montreal DC,Delivered,2023,10,Q4
+PO0000487,SUP0019,Vancouver Pacific Trading,SKU00019,Water Bottle 1L,Sports,1763,10.0,17630.0,2022-10-19,2022-11-16,2022-12-05,19,No,Calgary DC,Delivered,2022,10,Q4
+PO0000488,SUP0018,Toronto Wholesale Inc,SKU00010,Desk Lamp,Furniture,165,20.0,3300.0,2022-12-26,2023-02-19,2023-02-19,0,Yes,Vancouver DC,Delivered,2022,12,Q4
+PO0000489,SUP0020,Calgary Resource Supply,SKU00008,Coffee Maker,Appliances,729,38.0,27702.0,2022-02-10,2022-03-13,2022-03-13,0,Yes,Vancouver DC,Delivered,2022,2,Q1
+PO0000490,SUP0005,Singapore Trade Hub,SKU00011,Bluetooth Speaker,Electronics,352,30.0,10560.0,2022-12-30,2023-02-06,2023-02-06,0,Yes,Vancouver DC,Delivered,2022,12,Q4
+PO0000491,SUP0004,Busan Industrial Corp,SKU00028,Dog Leash Set,Pet Supplies,815,8.0,6520.0,2024-12-13,2025-01-17,2025-01-29,12,No,Calgary DC,In Transit,2024,12,Q4
+PO0000492,SUP0019,Vancouver Pacific Trading,SKU00004,Kitchen Blender,Appliances,372,32.0,11904.0,2023-11-21,2023-12-19,2023-12-19,0,Yes,Calgary DC,Delivered,2023,11,Q4
+PO0000493,SUP0016,Guadalajara Auto Parts,SKU00021,Air Purifier,Appliances,1200,80.0,96000.0,2023-10-12,2023-10-30,2023-10-30,0,Yes,Montreal DC,Delivered,2023,10,Q4
+PO0000494,SUP0008,Hamburg Quality Products,SKU00022,Resistance Bands,Sports,1460,7.0,10220.0,2022-12-26,2023-01-26,2023-01-26,0,Yes,Montreal DC,Delivered,2022,12,Q4
+PO0000495,SUP0005,Singapore Trade Hub,SKU00006,Laptop Stand,Electronics,1628,18.0,29304.0,2022-01-04,2022-02-11,2022-02-11,0,Yes,Toronto DC,Delivered,2022,1,Q1
+PO0000496,SUP0006,Hong Kong Merchandise Ltd,SKU00020,Throw Blanket,Home,1208,15.0,18120.0,2023-10-14,2023-11-15,2023-11-15,0,Yes,Toronto DC,Delivered,2023,10,Q4
+PO0000497,SUP0016,Guadalajara Auto Parts,SKU00005,Running Shoes,Footwear,704,48.0,33792.0,2023-11-10,2023-11-28,2023-11-28,0,Yes,Vancouver DC,Delivered,2023,11,Q4
+PO0000498,SUP0003,Shenzhen Tech Components,SKU00027,Face Moisturizer,Beauty,479,12.0,5748.0,2023-11-19,2023-12-20,2023-12-20,0,Yes,Vancouver DC,Delivered,2023,11,Q4
+PO0000499,SUP0003,Shenzhen Tech Components,SKU00012,Backpack,Accessories,148,28.0,4144.0,2023-06-10,2023-07-11,2023-07-11,0,Yes,Calgary DC,Delivered,2023,6,Q2
+PO0000500,SUP0015,Colombo Trading Co,SKU00024,USB-C Hub,Electronics,1059,20.0,21180.0,2024-05-09,2024-06-23,2024-06-29,6,No,Calgary DC,Delivered,2024,5,Q2
+PO0000501,SUP0012,Bangkok Consumer Goods,SKU00018,Gaming Mouse,Electronics,1665,25.0,41625.0,2024-02-08,2024-03-31,2024-04-04,4,No,Vancouver DC,Delivered,2024,2,Q1
+PO0000502,SUP0006,Hong Kong Merchandise Ltd,SKU00015,Cookware Set,Kitchen,702,75.0,52650.0,2022-05-31,2022-07-02,2022-07-02,0,Yes,Montreal DC,Delivered,2022,5,Q2
+PO0000503,SUP0004,Busan Industrial Corp,SKU00003,Winter Jacket,Apparel,379,55.0,20845.0,2023-12-02,2024-01-06,2024-01-12,6,No,Toronto DC,Delivered,2023,12,Q4
+PO0000504,SUP0018,Toronto Wholesale Inc,SKU00029,Kids Building Blocks,Toys,1306,11.0,14366.0,2022-07-10,2022-09-03,2022-09-03,0,Yes,Calgary DC,Delivered,2022,7,Q3
+PO0000505,SUP0001,Shanghai Premier Manufacturing,SKU00014,Smart Watch,Electronics,371,95.0,35245.0,2022-12-04,2022-12-19,2023-01-08,20,No,Toronto DC,Delivered,2022,12,Q4
+PO0000506,SUP0004,Busan Industrial Corp,SKU00011,Bluetooth Speaker,Electronics,1184,30.0,35520.0,2023-02-25,2023-04-01,2023-04-01,0,Yes,Montreal DC,Delivered,2023,2,Q1
+PO0000507,SUP0010,Seoul Parts Manufacturing,SKU00010,Desk Lamp,Furniture,1220,20.0,24400.0,2023-05-02,2023-05-24,2023-05-24,0,Yes,Calgary DC,Delivered,2023,5,Q2
+PO0000508,SUP0005,Singapore Trade Hub,SKU00002,Office Chair,Furniture,653,120.0,78360.0,2024-01-09,2024-02-16,2024-02-16,0,Yes,Calgary DC,Delivered,2024,1,Q1
+PO0000509,SUP0007,Rotterdam European Goods,SKU00004,Kitchen Blender,Appliances,647,32.0,20704.0,2022-02-22,2022-04-19,2022-04-19,0,Yes,Toronto DC,Delivered,2022,2,Q1
+PO0000510,SUP0016,Guadalajara Auto Parts,SKU00028,Dog Leash Set,Pet Supplies,1014,8.0,8112.0,2022-08-25,2022-09-12,2022-09-12,0,Yes,Calgary DC,Delivered,2022,8,Q3
+PO0000511,SUP0009,Taipei Electronics Co,SKU00003,Winter Jacket,Apparel,831,55.0,45705.0,2024-03-04,2024-04-12,2024-04-12,0,Yes,Montreal DC,Delivered,2024,3,Q1
+PO0000512,SUP0006,Hong Kong Merchandise Ltd,SKU00015,Cookware Set,Kitchen,589,75.0,44175.0,2022-04-02,2022-05-04,2022-05-04,0,Yes,Vancouver DC,Delivered,2022,4,Q2
+PO0000513,SUP0009,Taipei Electronics Co,SKU00019,Water Bottle 1L,Sports,1416,10.0,14160.0,2022-05-07,2022-06-15,2022-06-15,0,Yes,Toronto DC,Delivered,2022,5,Q2
+PO0000514,SUP0003,Shenzhen Tech Components,SKU00022,Resistance Bands,Sports,1599,7.0,11193.0,2023-12-06,2024-01-06,2024-01-06,0,Yes,Vancouver DC,Delivered,2023,12,Q4
+PO0000515,SUP0018,Toronto Wholesale Inc,SKU00002,Office Chair,Furniture,1146,120.0,137520.0,2024-03-03,2024-04-27,2024-04-27,0,Yes,Calgary DC,Delivered,2024,3,Q1
+PO0000516,SUP0019,Vancouver Pacific Trading,SKU00029,Kids Building Blocks,Toys,858,11.0,9438.0,2023-04-28,2023-05-26,2023-05-26,0,Yes,Toronto DC,Delivered,2023,4,Q2
+PO0000517,SUP0017,Montreal Distribution,SKU00019,Water Bottle 1L,Sports,1320,10.0,13200.0,2024-11-24,2025-01-15,2025-01-15,0,Yes,Vancouver DC,In Transit,2024,11,Q4
+PO0000518,SUP0004,Busan Industrial Corp,SKU00025,Insulated Lunch Bag,Accessories,392,9.0,3528.0,2024-07-08,2024-08-12,2024-08-18,6,No,Vancouver DC,Delivered,2024,7,Q3
+PO0000519,SUP0007,Rotterdam European Goods,SKU00005,Running Shoes,Footwear,1449,48.0,69552.0,2022-03-29,2022-05-24,2022-05-24,0,Yes,Calgary DC,Delivered,2022,3,Q1
+PO0000520,SUP0007,Rotterdam European Goods,SKU00027,Face Moisturizer,Beauty,1915,12.0,22980.0,2022-10-30,2022-12-25,2022-12-25,0,Yes,Toronto DC,Delivered,2022,10,Q4
+PO0000521,SUP0003,Shenzhen Tech Components,SKU00013,Protein Powder 2kg,Health,615,18.0,11070.0,2024-03-24,2024-04-24,2024-04-24,0,Yes,Calgary DC,Delivered,2024,3,Q1
+PO0000522,SUP0001,Shanghai Premier Manufacturing,SKU00026,Standing Desk,Furniture,356,185.0,65860.0,2024-12-06,2024-12-21,2024-12-21,0,Yes,Vancouver DC,Delivered,2024,12,Q4
+PO0000523,SUP0019,Vancouver Pacific Trading,SKU00019,Water Bottle 1L,Sports,256,10.0,2560.0,2022-07-25,2022-08-22,2022-08-22,0,Yes,Montreal DC,Delivered,2022,7,Q3
+PO0000524,SUP0018,Toronto Wholesale Inc,SKU00029,Kids Building Blocks,Toys,1391,11.0,15301.0,2023-12-06,2024-01-30,2024-01-30,0,Yes,Calgary DC,Delivered,2023,12,Q4
+PO0000525,SUP0019,Vancouver Pacific Trading,SKU00020,Throw Blanket,Home,875,15.0,13125.0,2024-08-26,2024-09-23,2024-09-23,0,Yes,Vancouver DC,Delivered,2024,8,Q3
+PO0000526,SUP0020,Calgary Resource Supply,SKU00020,Throw Blanket,Home,1850,15.0,27750.0,2024-04-02,2024-05-03,2024-05-03,0,Yes,Montreal DC,Delivered,2024,4,Q2
+PO0000527,SUP0008,Hamburg Quality Products,SKU00002,Office Chair,Furniture,91,120.0,10920.0,2024-08-31,2024-10-01,2024-10-10,9,No,Montreal DC,Delivered,2024,8,Q3
+PO0000528,SUP0010,Seoul Parts Manufacturing,SKU00010,Desk Lamp,Furniture,1452,20.0,29040.0,2023-07-29,2023-08-20,2023-09-05,16,No,Toronto DC,Delivered,2023,7,Q3
+PO0000529,SUP0008,Hamburg Quality Products,SKU00005,Running Shoes,Footwear,707,48.0,33936.0,2023-09-08,2023-10-09,2023-10-09,0,Yes,Montreal DC,Delivered,2023,9,Q3
+PO0000530,SUP0014,Ho Chi Minh Apparel,SKU00020,Throw Blanket,Home,1920,15.0,28800.0,2022-07-02,2022-07-22,2022-07-22,0,Yes,Calgary DC,Delivered,2022,7,Q3
+PO0000531,SUP0016,Guadalajara Auto Parts,SKU00025,Insulated Lunch Bag,Accessories,1105,9.0,9945.0,2024-11-23,2024-12-11,2024-12-23,12,No,Vancouver DC,Delivered,2024,11,Q4
+PO0000532,SUP0003,Shenzhen Tech Components,SKU00010,Desk Lamp,Furniture,1793,20.0,35860.0,2024-11-03,2024-12-04,2024-12-04,0,Yes,Toronto DC,Delivered,2024,11,Q4
+PO0000533,SUP0006,Hong Kong Merchandise Ltd,SKU00007,Yoga Mat,Sports,984,12.0,11808.0,2023-02-16,2023-03-20,2023-03-20,0,Yes,Toronto DC,Delivered,2023,2,Q1
+PO0000534,SUP0012,Bangkok Consumer Goods,SKU00023,Bamboo Cutting Board,Kitchen,1000,12.0,12000.0,2023-02-12,2023-04-05,2023-04-05,0,Yes,Calgary DC,Delivered,2023,2,Q1
+PO0000535,SUP0004,Busan Industrial Corp,SKU00022,Resistance Bands,Sports,1266,7.0,8862.0,2022-03-04,2022-04-08,2022-04-08,0,Yes,Calgary DC,Delivered,2022,3,Q1
+PO0000536,SUP0006,Hong Kong Merchandise Ltd,SKU00028,Dog Leash Set,Pet Supplies,755,8.0,6040.0,2024-08-29,2024-09-30,2024-09-30,0,Yes,Vancouver DC,Delivered,2024,8,Q3
+PO0000537,SUP0009,Taipei Electronics Co,SKU00024,USB-C Hub,Electronics,151,20.0,3020.0,2022-07-05,2022-08-13,2022-08-13,0,Yes,Vancouver DC,Delivered,2022,7,Q3
+PO0000538,SUP0019,Vancouver Pacific Trading,SKU00025,Insulated Lunch Bag,Accessories,1437,9.0,12933.0,2023-03-15,2023-04-12,2023-04-12,0,Yes,Vancouver DC,Delivered,2023,3,Q1
+PO0000539,SUP0009,Taipei Electronics Co,SKU00021,Air Purifier,Appliances,1648,80.0,131840.0,2024-04-18,2024-05-27,2024-05-27,0,Yes,Toronto DC,Delivered,2024,4,Q2
+PO0000540,SUP0016,Guadalajara Auto Parts,SKU00030,Car Phone Mount,Automotive,67,6.0,402.0,2022-09-28,2022-10-16,2022-10-16,0,Yes,Vancouver DC,Delivered,2022,9,Q3
+PO0000541,SUP0009,Taipei Electronics Co,SKU00020,Throw Blanket,Home,821,15.0,12315.0,2023-09-18,2023-10-27,2023-10-27,0,Yes,Montreal DC,Delivered,2023,9,Q3
+PO0000542,SUP0015,Colombo Trading Co,SKU00009,Denim Jeans,Apparel,1116,22.0,24552.0,2023-03-23,2023-05-07,2023-05-07,0,Yes,Calgary DC,Delivered,2023,3,Q1
+PO0000543,SUP0019,Vancouver Pacific Trading,SKU00004,Kitchen Blender,Appliances,1777,32.0,56864.0,2022-01-16,2022-02-13,2022-03-02,17,No,Montreal DC,Delivered,2022,1,Q1
+PO0000544,SUP0018,Toronto Wholesale Inc,SKU00021,Air Purifier,Appliances,1036,80.0,82880.0,2023-08-02,2023-09-26,2023-09-26,0,Yes,Toronto DC,Delivered,2023,8,Q3
+PO0000545,SUP0011,Mumbai Textiles Ltd,SKU00009,Denim Jeans,Apparel,1506,22.0,33132.0,2023-10-28,2023-11-19,2023-11-19,0,Yes,Montreal DC,Delivered,2023,10,Q4
+PO0000546,SUP0007,Rotterdam European Goods,SKU00005,Running Shoes,Footwear,1699,48.0,81552.0,2024-11-25,2025-01-20,2025-01-28,8,No,Calgary DC,In Transit,2024,11,Q4
+PO0000547,SUP0011,Mumbai Textiles Ltd,SKU00022,Resistance Bands,Sports,655,7.0,4585.0,2022-10-14,2022-11-05,2022-11-05,0,Yes,Montreal DC,Delivered,2022,10,Q4
+PO0000548,SUP0014,Ho Chi Minh Apparel,SKU00013,Protein Powder 2kg,Health,1221,18.0,21978.0,2024-03-06,2024-03-26,2024-03-26,0,Yes,Vancouver DC,Delivered,2024,3,Q1
+PO0000549,SUP0011,Mumbai Textiles Ltd,SKU00024,USB-C Hub,Electronics,1024,20.0,20480.0,2023-04-01,2023-04-23,2023-04-23,0,Yes,Montreal DC,Delivered,2023,4,Q2
+PO0000550,SUP0017,Montreal Distribution,SKU00010,Desk Lamp,Furniture,249,20.0,4980.0,2022-12-15,2023-02-05,2023-02-05,0,Yes,Calgary DC,Delivered,2022,12,Q4
+PO0000551,SUP0005,Singapore Trade Hub,SKU00024,USB-C Hub,Electronics,424,20.0,8480.0,2023-06-14,2023-07-22,2023-07-22,0,Yes,Montreal DC,Delivered,2023,6,Q2
+PO0000552,SUP0003,Shenzhen Tech Components,SKU00008,Coffee Maker,Appliances,678,38.0,25764.0,2023-12-29,2024-01-29,2024-01-29,0,Yes,Calgary DC,Delivered,2023,12,Q4
+PO0000553,SUP0011,Mumbai Textiles Ltd,SKU00012,Backpack,Accessories,1793,28.0,50204.0,2023-06-18,2023-07-10,2023-07-10,0,Yes,Toronto DC,Delivered,2023,6,Q2
+PO0000554,SUP0016,Guadalajara Auto Parts,SKU00002,Office Chair,Furniture,1074,120.0,128880.0,2022-05-26,2022-06-13,2022-06-29,16,No,Toronto DC,Delivered,2022,5,Q2
+PO0000555,SUP0013,Jakarta Industrial PT,SKU00017,Vitamin C 90 Pack,Health,1799,8.0,14392.0,2023-09-04,2023-10-09,2023-10-09,0,Yes,Vancouver DC,Delivered,2023,9,Q3
+PO0000556,SUP0005,Singapore Trade Hub,SKU00007,Yoga Mat,Sports,1878,12.0,22536.0,2023-12-03,2024-01-10,2024-01-24,14,No,Calgary DC,Delivered,2023,12,Q4
+PO0000557,SUP0005,Singapore Trade Hub,SKU00011,Bluetooth Speaker,Electronics,1342,30.0,40260.0,2023-01-05,2023-02-12,2023-02-12,0,Yes,Vancouver DC,Delivered,2023,1,Q1
+PO0000558,SUP0011,Mumbai Textiles Ltd,SKU00021,Air Purifier,Appliances,478,80.0,38240.0,2022-04-29,2022-05-21,2022-05-21,0,Yes,Vancouver DC,Delivered,2022,4,Q2
+PO0000559,SUP0019,Vancouver Pacific Trading,SKU00025,Insulated Lunch Bag,Accessories,1646,9.0,14814.0,2022-11-21,2022-12-19,2022-12-19,0,Yes,Toronto DC,Delivered,2022,11,Q4
+PO0000560,SUP0005,Singapore Trade Hub,SKU00020,Throw Blanket,Home,1027,15.0,15405.0,2024-06-07,2024-07-15,2024-07-15,0,Yes,Calgary DC,Delivered,2024,6,Q2
+PO0000561,SUP0001,Shanghai Premier Manufacturing,SKU00002,Office Chair,Furniture,1995,120.0,239400.0,2024-12-29,2025-01-13,2025-01-13,0,Yes,Toronto DC,In Transit,2024,12,Q4
+PO0000562,SUP0011,Mumbai Textiles Ltd,SKU00025,Insulated Lunch Bag,Accessories,58,9.0,522.0,2024-12-23,2025-01-14,2025-01-14,0,Yes,Vancouver DC,In Transit,2024,12,Q4
+PO0000563,SUP0008,Hamburg Quality Products,SKU00023,Bamboo Cutting Board,Kitchen,835,12.0,10020.0,2023-12-07,2024-01-07,2024-01-07,0,Yes,Montreal DC,Delivered,2023,12,Q4
+PO0000564,SUP0006,Hong Kong Merchandise Ltd,SKU00003,Winter Jacket,Apparel,983,55.0,54065.0,2022-04-04,2022-05-06,2022-05-16,10,No,Montreal DC,Delivered,2022,4,Q2
+PO0000565,SUP0014,Ho Chi Minh Apparel,SKU00029,Kids Building Blocks,Toys,1053,11.0,11583.0,2022-10-02,2022-10-22,2022-11-02,11,No,Montreal DC,Delivered,2022,10,Q4
+PO0000566,SUP0007,Rotterdam European Goods,SKU00006,Laptop Stand,Electronics,1539,18.0,27702.0,2024-04-06,2024-06-01,2024-06-01,0,Yes,Vancouver DC,Delivered,2024,4,Q2
+PO0000567,SUP0007,Rotterdam European Goods,SKU00024,USB-C Hub,Electronics,302,20.0,6040.0,2022-02-14,2022-04-11,2022-04-11,0,Yes,Montreal DC,Delivered,2022,2,Q1
+PO0000568,SUP0002,Ningbo Global Exports,SKU00013,Protein Powder 2kg,Health,1266,18.0,22788.0,2023-06-08,2023-06-27,2023-06-27,0,Yes,Toronto DC,Delivered,2023,6,Q2
+PO0000569,SUP0004,Busan Industrial Corp,SKU00021,Air Purifier,Appliances,903,80.0,72240.0,2022-02-10,2022-03-17,2022-03-17,0,Yes,Calgary DC,Delivered,2022,2,Q1
+PO0000570,SUP0013,Jakarta Industrial PT,SKU00004,Kitchen Blender,Appliances,470,32.0,15040.0,2023-06-02,2023-07-07,2023-07-07,0,Yes,Toronto DC,Delivered,2023,6,Q2
+PO0000571,SUP0010,Seoul Parts Manufacturing,SKU00014,Smart Watch,Electronics,1290,95.0,122550.0,2022-07-26,2022-08-17,2022-08-17,0,Yes,Vancouver DC,Delivered,2022,7,Q3
+PO0000572,SUP0014,Ho Chi Minh Apparel,SKU00027,Face Moisturizer,Beauty,291,12.0,3492.0,2022-08-03,2022-08-23,2022-08-23,0,Yes,Montreal DC,Delivered,2022,8,Q3
+PO0000573,SUP0004,Busan Industrial Corp,SKU00026,Standing Desk,Furniture,459,185.0,84915.0,2022-08-06,2022-09-10,2022-09-10,0,Yes,Montreal DC,Delivered,2022,8,Q3
+PO0000574,SUP0017,Montreal Distribution,SKU00007,Yoga Mat,Sports,130,12.0,1560.0,2024-01-04,2024-02-25,2024-02-25,0,Yes,Calgary DC,Delivered,2024,1,Q1
+PO0000575,SUP0007,Rotterdam European Goods,SKU00023,Bamboo Cutting Board,Kitchen,76,12.0,912.0,2024-09-11,2024-11-06,2024-11-06,0,Yes,Toronto DC,Delivered,2024,9,Q3
+PO0000576,SUP0004,Busan Industrial Corp,SKU00027,Face Moisturizer,Beauty,1646,12.0,19752.0,2024-10-08,2024-11-12,2024-11-17,5,No,Toronto DC,Delivered,2024,10,Q4
+PO0000577,SUP0004,Busan Industrial Corp,SKU00029,Kids Building Blocks,Toys,656,11.0,7216.0,2023-06-09,2023-07-14,2023-07-14,0,Yes,Montreal DC,Delivered,2023,6,Q2
+PO0000578,SUP0015,Colombo Trading Co,SKU00002,Office Chair,Furniture,1795,120.0,215400.0,2022-07-24,2022-09-07,2022-09-13,6,No,Montreal DC,Delivered,2022,7,Q3
+PO0000579,SUP0012,Bangkok Consumer Goods,SKU00026,Standing Desk,Furniture,244,185.0,45140.0,2023-10-03,2023-11-24,2023-11-24,0,Yes,Toronto DC,Delivered,2023,10,Q4
+PO0000580,SUP0001,Shanghai Premier Manufacturing,SKU00028,Dog Leash Set,Pet Supplies,1881,8.0,15048.0,2022-10-11,2022-10-26,2022-10-26,0,Yes,Calgary DC,Delivered,2022,10,Q4
+PO0000581,SUP0020,Calgary Resource Supply,SKU00009,Denim Jeans,Apparel,424,22.0,9328.0,2022-07-10,2022-08-10,2022-08-22,12,No,Toronto DC,Delivered,2022,7,Q3
+PO0000582,SUP0013,Jakarta Industrial PT,SKU00013,Protein Powder 2kg,Health,1462,18.0,26316.0,2024-07-23,2024-08-27,2024-09-05,9,No,Calgary DC,Delivered,2024,7,Q3
+PO0000583,SUP0014,Ho Chi Minh Apparel,SKU00021,Air Purifier,Appliances,1537,80.0,122960.0,2022-12-08,2022-12-28,2022-12-28,0,Yes,Toronto DC,Delivered,2022,12,Q4
+PO0000584,SUP0006,Hong Kong Merchandise Ltd,SKU00004,Kitchen Blender,Appliances,1215,32.0,38880.0,2024-05-02,2024-06-03,2024-06-03,0,Yes,Calgary DC,Delivered,2024,5,Q2
+PO0000585,SUP0006,Hong Kong Merchandise Ltd,SKU00020,Throw Blanket,Home,1816,15.0,27240.0,2024-02-17,2024-03-20,2024-03-20,0,Yes,Vancouver DC,Delivered,2024,2,Q1
+PO0000586,SUP0016,Guadalajara Auto Parts,SKU00030,Car Phone Mount,Automotive,952,6.0,5712.0,2024-09-26,2024-10-14,2024-10-18,4,No,Toronto DC,Delivered,2024,9,Q3
+PO0000587,SUP0003,Shenzhen Tech Components,SKU00009,Denim Jeans,Apparel,1438,22.0,31636.0,2023-10-06,2023-11-06,2023-11-06,0,Yes,Vancouver DC,Delivered,2023,10,Q4
+PO0000588,SUP0011,Mumbai Textiles Ltd,SKU00017,Vitamin C 90 Pack,Health,1405,8.0,11240.0,2024-12-07,2024-12-29,2024-12-29,0,Yes,Vancouver DC,Delivered,2024,12,Q4
+PO0000589,SUP0016,Guadalajara Auto Parts,SKU00012,Backpack,Accessories,1193,28.0,33404.0,2024-02-28,2024-03-17,2024-03-22,5,No,Toronto DC,Delivered,2024,2,Q1
+PO0000590,SUP0001,Shanghai Premier Manufacturing,SKU00021,Air Purifier,Appliances,1794,80.0,143520.0,2022-11-18,2022-12-03,2022-12-20,17,No,Calgary DC,Delivered,2022,11,Q4
+PO0000591,SUP0006,Hong Kong Merchandise Ltd,SKU00003,Winter Jacket,Apparel,619,55.0,34045.0,2024-10-03,2024-11-04,2024-11-04,0,Yes,Toronto DC,Delivered,2024,10,Q4
+PO0000592,SUP0017,Montreal Distribution,SKU00008,Coffee Maker,Appliances,211,38.0,8018.0,2024-02-15,2024-04-07,2024-04-20,13,No,Calgary DC,Delivered,2024,2,Q1
+PO0000593,SUP0015,Colombo Trading Co,SKU00026,Standing Desk,Furniture,965,185.0,178525.0,2024-07-06,2024-08-20,2024-08-23,3,No,Montreal DC,Delivered,2024,7,Q3
+PO0000594,SUP0004,Busan Industrial Corp,SKU00016,Camping Tent,Outdoors,123,110.0,13530.0,2022-02-06,2022-03-13,2022-03-13,0,Yes,Toronto DC,Delivered,2022,2,Q1
+PO0000595,SUP0003,Shenzhen Tech Components,SKU00026,Standing Desk,Furniture,1390,185.0,257150.0,2023-09-16,2023-10-17,2023-10-17,0,Yes,Calgary DC,Delivered,2023,9,Q3
+PO0000596,SUP0011,Mumbai Textiles Ltd,SKU00012,Backpack,Accessories,729,28.0,20412.0,2022-04-22,2022-05-14,2022-05-22,8,No,Calgary DC,Delivered,2022,4,Q2
+PO0000597,SUP0012,Bangkok Consumer Goods,SKU00023,Bamboo Cutting Board,Kitchen,1399,12.0,16788.0,2024-07-15,2024-09-05,2024-09-05,0,Yes,Vancouver DC,Delivered,2024,7,Q3
+PO0000598,SUP0001,Shanghai Premier Manufacturing,SKU00011,Bluetooth Speaker,Electronics,815,30.0,24450.0,2023-12-29,2024-01-13,2024-01-13,0,Yes,Toronto DC,Delivered,2023,12,Q4
+PO0000599,SUP0002,Ningbo Global Exports,SKU00029,Kids Building Blocks,Toys,1518,11.0,16698.0,2022-12-03,2022-12-22,2022-12-22,0,Yes,Calgary DC,Delivered,2022,12,Q4
+PO0000600,SUP0004,Busan Industrial Corp,SKU00009,Denim Jeans,Apparel,1795,22.0,39490.0,2023-02-06,2023-03-13,2023-03-13,0,Yes,Calgary DC,Delivered,2023,2,Q1
+PO0000601,SUP0007,Rotterdam European Goods,SKU00015,Cookware Set,Kitchen,898,75.0,67350.0,2023-01-26,2023-03-23,2023-03-23,0,Yes,Toronto DC,Delivered,2023,1,Q1
+PO0000602,SUP0019,Vancouver Pacific Trading,SKU00004,Kitchen Blender,Appliances,1082,32.0,34624.0,2024-07-11,2024-08-08,2024-08-08,0,Yes,Vancouver DC,Delivered,2024,7,Q3
+PO0000603,SUP0016,Guadalajara Auto Parts,SKU00001,Wireless Headphones,Electronics,936,45.0,42120.0,2024-12-22,2025-01-09,2025-01-09,0,Yes,Calgary DC,In Transit,2024,12,Q4
+PO0000604,SUP0017,Montreal Distribution,SKU00025,Insulated Lunch Bag,Accessories,1719,9.0,15471.0,2022-12-29,2023-02-19,2023-02-19,0,Yes,Vancouver DC,Delivered,2022,12,Q4
+PO0000605,SUP0004,Busan Industrial Corp,SKU00013,Protein Powder 2kg,Health,907,18.0,16326.0,2023-10-22,2023-11-26,2023-12-13,17,No,Vancouver DC,Delivered,2023,10,Q4
+PO0000606,SUP0009,Taipei Electronics Co,SKU00013,Protein Powder 2kg,Health,323,18.0,5814.0,2023-12-04,2024-01-12,2024-01-12,0,Yes,Vancouver DC,Delivered,2023,12,Q4
+PO0000607,SUP0014,Ho Chi Minh Apparel,SKU00020,Throw Blanket,Home,1171,15.0,17565.0,2024-11-15,2024-12-05,2024-12-15,10,No,Montreal DC,Delivered,2024,11,Q4
+PO0000608,SUP0018,Toronto Wholesale Inc,SKU00021,Air Purifier,Appliances,1513,80.0,121040.0,2023-03-22,2023-05-16,2023-05-16,0,Yes,Montreal DC,Delivered,2023,3,Q1
+PO0000609,SUP0012,Bangkok Consumer Goods,SKU00030,Car Phone Mount,Automotive,1471,6.0,8826.0,2022-09-29,2022-11-20,2022-11-20,0,Yes,Montreal DC,Delivered,2022,9,Q3
+PO0000610,SUP0004,Busan Industrial Corp,SKU00025,Insulated Lunch Bag,Accessories,1218,9.0,10962.0,2023-12-23,2024-01-27,2024-01-27,0,Yes,Calgary DC,Delivered,2023,12,Q4
+PO0000611,SUP0018,Toronto Wholesale Inc,SKU00010,Desk Lamp,Furniture,101,20.0,2020.0,2024-05-15,2024-07-09,2024-07-09,0,Yes,Calgary DC,Delivered,2024,5,Q2
+PO0000612,SUP0005,Singapore Trade Hub,SKU00002,Office Chair,Furniture,1658,120.0,198960.0,2022-04-26,2022-06-03,2022-06-03,0,Yes,Vancouver DC,Delivered,2022,4,Q2
+PO0000613,SUP0010,Seoul Parts Manufacturing,SKU00022,Resistance Bands,Sports,1464,7.0,10248.0,2023-05-29,2023-06-20,2023-06-25,5,No,Montreal DC,Delivered,2023,5,Q2
+PO0000614,SUP0007,Rotterdam European Goods,SKU00025,Insulated Lunch Bag,Accessories,259,9.0,2331.0,2022-03-08,2022-05-03,2022-05-15,12,No,Vancouver DC,Delivered,2022,3,Q1
+PO0000615,SUP0018,Toronto Wholesale Inc,SKU00013,Protein Powder 2kg,Health,1685,18.0,30330.0,2023-05-02,2023-06-26,2023-06-26,0,Yes,Montreal DC,Delivered,2023,5,Q2
+PO0000616,SUP0002,Ningbo Global Exports,SKU00030,Car Phone Mount,Automotive,1664,6.0,9984.0,2024-02-21,2024-03-11,2024-03-11,0,Yes,Montreal DC,Delivered,2024,2,Q1
+PO0000617,SUP0018,Toronto Wholesale Inc,SKU00002,Office Chair,Furniture,1829,120.0,219480.0,2022-01-27,2022-03-23,2022-03-23,0,Yes,Calgary DC,Delivered,2022,1,Q1
+PO0000618,SUP0008,Hamburg Quality Products,SKU00030,Car Phone Mount,Automotive,1285,6.0,7710.0,2024-01-24,2024-02-24,2024-02-24,0,Yes,Vancouver DC,Delivered,2024,1,Q1
+PO0000619,SUP0007,Rotterdam European Goods,SKU00010,Desk Lamp,Furniture,202,20.0,4040.0,2024-07-08,2024-09-02,2024-09-08,6,No,Vancouver DC,Delivered,2024,7,Q3
+PO0000620,SUP0006,Hong Kong Merchandise Ltd,SKU00024,USB-C Hub,Electronics,927,20.0,18540.0,2024-11-18,2024-12-20,2024-12-20,0,Yes,Montreal DC,Delivered,2024,11,Q4
+PO0000621,SUP0018,Toronto Wholesale Inc,SKU00009,Denim Jeans,Apparel,572,22.0,12584.0,2022-09-24,2022-11-18,2022-11-18,0,Yes,Toronto DC,Delivered,2022,9,Q3
+PO0000622,SUP0011,Mumbai Textiles Ltd,SKU00015,Cookware Set,Kitchen,710,75.0,53250.0,2022-11-14,2022-12-06,2022-12-06,0,Yes,Toronto DC,Delivered,2022,11,Q4
+PO0000623,SUP0020,Calgary Resource Supply,SKU00027,Face Moisturizer,Beauty,1176,12.0,14112.0,2023-09-09,2023-10-10,2023-10-10,0,Yes,Montreal DC,Delivered,2023,9,Q3
+PO0000624,SUP0003,Shenzhen Tech Components,SKU00026,Standing Desk,Furniture,426,185.0,78810.0,2023-10-13,2023-11-13,2023-11-13,0,Yes,Toronto DC,Delivered,2023,10,Q4
+PO0000625,SUP0017,Montreal Distribution,SKU00006,Laptop Stand,Electronics,238,18.0,4284.0,2024-05-01,2024-06-22,2024-06-22,0,Yes,Montreal DC,Delivered,2024,5,Q2
+PO0000626,SUP0008,Hamburg Quality Products,SKU00029,Kids Building Blocks,Toys,651,11.0,7161.0,2023-03-13,2023-04-13,2023-04-13,0,Yes,Vancouver DC,Delivered,2023,3,Q1
+PO0000627,SUP0020,Calgary Resource Supply,SKU00017,Vitamin C 90 Pack,Health,1379,8.0,11032.0,2024-08-30,2024-09-30,2024-10-18,18,No,Toronto DC,Delivered,2024,8,Q3
+PO0000628,SUP0004,Busan Industrial Corp,SKU00022,Resistance Bands,Sports,1365,7.0,9555.0,2023-12-10,2024-01-14,2024-01-14,0,Yes,Vancouver DC,Delivered,2023,12,Q4
+PO0000629,SUP0002,Ningbo Global Exports,SKU00022,Resistance Bands,Sports,1985,7.0,13895.0,2023-10-20,2023-11-08,2023-11-21,13,No,Toronto DC,Delivered,2023,10,Q4
+PO0000630,SUP0013,Jakarta Industrial PT,SKU00009,Denim Jeans,Apparel,1733,22.0,38126.0,2023-08-03,2023-09-07,2023-09-08,1,No,Montreal DC,Delivered,2023,8,Q3
+PO0000631,SUP0017,Montreal Distribution,SKU00026,Standing Desk,Furniture,657,185.0,121545.0,2024-11-07,2024-12-29,2024-12-29,0,Yes,Vancouver DC,Delivered,2024,11,Q4
+PO0000632,SUP0011,Mumbai Textiles Ltd,SKU00017,Vitamin C 90 Pack,Health,1633,8.0,13064.0,2022-06-18,2022-07-10,2022-07-10,0,Yes,Toronto DC,Delivered,2022,6,Q2
+PO0000633,SUP0003,Shenzhen Tech Components,SKU00007,Yoga Mat,Sports,471,12.0,5652.0,2023-03-13,2023-04-13,2023-04-27,14,No,Calgary DC,Delivered,2023,3,Q1
+PO0000634,SUP0003,Shenzhen Tech Components,SKU00024,USB-C Hub,Electronics,729,20.0,14580.0,2022-11-11,2022-12-12,2022-12-12,0,Yes,Toronto DC,Delivered,2022,11,Q4
+PO0000635,SUP0003,Shenzhen Tech Components,SKU00003,Winter Jacket,Apparel,1192,55.0,65560.0,2022-04-22,2022-05-23,2022-05-23,0,Yes,Toronto DC,Delivered,2022,4,Q2
+PO0000636,SUP0019,Vancouver Pacific Trading,SKU00027,Face Moisturizer,Beauty,973,12.0,11676.0,2023-04-12,2023-05-10,2023-05-10,0,Yes,Calgary DC,Delivered,2023,4,Q2
+PO0000637,SUP0014,Ho Chi Minh Apparel,SKU00011,Bluetooth Speaker,Electronics,1145,30.0,34350.0,2022-02-04,2022-02-24,2022-02-24,0,Yes,Toronto DC,Delivered,2022,2,Q1
+PO0000638,SUP0020,Calgary Resource Supply,SKU00003,Winter Jacket,Apparel,1079,55.0,59345.0,2022-04-04,2022-05-05,2022-05-05,0,Yes,Toronto DC,Delivered,2022,4,Q2
+PO0000639,SUP0010,Seoul Parts Manufacturing,SKU00026,Standing Desk,Furniture,1617,185.0,299145.0,2023-09-10,2023-10-02,2023-10-02,0,Yes,Calgary DC,Delivered,2023,9,Q3
+PO0000640,SUP0013,Jakarta Industrial PT,SKU00013,Protein Powder 2kg,Health,500,18.0,9000.0,2022-03-05,2022-04-09,2022-04-09,0,Yes,Vancouver DC,Delivered,2022,3,Q1
+PO0000641,SUP0013,Jakarta Industrial PT,SKU00026,Standing Desk,Furniture,1866,185.0,345210.0,2023-08-28,2023-10-02,2023-10-02,0,Yes,Montreal DC,Delivered,2023,8,Q3
+PO0000642,SUP0001,Shanghai Premier Manufacturing,SKU00018,Gaming Mouse,Electronics,1222,25.0,30550.0,2022-10-17,2022-11-01,2022-11-01,0,Yes,Calgary DC,Delivered,2022,10,Q4
+PO0000643,SUP0018,Toronto Wholesale Inc,SKU00018,Gaming Mouse,Electronics,1568,25.0,39200.0,2022-06-24,2022-08-18,2022-08-18,0,Yes,Montreal DC,Delivered,2022,6,Q2
+PO0000644,SUP0007,Rotterdam European Goods,SKU00014,Smart Watch,Electronics,502,95.0,47690.0,2024-11-15,2025-01-10,2025-01-10,0,Yes,Montreal DC,In Transit,2024,11,Q4
+PO0000645,SUP0007,Rotterdam European Goods,SKU00004,Kitchen Blender,Appliances,1793,32.0,57376.0,2023-01-07,2023-03-04,2023-03-23,19,No,Calgary DC,Delivered,2023,1,Q1
+PO0000646,SUP0018,Toronto Wholesale Inc,SKU00003,Winter Jacket,Apparel,454,55.0,24970.0,2023-08-19,2023-10-13,2023-10-13,0,Yes,Calgary DC,Delivered,2023,8,Q3
+PO0000647,SUP0011,Mumbai Textiles Ltd,SKU00012,Backpack,Accessories,1318,28.0,36904.0,2022-09-20,2022-10-12,2022-10-12,0,Yes,Toronto DC,Delivered,2022,9,Q3
+PO0000648,SUP0007,Rotterdam European Goods,SKU00011,Bluetooth Speaker,Electronics,1400,30.0,42000.0,2024-09-22,2024-11-17,2024-11-17,0,Yes,Montreal DC,Delivered,2024,9,Q3
+PO0000649,SUP0019,Vancouver Pacific Trading,SKU00005,Running Shoes,Footwear,395,48.0,18960.0,2024-01-17,2024-02-14,2024-02-25,11,No,Toronto DC,Delivered,2024,1,Q1
+PO0000650,SUP0011,Mumbai Textiles Ltd,SKU00008,Coffee Maker,Appliances,786,38.0,29868.0,2023-03-30,2023-04-21,2023-04-21,0,Yes,Vancouver DC,Delivered,2023,3,Q1
+PO0000651,SUP0011,Mumbai Textiles Ltd,SKU00029,Kids Building Blocks,Toys,1636,11.0,17996.0,2024-09-09,2024-10-01,2024-10-01,0,Yes,Montreal DC,Delivered,2024,9,Q3
+PO0000652,SUP0016,Guadalajara Auto Parts,SKU00018,Gaming Mouse,Electronics,217,25.0,5425.0,2022-08-11,2022-08-29,2022-08-29,0,Yes,Montreal DC,Delivered,2022,8,Q3
+PO0000653,SUP0005,Singapore Trade Hub,SKU00029,Kids Building Blocks,Toys,1333,11.0,14663.0,2023-02-07,2023-03-17,2023-03-17,0,Yes,Toronto DC,Delivered,2023,2,Q1
+PO0000654,SUP0003,Shenzhen Tech Components,SKU00029,Kids Building Blocks,Toys,1714,11.0,18854.0,2022-02-08,2022-03-11,2022-03-11,0,Yes,Calgary DC,Delivered,2022,2,Q1
+PO0000655,SUP0019,Vancouver Pacific Trading,SKU00007,Yoga Mat,Sports,1880,12.0,22560.0,2022-03-17,2022-04-14,2022-04-14,0,Yes,Calgary DC,Delivered,2022,3,Q1
+PO0000656,SUP0005,Singapore Trade Hub,SKU00012,Backpack,Accessories,1257,28.0,35196.0,2024-03-14,2024-04-21,2024-04-29,8,No,Montreal DC,Delivered,2024,3,Q1
+PO0000657,SUP0005,Singapore Trade Hub,SKU00015,Cookware Set,Kitchen,795,75.0,59625.0,2024-10-23,2024-11-30,2024-11-30,0,Yes,Toronto DC,Delivered,2024,10,Q4
+PO0000658,SUP0008,Hamburg Quality Products,SKU00028,Dog Leash Set,Pet Supplies,376,8.0,3008.0,2022-12-06,2023-01-06,2023-01-06,0,Yes,Vancouver DC,Delivered,2022,12,Q4
+PO0000659,SUP0019,Vancouver Pacific Trading,SKU00019,Water Bottle 1L,Sports,132,10.0,1320.0,2022-10-27,2022-11-24,2022-12-10,16,No,Vancouver DC,Delivered,2022,10,Q4
+PO0000660,SUP0016,Guadalajara Auto Parts,SKU00008,Coffee Maker,Appliances,137,38.0,5206.0,2022-05-09,2022-05-27,2022-05-27,0,Yes,Vancouver DC,Delivered,2022,5,Q2
+PO0000661,SUP0017,Montreal Distribution,SKU00030,Car Phone Mount,Automotive,981,6.0,5886.0,2024-01-10,2024-03-02,2024-03-02,0,Yes,Toronto DC,Delivered,2024,1,Q1
+PO0000662,SUP0002,Ningbo Global Exports,SKU00021,Air Purifier,Appliances,1117,80.0,89360.0,2023-10-26,2023-11-14,2023-11-14,0,Yes,Montreal DC,Delivered,2023,10,Q4
+PO0000663,SUP0009,Taipei Electronics Co,SKU00019,Water Bottle 1L,Sports,798,10.0,7980.0,2022-12-23,2023-01-31,2023-01-31,0,Yes,Toronto DC,Delivered,2022,12,Q4
+PO0000664,SUP0017,Montreal Distribution,SKU00009,Denim Jeans,Apparel,772,22.0,16984.0,2024-02-10,2024-04-02,2024-04-02,0,Yes,Montreal DC,Delivered,2024,2,Q1
+PO0000665,SUP0016,Guadalajara Auto Parts,SKU00026,Standing Desk,Furniture,1856,185.0,343360.0,2024-09-14,2024-10-02,2024-10-02,0,Yes,Vancouver DC,Delivered,2024,9,Q3
+PO0000666,SUP0015,Colombo Trading Co,SKU00006,Laptop Stand,Electronics,625,18.0,11250.0,2023-04-17,2023-06-01,2023-06-01,0,Yes,Vancouver DC,Delivered,2023,4,Q2
+PO0000667,SUP0005,Singapore Trade Hub,SKU00006,Laptop Stand,Electronics,1723,18.0,31014.0,2022-11-19,2022-12-27,2022-12-27,0,Yes,Toronto DC,Delivered,2022,11,Q4
+PO0000668,SUP0008,Hamburg Quality Products,SKU00014,Smart Watch,Electronics,1030,95.0,97850.0,2023-11-08,2023-12-09,2023-12-09,0,Yes,Calgary DC,Delivered,2023,11,Q4
+PO0000669,SUP0007,Rotterdam European Goods,SKU00019,Water Bottle 1L,Sports,138,10.0,1380.0,2022-11-27,2023-01-22,2023-01-22,0,Yes,Vancouver DC,Delivered,2022,11,Q4
+PO0000670,SUP0019,Vancouver Pacific Trading,SKU00019,Water Bottle 1L,Sports,130,10.0,1300.0,2022-11-26,2022-12-24,2022-12-24,0,Yes,Vancouver DC,Delivered,2022,11,Q4
+PO0000671,SUP0002,Ningbo Global Exports,SKU00006,Laptop Stand,Electronics,880,18.0,15840.0,2023-06-13,2023-07-02,2023-07-02,0,Yes,Toronto DC,Delivered,2023,6,Q2
+PO0000672,SUP0010,Seoul Parts Manufacturing,SKU00003,Winter Jacket,Apparel,1015,55.0,55825.0,2023-03-20,2023-04-11,2023-04-11,0,Yes,Calgary DC,Delivered,2023,3,Q1
+PO0000673,SUP0006,Hong Kong Merchandise Ltd,SKU00008,Coffee Maker,Appliances,1243,38.0,47234.0,2024-04-21,2024-05-23,2024-05-23,0,Yes,Vancouver DC,Delivered,2024,4,Q2
+PO0000674,SUP0020,Calgary Resource Supply,SKU00022,Resistance Bands,Sports,1454,7.0,10178.0,2024-11-12,2024-12-13,2024-12-13,0,Yes,Montreal DC,Delivered,2024,11,Q4
+PO0000675,SUP0015,Colombo Trading Co,SKU00020,Throw Blanket,Home,320,15.0,4800.0,2022-05-21,2022-07-05,2022-07-05,0,Yes,Toronto DC,Delivered,2022,5,Q2
+PO0000676,SUP0001,Shanghai Premier Manufacturing,SKU00007,Yoga Mat,Sports,1742,12.0,20904.0,2024-12-06,2024-12-21,2024-12-21,0,Yes,Vancouver DC,Delivered,2024,12,Q4
+PO0000677,SUP0020,Calgary Resource Supply,SKU00004,Kitchen Blender,Appliances,1278,32.0,40896.0,2022-12-30,2023-01-30,2023-02-15,16,No,Toronto DC,Delivered,2022,12,Q4
+PO0000678,SUP0018,Toronto Wholesale Inc,SKU00017,Vitamin C 90 Pack,Health,316,8.0,2528.0,2022-08-29,2022-10-23,2022-10-23,0,Yes,Toronto DC,Delivered,2022,8,Q3
+PO0000679,SUP0014,Ho Chi Minh Apparel,SKU00017,Vitamin C 90 Pack,Health,1478,8.0,11824.0,2024-05-11,2024-05-31,2024-06-12,12,No,Calgary DC,Delivered,2024,5,Q2
+PO0000680,SUP0008,Hamburg Quality Products,SKU00026,Standing Desk,Furniture,1697,185.0,313945.0,2024-09-14,2024-10-15,2024-10-15,0,Yes,Toronto DC,Delivered,2024,9,Q3
+PO0000681,SUP0014,Ho Chi Minh Apparel,SKU00005,Running Shoes,Footwear,1913,48.0,91824.0,2023-06-06,2023-06-26,2023-06-26,0,Yes,Toronto DC,Delivered,2023,6,Q2
+PO0000682,SUP0010,Seoul Parts Manufacturing,SKU00020,Throw Blanket,Home,1502,15.0,22530.0,2024-04-16,2024-05-08,2024-05-08,0,Yes,Toronto DC,Delivered,2024,4,Q2
+PO0000683,SUP0019,Vancouver Pacific Trading,SKU00017,Vitamin C 90 Pack,Health,1390,8.0,11120.0,2022-08-30,2022-09-27,2022-09-27,0,Yes,Vancouver DC,Delivered,2022,8,Q3
+PO0000684,SUP0011,Mumbai Textiles Ltd,SKU00014,Smart Watch,Electronics,1384,95.0,131480.0,2024-01-12,2024-02-03,2024-02-03,0,Yes,Montreal DC,Delivered,2024,1,Q1
+PO0000685,SUP0009,Taipei Electronics Co,SKU00028,Dog Leash Set,Pet Supplies,614,8.0,4912.0,2024-05-17,2024-06-25,2024-06-25,0,Yes,Calgary DC,Delivered,2024,5,Q2
+PO0000686,SUP0007,Rotterdam European Goods,SKU00014,Smart Watch,Electronics,1186,95.0,112670.0,2024-09-15,2024-11-10,2024-11-10,0,Yes,Calgary DC,Delivered,2024,9,Q3
+PO0000687,SUP0009,Taipei Electronics Co,SKU00010,Desk Lamp,Furniture,1801,20.0,36020.0,2023-12-07,2024-01-15,2024-01-15,0,Yes,Toronto DC,Delivered,2023,12,Q4
+PO0000688,SUP0008,Hamburg Quality Products,SKU00015,Cookware Set,Kitchen,870,75.0,65250.0,2022-11-28,2022-12-29,2022-12-29,0,Yes,Montreal DC,Delivered,2022,11,Q4
+PO0000689,SUP0018,Toronto Wholesale Inc,SKU00020,Throw Blanket,Home,1352,15.0,20280.0,2022-04-17,2022-06-11,2022-06-11,0,Yes,Toronto DC,Delivered,2022,4,Q2
+PO0000690,SUP0003,Shenzhen Tech Components,SKU00027,Face Moisturizer,Beauty,941,12.0,11292.0,2022-10-25,2022-11-25,2022-12-11,16,No,Toronto DC,Delivered,2022,10,Q4
+PO0000691,SUP0003,Shenzhen Tech Components,SKU00009,Denim Jeans,Apparel,127,22.0,2794.0,2023-03-31,2023-05-01,2023-05-01,0,Yes,Calgary DC,Delivered,2023,3,Q1
+PO0000692,SUP0013,Jakarta Industrial PT,SKU00020,Throw Blanket,Home,1273,15.0,19095.0,2024-12-03,2025-01-07,2025-01-07,0,Yes,Toronto DC,In Transit,2024,12,Q4
+PO0000693,SUP0006,Hong Kong Merchandise Ltd,SKU00021,Air Purifier,Appliances,1791,80.0,143280.0,2024-10-09,2024-11-10,2024-11-10,0,Yes,Montreal DC,Delivered,2024,10,Q4
+PO0000694,SUP0007,Rotterdam European Goods,SKU00002,Office Chair,Furniture,1309,120.0,157080.0,2024-11-11,2025-01-06,2025-01-06,0,Yes,Vancouver DC,In Transit,2024,11,Q4
+PO0000695,SUP0002,Ningbo Global Exports,SKU00012,Backpack,Accessories,227,28.0,6356.0,2023-05-05,2023-05-24,2023-05-25,1,No,Montreal DC,Delivered,2023,5,Q2
+PO0000696,SUP0013,Jakarta Industrial PT,SKU00012,Backpack,Accessories,1110,28.0,31080.0,2024-03-20,2024-04-24,2024-04-24,0,Yes,Toronto DC,Delivered,2024,3,Q1
+PO0000697,SUP0003,Shenzhen Tech Components,SKU00030,Car Phone Mount,Automotive,1749,6.0,10494.0,2022-07-04,2022-08-04,2022-08-04,0,Yes,Montreal DC,Delivered,2022,7,Q3
+PO0000698,SUP0012,Bangkok Consumer Goods,SKU00027,Face Moisturizer,Beauty,448,12.0,5376.0,2023-07-21,2023-09-11,2023-09-11,0,Yes,Calgary DC,Delivered,2023,7,Q3
+PO0000699,SUP0013,Jakarta Industrial PT,SKU00019,Water Bottle 1L,Sports,1086,10.0,10860.0,2022-01-10,2022-02-14,2022-02-14,0,Yes,Toronto DC,Delivered,2022,1,Q1
+PO0000700,SUP0018,Toronto Wholesale Inc,SKU00003,Winter Jacket,Apparel,289,55.0,15895.0,2024-10-27,2024-12-21,2024-12-21,0,Yes,Montreal DC,Delivered,2024,10,Q4
+PO0000701,SUP0018,Toronto Wholesale Inc,SKU00027,Face Moisturizer,Beauty,1203,12.0,14436.0,2023-05-28,2023-07-22,2023-08-06,15,No,Calgary DC,Delivered,2023,5,Q2
+PO0000702,SUP0008,Hamburg Quality Products,SKU00025,Insulated Lunch Bag,Accessories,1886,9.0,16974.0,2023-11-27,2023-12-28,2023-12-28,0,Yes,Toronto DC,Delivered,2023,11,Q4
+PO0000703,SUP0016,Guadalajara Auto Parts,SKU00004,Kitchen Blender,Appliances,1665,32.0,53280.0,2023-06-13,2023-07-01,2023-07-01,0,Yes,Vancouver DC,Delivered,2023,6,Q2
+PO0000704,SUP0008,Hamburg Quality Products,SKU00026,Standing Desk,Furniture,1107,185.0,204795.0,2023-10-09,2023-11-09,2023-11-23,14,No,Toronto DC,Delivered,2023,10,Q4
+PO0000705,SUP0009,Taipei Electronics Co,SKU00008,Coffee Maker,Appliances,1583,38.0,60154.0,2023-08-12,2023-09-20,2023-09-20,0,Yes,Montreal DC,Delivered,2023,8,Q3
+PO0000706,SUP0003,Shenzhen Tech Components,SKU00018,Gaming Mouse,Electronics,497,25.0,12425.0,2023-01-01,2023-02-01,2023-02-01,0,Yes,Montreal DC,Delivered,2023,1,Q1
+PO0000707,SUP0006,Hong Kong Merchandise Ltd,SKU00024,USB-C Hub,Electronics,530,20.0,10600.0,2023-01-25,2023-02-26,2023-02-26,0,Yes,Vancouver DC,Delivered,2023,1,Q1
+PO0000708,SUP0009,Taipei Electronics Co,SKU00007,Yoga Mat,Sports,1762,12.0,21144.0,2023-04-15,2023-05-24,2023-05-31,7,No,Montreal DC,Delivered,2023,4,Q2
+PO0000709,SUP0005,Singapore Trade Hub,SKU00025,Insulated Lunch Bag,Accessories,1434,9.0,12906.0,2022-08-07,2022-09-14,2022-09-18,4,No,Calgary DC,Delivered,2022,8,Q3
+PO0000710,SUP0020,Calgary Resource Supply,SKU00001,Wireless Headphones,Electronics,695,45.0,31275.0,2022-03-28,2022-04-28,2022-04-28,0,Yes,Calgary DC,Delivered,2022,3,Q1
+PO0000711,SUP0019,Vancouver Pacific Trading,SKU00028,Dog Leash Set,Pet Supplies,1615,8.0,12920.0,2023-07-17,2023-08-14,2023-08-14,0,Yes,Montreal DC,Delivered,2023,7,Q3
+PO0000712,SUP0013,Jakarta Industrial PT,SKU00008,Coffee Maker,Appliances,916,38.0,34808.0,2022-09-20,2022-10-25,2022-10-25,0,Yes,Calgary DC,Delivered,2022,9,Q3
+PO0000713,SUP0018,Toronto Wholesale Inc,SKU00002,Office Chair,Furniture,1455,120.0,174600.0,2024-10-26,2024-12-20,2024-12-20,0,Yes,Vancouver DC,Delivered,2024,10,Q4
+PO0000714,SUP0015,Colombo Trading Co,SKU00004,Kitchen Blender,Appliances,67,32.0,2144.0,2024-11-27,2025-01-11,2025-01-11,0,Yes,Toronto DC,In Transit,2024,11,Q4
+PO0000715,SUP0007,Rotterdam European Goods,SKU00013,Protein Powder 2kg,Health,1815,18.0,32670.0,2022-07-26,2022-09-20,2022-09-20,0,Yes,Montreal DC,Delivered,2022,7,Q3
+PO0000716,SUP0006,Hong Kong Merchandise Ltd,SKU00018,Gaming Mouse,Electronics,1305,25.0,32625.0,2023-06-23,2023-07-25,2023-07-25,0,Yes,Montreal DC,Delivered,2023,6,Q2
+PO0000717,SUP0012,Bangkok Consumer Goods,SKU00006,Laptop Stand,Electronics,1485,18.0,26730.0,2024-10-18,2024-12-09,2024-12-09,0,Yes,Montreal DC,Delivered,2024,10,Q4
+PO0000718,SUP0012,Bangkok Consumer Goods,SKU00028,Dog Leash Set,Pet Supplies,1220,8.0,9760.0,2024-03-31,2024-05-22,2024-05-22,0,Yes,Vancouver DC,Delivered,2024,3,Q1
+PO0000719,SUP0019,Vancouver Pacific Trading,SKU00022,Resistance Bands,Sports,1696,7.0,11872.0,2023-04-14,2023-05-12,2023-05-12,0,Yes,Vancouver DC,Delivered,2023,4,Q2
+PO0000720,SUP0018,Toronto Wholesale Inc,SKU00014,Smart Watch,Electronics,1562,95.0,148390.0,2024-02-20,2024-04-15,2024-04-15,0,Yes,Vancouver DC,Delivered,2024,2,Q1
+PO0000721,SUP0016,Guadalajara Auto Parts,SKU00026,Standing Desk,Furniture,325,185.0,60125.0,2022-01-20,2022-02-07,2022-02-07,0,Yes,Montreal DC,Delivered,2022,1,Q1
+PO0000722,SUP0016,Guadalajara Auto Parts,SKU00010,Desk Lamp,Furniture,147,20.0,2940.0,2023-05-29,2023-06-16,2023-07-04,18,No,Calgary DC,Delivered,2023,5,Q2
+PO0000723,SUP0004,Busan Industrial Corp,SKU00023,Bamboo Cutting Board,Kitchen,570,12.0,6840.0,2022-12-01,2023-01-05,2023-01-05,0,Yes,Calgary DC,Delivered,2022,12,Q4
+PO0000724,SUP0004,Busan Industrial Corp,SKU00015,Cookware Set,Kitchen,1197,75.0,89775.0,2023-11-17,2023-12-22,2023-12-22,0,Yes,Montreal DC,Delivered,2023,11,Q4
+PO0000725,SUP0012,Bangkok Consumer Goods,SKU00001,Wireless Headphones,Electronics,1441,45.0,64845.0,2024-04-23,2024-06-14,2024-06-14,0,Yes,Vancouver DC,Delivered,2024,4,Q2
+PO0000726,SUP0019,Vancouver Pacific Trading,SKU00019,Water Bottle 1L,Sports,1428,10.0,14280.0,2022-12-24,2023-01-21,2023-01-21,0,Yes,Calgary DC,Delivered,2022,12,Q4
+PO0000727,SUP0015,Colombo Trading Co,SKU00029,Kids Building Blocks,Toys,999,11.0,10989.0,2022-06-10,2022-07-25,2022-07-25,0,Yes,Vancouver DC,Delivered,2022,6,Q2
+PO0000728,SUP0006,Hong Kong Merchandise Ltd,SKU00021,Air Purifier,Appliances,1220,80.0,97600.0,2023-11-22,2023-12-24,2023-12-24,0,Yes,Calgary DC,Delivered,2023,11,Q4
+PO0000729,SUP0003,Shenzhen Tech Components,SKU00003,Winter Jacket,Apparel,698,55.0,38390.0,2022-11-28,2022-12-29,2022-12-29,0,Yes,Montreal DC,Delivered,2022,11,Q4
+PO0000730,SUP0009,Taipei Electronics Co,SKU00020,Throw Blanket,Home,1649,15.0,24735.0,2024-03-20,2024-04-28,2024-05-07,9,No,Montreal DC,Delivered,2024,3,Q1
+PO0000731,SUP0019,Vancouver Pacific Trading,SKU00017,Vitamin C 90 Pack,Health,1799,8.0,14392.0,2024-07-11,2024-08-08,2024-08-08,0,Yes,Toronto DC,Delivered,2024,7,Q3
+PO0000732,SUP0005,Singapore Trade Hub,SKU00024,USB-C Hub,Electronics,1485,20.0,29700.0,2023-04-26,2023-06-03,2023-06-12,9,No,Toronto DC,Delivered,2023,4,Q2
+PO0000733,SUP0007,Rotterdam European Goods,SKU00006,Laptop Stand,Electronics,1968,18.0,35424.0,2024-03-24,2024-05-19,2024-05-19,0,Yes,Calgary DC,Delivered,2024,3,Q1
+PO0000734,SUP0018,Toronto Wholesale Inc,SKU00002,Office Chair,Furniture,220,120.0,26400.0,2022-02-23,2022-04-19,2022-04-19,0,Yes,Toronto DC,Delivered,2022,2,Q1
+PO0000735,SUP0009,Taipei Electronics Co,SKU00020,Throw Blanket,Home,1863,15.0,27945.0,2022-11-15,2022-12-24,2022-12-24,0,Yes,Calgary DC,Delivered,2022,11,Q4
+PO0000736,SUP0010,Seoul Parts Manufacturing,SKU00008,Coffee Maker,Appliances,308,38.0,11704.0,2023-05-22,2023-06-13,2023-06-13,0,Yes,Vancouver DC,Delivered,2023,5,Q2
+PO0000737,SUP0017,Montreal Distribution,SKU00027,Face Moisturizer,Beauty,780,12.0,9360.0,2022-12-16,2023-02-06,2023-02-06,0,Yes,Montreal DC,Delivered,2022,12,Q4
+PO0000738,SUP0016,Guadalajara Auto Parts,SKU00015,Cookware Set,Kitchen,1992,75.0,149400.0,2023-07-12,2023-07-30,2023-07-30,0,Yes,Vancouver DC,Delivered,2023,7,Q3
+PO0000739,SUP0019,Vancouver Pacific Trading,SKU00020,Throw Blanket,Home,1360,15.0,20400.0,2024-07-24,2024-08-21,2024-08-21,0,Yes,Montreal DC,Delivered,2024,7,Q3
+PO0000740,SUP0012,Bangkok Consumer Goods,SKU00016,Camping Tent,Outdoors,799,110.0,87890.0,2023-04-11,2023-06-02,2023-06-02,0,Yes,Calgary DC,Delivered,2023,4,Q2
+PO0000741,SUP0009,Taipei Electronics Co,SKU00005,Running Shoes,Footwear,1719,48.0,82512.0,2023-09-14,2023-10-23,2023-10-23,0,Yes,Vancouver DC,Delivered,2023,9,Q3
+PO0000742,SUP0012,Bangkok Consumer Goods,SKU00010,Desk Lamp,Furniture,1938,20.0,38760.0,2024-08-18,2024-10-09,2024-10-09,0,Yes,Calgary DC,Delivered,2024,8,Q3
+PO0000743,SUP0016,Guadalajara Auto Parts,SKU00010,Desk Lamp,Furniture,1272,20.0,25440.0,2022-01-19,2022-02-06,2022-02-06,0,Yes,Vancouver DC,Delivered,2022,1,Q1
+PO0000744,SUP0001,Shanghai Premier Manufacturing,SKU00018,Gaming Mouse,Electronics,1198,25.0,29950.0,2024-02-05,2024-02-20,2024-02-20,0,Yes,Calgary DC,Delivered,2024,2,Q1
+PO0000745,SUP0013,Jakarta Industrial PT,SKU00008,Coffee Maker,Appliances,501,38.0,19038.0,2022-12-01,2023-01-05,2023-01-18,13,No,Montreal DC,Delivered,2022,12,Q4
+PO0000746,SUP0003,Shenzhen Tech Components,SKU00014,Smart Watch,Electronics,1913,95.0,181735.0,2023-05-06,2023-06-06,2023-06-06,0,Yes,Montreal DC,Delivered,2023,5,Q2
+PO0000747,SUP0010,Seoul Parts Manufacturing,SKU00021,Air Purifier,Appliances,1797,80.0,143760.0,2024-12-25,2025-01-16,2025-01-16,0,Yes,Toronto DC,In Transit,2024,12,Q4
+PO0000748,SUP0006,Hong Kong Merchandise Ltd,SKU00005,Running Shoes,Footwear,1315,48.0,63120.0,2023-08-17,2023-09-18,2023-09-18,0,Yes,Calgary DC,Delivered,2023,8,Q3
+PO0000749,SUP0009,Taipei Electronics Co,SKU00023,Bamboo Cutting Board,Kitchen,361,12.0,4332.0,2024-10-04,2024-11-12,2024-11-12,0,Yes,Toronto DC,Delivered,2024,10,Q4
+PO0000750,SUP0018,Toronto Wholesale Inc,SKU00001,Wireless Headphones,Electronics,306,45.0,13770.0,2023-01-16,2023-03-12,2023-03-12,0,Yes,Calgary DC,Delivered,2023,1,Q1
+PO0000751,SUP0001,Shanghai Premier Manufacturing,SKU00008,Coffee Maker,Appliances,494,38.0,18772.0,2022-07-04,2022-07-19,2022-07-19,0,Yes,Montreal DC,Delivered,2022,7,Q3
+PO0000752,SUP0014,Ho Chi Minh Apparel,SKU00010,Desk Lamp,Furniture,1670,20.0,33400.0,2024-10-17,2024-11-06,2024-11-06,0,Yes,Toronto DC,Delivered,2024,10,Q4
+PO0000753,SUP0011,Mumbai Textiles Ltd,SKU00003,Winter Jacket,Apparel,853,55.0,46915.0,2022-10-27,2022-11-18,2022-11-18,0,Yes,Toronto DC,Delivered,2022,10,Q4
+PO0000754,SUP0018,Toronto Wholesale Inc,SKU00016,Camping Tent,Outdoors,562,110.0,61820.0,2023-01-07,2023-03-03,2023-03-10,7,No,Calgary DC,Delivered,2023,1,Q1
+PO0000755,SUP0001,Shanghai Premier Manufacturing,SKU00004,Kitchen Blender,Appliances,957,32.0,30624.0,2023-05-25,2023-06-09,2023-06-09,0,Yes,Vancouver DC,Delivered,2023,5,Q2
+PO0000756,SUP0002,Ningbo Global Exports,SKU00007,Yoga Mat,Sports,476,12.0,5712.0,2024-08-01,2024-08-20,2024-08-20,0,Yes,Calgary DC,Delivered,2024,8,Q3
+PO0000757,SUP0013,Jakarta Industrial PT,SKU00022,Resistance Bands,Sports,1541,7.0,10787.0,2023-10-02,2023-11-06,2023-11-06,0,Yes,Toronto DC,Delivered,2023,10,Q4
+PO0000758,SUP0018,Toronto Wholesale Inc,SKU00017,Vitamin C 90 Pack,Health,661,8.0,5288.0,2022-09-08,2022-11-02,2022-11-02,0,Yes,Vancouver DC,Delivered,2022,9,Q3
+PO0000759,SUP0012,Bangkok Consumer Goods,SKU00029,Kids Building Blocks,Toys,533,11.0,5863.0,2022-04-17,2022-06-08,2022-06-15,7,No,Calgary DC,Delivered,2022,4,Q2
+PO0000760,SUP0011,Mumbai Textiles Ltd,SKU00001,Wireless Headphones,Electronics,860,45.0,38700.0,2022-12-09,2022-12-31,2022-12-31,0,Yes,Vancouver DC,Delivered,2022,12,Q4
+PO0000761,SUP0001,Shanghai Premier Manufacturing,SKU00002,Office Chair,Furniture,1628,120.0,195360.0,2024-08-31,2024-09-15,2024-09-15,0,Yes,Toronto DC,Delivered,2024,8,Q3
+PO0000762,SUP0008,Hamburg Quality Products,SKU00006,Laptop Stand,Electronics,743,18.0,13374.0,2024-10-20,2024-11-20,2024-11-20,0,Yes,Toronto DC,Delivered,2024,10,Q4
+PO0000763,SUP0002,Ningbo Global Exports,SKU00012,Backpack,Accessories,307,28.0,8596.0,2022-11-12,2022-12-01,2022-12-01,0,Yes,Calgary DC,Delivered,2022,11,Q4
+PO0000764,SUP0008,Hamburg Quality Products,SKU00011,Bluetooth Speaker,Electronics,93,30.0,2790.0,2023-12-13,2024-01-13,2024-01-13,0,Yes,Calgary DC,Delivered,2023,12,Q4
+PO0000765,SUP0012,Bangkok Consumer Goods,SKU00024,USB-C Hub,Electronics,1043,20.0,20860.0,2022-10-03,2022-11-24,2022-12-03,9,No,Calgary DC,Delivered,2022,10,Q4
+PO0000766,SUP0018,Toronto Wholesale Inc,SKU00010,Desk Lamp,Furniture,1163,20.0,23260.0,2024-09-30,2024-11-24,2024-11-24,0,Yes,Montreal DC,Delivered,2024,9,Q3
+PO0000767,SUP0011,Mumbai Textiles Ltd,SKU00024,USB-C Hub,Electronics,1276,20.0,25520.0,2024-08-17,2024-09-08,2024-09-17,9,No,Vancouver DC,Delivered,2024,8,Q3
+PO0000768,SUP0003,Shenzhen Tech Components,SKU00017,Vitamin C 90 Pack,Health,589,8.0,4712.0,2022-11-14,2022-12-15,2022-12-15,0,Yes,Montreal DC,Delivered,2022,11,Q4
+PO0000769,SUP0015,Colombo Trading Co,SKU00001,Wireless Headphones,Electronics,1858,45.0,83610.0,2024-11-02,2024-12-17,2024-12-17,0,Yes,Toronto DC,Delivered,2024,11,Q4
+PO0000770,SUP0020,Calgary Resource Supply,SKU00028,Dog Leash Set,Pet Supplies,1526,8.0,12208.0,2024-01-16,2024-02-16,2024-02-16,0,Yes,Toronto DC,Delivered,2024,1,Q1
+PO0000771,SUP0018,Toronto Wholesale Inc,SKU00027,Face Moisturizer,Beauty,1068,12.0,12816.0,2024-03-04,2024-04-28,2024-04-28,0,Yes,Vancouver DC,Delivered,2024,3,Q1
+PO0000772,SUP0020,Calgary Resource Supply,SKU00010,Desk Lamp,Furniture,276,20.0,5520.0,2023-10-23,2023-11-23,2023-11-23,0,Yes,Toronto DC,Delivered,2023,10,Q4
+PO0000773,SUP0017,Montreal Distribution,SKU00022,Resistance Bands,Sports,315,7.0,2205.0,2022-05-17,2022-07-08,2022-07-10,2,No,Vancouver DC,Delivered,2022,5,Q2
+PO0000774,SUP0002,Ningbo Global Exports,SKU00007,Yoga Mat,Sports,115,12.0,1380.0,2022-08-08,2022-08-27,2022-08-27,0,Yes,Calgary DC,Delivered,2022,8,Q3
+PO0000775,SUP0016,Guadalajara Auto Parts,SKU00017,Vitamin C 90 Pack,Health,1290,8.0,10320.0,2023-06-09,2023-06-27,2023-06-27,0,Yes,Toronto DC,Delivered,2023,6,Q2
+PO0000776,SUP0001,Shanghai Premier Manufacturing,SKU00030,Car Phone Mount,Automotive,1754,6.0,10524.0,2023-03-04,2023-03-19,2023-04-04,16,No,Toronto DC,Delivered,2023,3,Q1
+PO0000777,SUP0015,Colombo Trading Co,SKU00026,Standing Desk,Furniture,1971,185.0,364635.0,2022-05-05,2022-06-19,2022-06-19,0,Yes,Calgary DC,Delivered,2022,5,Q2
+PO0000778,SUP0012,Bangkok Consumer Goods,SKU00026,Standing Desk,Furniture,133,185.0,24605.0,2022-04-30,2022-06-21,2022-06-21,0,Yes,Toronto DC,Delivered,2022,4,Q2
+PO0000779,SUP0010,Seoul Parts Manufacturing,SKU00003,Winter Jacket,Apparel,1535,55.0,84425.0,2023-03-19,2023-04-10,2023-04-10,0,Yes,Vancouver DC,Delivered,2023,3,Q1
+PO0000780,SUP0018,Toronto Wholesale Inc,SKU00013,Protein Powder 2kg,Health,559,18.0,10062.0,2023-01-24,2023-03-20,2023-03-20,0,Yes,Vancouver DC,Delivered,2023,1,Q1
+PO0000781,SUP0018,Toronto Wholesale Inc,SKU00024,USB-C Hub,Electronics,1230,20.0,24600.0,2024-04-30,2024-06-24,2024-06-24,0,Yes,Montreal DC,Delivered,2024,4,Q2
+PO0000782,SUP0015,Colombo Trading Co,SKU00023,Bamboo Cutting Board,Kitchen,419,12.0,5028.0,2024-05-24,2024-07-08,2024-07-08,0,Yes,Calgary DC,Delivered,2024,5,Q2
+PO0000783,SUP0017,Montreal Distribution,SKU00011,Bluetooth Speaker,Electronics,957,30.0,28710.0,2022-11-20,2023-01-11,2023-01-29,18,No,Montreal DC,Delivered,2022,11,Q4
+PO0000784,SUP0011,Mumbai Textiles Ltd,SKU00018,Gaming Mouse,Electronics,1346,25.0,33650.0,2023-10-27,2023-11-18,2023-11-18,0,Yes,Calgary DC,Delivered,2023,10,Q4
+PO0000785,SUP0011,Mumbai Textiles Ltd,SKU00020,Throw Blanket,Home,818,15.0,12270.0,2023-05-08,2023-05-30,2023-05-30,0,Yes,Montreal DC,Delivered,2023,5,Q2
+PO0000786,SUP0012,Bangkok Consumer Goods,SKU00015,Cookware Set,Kitchen,120,75.0,9000.0,2024-07-05,2024-08-26,2024-08-26,0,Yes,Montreal DC,Delivered,2024,7,Q3
+PO0000787,SUP0020,Calgary Resource Supply,SKU00001,Wireless Headphones,Electronics,668,45.0,30060.0,2024-11-26,2024-12-27,2025-01-01,5,No,Toronto DC,In Transit,2024,11,Q4
+PO0000788,SUP0010,Seoul Parts Manufacturing,SKU00008,Coffee Maker,Appliances,1733,38.0,65854.0,2023-03-16,2023-04-07,2023-04-07,0,Yes,Montreal DC,Delivered,2023,3,Q1
+PO0000789,SUP0018,Toronto Wholesale Inc,SKU00017,Vitamin C 90 Pack,Health,778,8.0,6224.0,2022-11-13,2023-01-07,2023-01-07,0,Yes,Vancouver DC,Delivered,2022,11,Q4
+PO0000790,SUP0005,Singapore Trade Hub,SKU00009,Denim Jeans,Apparel,574,22.0,12628.0,2024-01-22,2024-02-29,2024-02-29,0,Yes,Montreal DC,Delivered,2024,1,Q1
+PO0000791,SUP0003,Shenzhen Tech Components,SKU00019,Water Bottle 1L,Sports,1553,10.0,15530.0,2024-03-29,2024-04-29,2024-05-18,19,No,Toronto DC,Delivered,2024,3,Q1
+PO0000792,SUP0011,Mumbai Textiles Ltd,SKU00026,Standing Desk,Furniture,1891,185.0,349835.0,2024-09-15,2024-10-07,2024-10-07,0,Yes,Toronto DC,Delivered,2024,9,Q3
+PO0000793,SUP0020,Calgary Resource Supply,SKU00021,Air Purifier,Appliances,1230,80.0,98400.0,2023-09-08,2023-10-09,2023-10-09,0,Yes,Calgary DC,Delivered,2023,9,Q3
+PO0000794,SUP0003,Shenzhen Tech Components,SKU00025,Insulated Lunch Bag,Accessories,1723,9.0,15507.0,2022-04-25,2022-05-26,2022-05-26,0,Yes,Calgary DC,Delivered,2022,4,Q2
+PO0000795,SUP0014,Ho Chi Minh Apparel,SKU00030,Car Phone Mount,Automotive,1789,6.0,10734.0,2022-09-04,2022-09-24,2022-09-24,0,Yes,Toronto DC,Delivered,2022,9,Q3
+PO0000796,SUP0013,Jakarta Industrial PT,SKU00002,Office Chair,Furniture,1155,120.0,138600.0,2023-09-17,2023-10-22,2023-10-22,0,Yes,Vancouver DC,Delivered,2023,9,Q3
+PO0000797,SUP0011,Mumbai Textiles Ltd,SKU00017,Vitamin C 90 Pack,Health,1548,8.0,12384.0,2023-03-29,2023-04-20,2023-04-20,0,Yes,Calgary DC,Delivered,2023,3,Q1
+PO0000798,SUP0015,Colombo Trading Co,SKU00025,Insulated Lunch Bag,Accessories,643,9.0,5787.0,2024-10-30,2024-12-14,2024-12-14,0,Yes,Calgary DC,Delivered,2024,10,Q4
+PO0000799,SUP0005,Singapore Trade Hub,SKU00005,Running Shoes,Footwear,1576,48.0,75648.0,2023-11-20,2023-12-28,2023-12-28,0,Yes,Toronto DC,Delivered,2023,11,Q4
+PO0000800,SUP0018,Toronto Wholesale Inc,SKU00013,Protein Powder 2kg,Health,939,18.0,16902.0,2023-06-22,2023-08-16,2023-08-16,0,Yes,Vancouver DC,Delivered,2023,6,Q2
+PO0000801,SUP0005,Singapore Trade Hub,SKU00016,Camping Tent,Outdoors,1220,110.0,134200.0,2023-02-10,2023-03-20,2023-03-20,0,Yes,Vancouver DC,Delivered,2023,2,Q1
+PO0000802,SUP0018,Toronto Wholesale Inc,SKU00020,Throw Blanket,Home,595,15.0,8925.0,2024-12-09,2025-02-02,2025-02-02,0,Yes,Calgary DC,In Transit,2024,12,Q4
+PO0000803,SUP0011,Mumbai Textiles Ltd,SKU00022,Resistance Bands,Sports,917,7.0,6419.0,2022-07-03,2022-07-25,2022-07-25,0,Yes,Montreal DC,Delivered,2022,7,Q3
+PO0000804,SUP0012,Bangkok Consumer Goods,SKU00007,Yoga Mat,Sports,99,12.0,1188.0,2023-10-19,2023-12-10,2023-12-10,0,Yes,Montreal DC,Delivered,2023,10,Q4
+PO0000805,SUP0006,Hong Kong Merchandise Ltd,SKU00012,Backpack,Accessories,141,28.0,3948.0,2024-06-24,2024-07-26,2024-07-26,0,Yes,Vancouver DC,Delivered,2024,6,Q2
+PO0000806,SUP0007,Rotterdam European Goods,SKU00022,Resistance Bands,Sports,1796,7.0,12572.0,2024-02-05,2024-04-01,2024-04-01,0,Yes,Toronto DC,Delivered,2024,2,Q1
+PO0000807,SUP0004,Busan Industrial Corp,SKU00024,USB-C Hub,Electronics,1947,20.0,38940.0,2022-04-22,2022-05-27,2022-06-04,8,No,Vancouver DC,Delivered,2022,4,Q2
+PO0000808,SUP0010,Seoul Parts Manufacturing,SKU00001,Wireless Headphones,Electronics,1014,45.0,45630.0,2023-12-05,2023-12-27,2023-12-27,0,Yes,Toronto DC,Delivered,2023,12,Q4
+PO0000809,SUP0011,Mumbai Textiles Ltd,SKU00007,Yoga Mat,Sports,1586,12.0,19032.0,2023-03-10,2023-04-01,2023-04-01,0,Yes,Montreal DC,Delivered,2023,3,Q1
+PO0000810,SUP0018,Toronto Wholesale Inc,SKU00016,Camping Tent,Outdoors,1905,110.0,209550.0,2022-10-17,2022-12-11,2022-12-11,0,Yes,Toronto DC,Delivered,2022,10,Q4
+PO0000811,SUP0009,Taipei Electronics Co,SKU00006,Laptop Stand,Electronics,1476,18.0,26568.0,2022-05-04,2022-06-12,2022-06-12,0,Yes,Montreal DC,Delivered,2022,5,Q2
+PO0000812,SUP0002,Ningbo Global Exports,SKU00015,Cookware Set,Kitchen,605,75.0,45375.0,2022-01-18,2022-02-06,2022-02-06,0,Yes,Montreal DC,Delivered,2022,1,Q1
+PO0000813,SUP0004,Busan Industrial Corp,SKU00001,Wireless Headphones,Electronics,829,45.0,37305.0,2023-08-23,2023-09-27,2023-09-27,0,Yes,Toronto DC,Delivered,2023,8,Q3
+PO0000814,SUP0011,Mumbai Textiles Ltd,SKU00016,Camping Tent,Outdoors,1075,110.0,118250.0,2024-12-24,2025-01-15,2025-01-15,0,Yes,Calgary DC,In Transit,2024,12,Q4
+PO0000815,SUP0018,Toronto Wholesale Inc,SKU00030,Car Phone Mount,Automotive,1134,6.0,6804.0,2022-02-14,2022-04-10,2022-04-10,0,Yes,Montreal DC,Delivered,2022,2,Q1
+PO0000816,SUP0011,Mumbai Textiles Ltd,SKU00016,Camping Tent,Outdoors,1451,110.0,159610.0,2024-03-16,2024-04-07,2024-04-07,0,Yes,Montreal DC,Delivered,2024,3,Q1
+PO0000817,SUP0012,Bangkok Consumer Goods,SKU00021,Air Purifier,Appliances,1076,80.0,86080.0,2023-09-12,2023-11-03,2023-11-11,8,No,Montreal DC,Delivered,2023,9,Q3
+PO0000818,SUP0002,Ningbo Global Exports,SKU00021,Air Purifier,Appliances,1718,80.0,137440.0,2023-06-12,2023-07-01,2023-07-14,13,No,Toronto DC,Delivered,2023,6,Q2
+PO0000819,SUP0018,Toronto Wholesale Inc,SKU00009,Denim Jeans,Apparel,854,22.0,18788.0,2023-04-07,2023-06-01,2023-06-01,0,Yes,Vancouver DC,Delivered,2023,4,Q2
+PO0000820,SUP0003,Shenzhen Tech Components,SKU00024,USB-C Hub,Electronics,1304,20.0,26080.0,2024-02-22,2024-03-24,2024-04-10,17,No,Vancouver DC,Delivered,2024,2,Q1
+PO0000821,SUP0014,Ho Chi Minh Apparel,SKU00008,Coffee Maker,Appliances,1913,38.0,72694.0,2022-11-09,2022-11-29,2022-12-13,14,No,Montreal DC,Delivered,2022,11,Q4
+PO0000822,SUP0015,Colombo Trading Co,SKU00018,Gaming Mouse,Electronics,1239,25.0,30975.0,2022-09-27,2022-11-11,2022-11-11,0,Yes,Vancouver DC,Delivered,2022,9,Q3
+PO0000823,SUP0005,Singapore Trade Hub,SKU00010,Desk Lamp,Furniture,1911,20.0,38220.0,2024-12-08,2025-01-15,2025-01-15,0,Yes,Vancouver DC,In Transit,2024,12,Q4
+PO0000824,SUP0019,Vancouver Pacific Trading,SKU00030,Car Phone Mount,Automotive,1141,6.0,6846.0,2022-11-20,2022-12-18,2022-12-18,0,Yes,Toronto DC,Delivered,2022,11,Q4
+PO0000825,SUP0006,Hong Kong Merchandise Ltd,SKU00011,Bluetooth Speaker,Electronics,1852,30.0,55560.0,2022-10-26,2022-11-27,2022-11-27,0,Yes,Calgary DC,Delivered,2022,10,Q4
+PO0000826,SUP0014,Ho Chi Minh Apparel,SKU00010,Desk Lamp,Furniture,434,20.0,8680.0,2024-06-26,2024-07-16,2024-07-16,0,Yes,Toronto DC,Delivered,2024,6,Q2
+PO0000827,SUP0005,Singapore Trade Hub,SKU00006,Laptop Stand,Electronics,1290,18.0,23220.0,2022-02-23,2022-04-02,2022-04-02,0,Yes,Vancouver DC,Delivered,2022,2,Q1
+PO0000828,SUP0020,Calgary Resource Supply,SKU00008,Coffee Maker,Appliances,1459,38.0,55442.0,2023-04-18,2023-05-19,2023-05-19,0,Yes,Calgary DC,Delivered,2023,4,Q2
+PO0000829,SUP0005,Singapore Trade Hub,SKU00017,Vitamin C 90 Pack,Health,843,8.0,6744.0,2024-08-18,2024-09-25,2024-09-25,0,Yes,Calgary DC,Delivered,2024,8,Q3
+PO0000830,SUP0016,Guadalajara Auto Parts,SKU00005,Running Shoes,Footwear,886,48.0,42528.0,2022-12-02,2022-12-20,2022-12-20,0,Yes,Toronto DC,Delivered,2022,12,Q4
+PO0000831,SUP0009,Taipei Electronics Co,SKU00014,Smart Watch,Electronics,185,95.0,17575.0,2023-04-01,2023-05-10,2023-05-10,0,Yes,Vancouver DC,Delivered,2023,4,Q2
+PO0000832,SUP0015,Colombo Trading Co,SKU00028,Dog Leash Set,Pet Supplies,1867,8.0,14936.0,2024-09-30,2024-11-14,2024-11-25,11,No,Vancouver DC,Delivered,2024,9,Q3
+PO0000833,SUP0014,Ho Chi Minh Apparel,SKU00013,Protein Powder 2kg,Health,829,18.0,14922.0,2022-03-27,2022-04-16,2022-04-16,0,Yes,Montreal DC,Delivered,2022,3,Q1
+PO0000834,SUP0013,Jakarta Industrial PT,SKU00020,Throw Blanket,Home,974,15.0,14610.0,2024-12-11,2025-01-15,2025-01-15,0,Yes,Calgary DC,In Transit,2024,12,Q4
+PO0000835,SUP0002,Ningbo Global Exports,SKU00029,Kids Building Blocks,Toys,1555,11.0,17105.0,2023-05-19,2023-06-07,2023-06-07,0,Yes,Toronto DC,Delivered,2023,5,Q2
+PO0000836,SUP0018,Toronto Wholesale Inc,SKU00013,Protein Powder 2kg,Health,950,18.0,17100.0,2024-11-23,2025-01-17,2025-01-17,0,Yes,Calgary DC,In Transit,2024,11,Q4
+PO0000837,SUP0010,Seoul Parts Manufacturing,SKU00025,Insulated Lunch Bag,Accessories,652,9.0,5868.0,2023-08-09,2023-08-31,2023-08-31,0,Yes,Toronto DC,Delivered,2023,8,Q3
+PO0000838,SUP0017,Montreal Distribution,SKU00029,Kids Building Blocks,Toys,975,11.0,10725.0,2022-10-19,2022-12-10,2022-12-25,15,No,Toronto DC,Delivered,2022,10,Q4
+PO0000839,SUP0017,Montreal Distribution,SKU00004,Kitchen Blender,Appliances,1475,32.0,47200.0,2023-01-04,2023-02-25,2023-03-16,19,No,Vancouver DC,Delivered,2023,1,Q1
+PO0000840,SUP0013,Jakarta Industrial PT,SKU00014,Smart Watch,Electronics,979,95.0,93005.0,2023-10-25,2023-11-29,2023-11-29,0,Yes,Vancouver DC,Delivered,2023,10,Q4
+PO0000841,SUP0015,Colombo Trading Co,SKU00003,Winter Jacket,Apparel,1907,55.0,104885.0,2023-05-28,2023-07-12,2023-07-12,0,Yes,Vancouver DC,Delivered,2023,5,Q2
+PO0000842,SUP0004,Busan Industrial Corp,SKU00003,Winter Jacket,Apparel,224,55.0,12320.0,2022-08-22,2022-09-26,2022-09-26,0,Yes,Calgary DC,Delivered,2022,8,Q3
+PO0000843,SUP0017,Montreal Distribution,SKU00020,Throw Blanket,Home,139,15.0,2085.0,2022-11-24,2023-01-15,2023-01-15,0,Yes,Vancouver DC,Delivered,2022,11,Q4
+PO0000844,SUP0011,Mumbai Textiles Ltd,SKU00019,Water Bottle 1L,Sports,416,10.0,4160.0,2022-11-04,2022-11-26,2022-12-02,6,No,Toronto DC,Delivered,2022,11,Q4
+PO0000845,SUP0014,Ho Chi Minh Apparel,SKU00010,Desk Lamp,Furniture,420,20.0,8400.0,2023-09-26,2023-10-16,2023-10-16,0,Yes,Toronto DC,Delivered,2023,9,Q3
+PO0000846,SUP0005,Singapore Trade Hub,SKU00007,Yoga Mat,Sports,75,12.0,900.0,2022-01-08,2022-02-15,2022-02-15,0,Yes,Calgary DC,Delivered,2022,1,Q1
+PO0000847,SUP0016,Guadalajara Auto Parts,SKU00028,Dog Leash Set,Pet Supplies,1295,8.0,10360.0,2024-10-18,2024-11-05,2024-11-23,18,No,Calgary DC,Delivered,2024,10,Q4
+PO0000848,SUP0008,Hamburg Quality Products,SKU00007,Yoga Mat,Sports,212,12.0,2544.0,2024-09-01,2024-10-02,2024-10-02,0,Yes,Toronto DC,Delivered,2024,9,Q3
+PO0000849,SUP0008,Hamburg Quality Products,SKU00029,Kids Building Blocks,Toys,1729,11.0,19019.0,2023-07-24,2023-08-24,2023-08-24,0,Yes,Vancouver DC,Delivered,2023,7,Q3
+PO0000850,SUP0002,Ningbo Global Exports,SKU00006,Laptop Stand,Electronics,125,18.0,2250.0,2022-10-31,2022-11-19,2022-11-19,0,Yes,Vancouver DC,Delivered,2022,10,Q4
+PO0000851,SUP0002,Ningbo Global Exports,SKU00022,Resistance Bands,Sports,150,7.0,1050.0,2023-09-04,2023-09-23,2023-10-04,11,No,Toronto DC,Delivered,2023,9,Q3
+PO0000852,SUP0014,Ho Chi Minh Apparel,SKU00006,Laptop Stand,Electronics,1466,18.0,26388.0,2022-11-27,2022-12-17,2022-12-17,0,Yes,Vancouver DC,Delivered,2022,11,Q4
+PO0000853,SUP0015,Colombo Trading Co,SKU00024,USB-C Hub,Electronics,662,20.0,13240.0,2024-01-08,2024-02-22,2024-02-22,0,Yes,Montreal DC,Delivered,2024,1,Q1
+PO0000854,SUP0012,Bangkok Consumer Goods,SKU00029,Kids Building Blocks,Toys,1777,11.0,19547.0,2024-02-16,2024-04-08,2024-04-08,0,Yes,Toronto DC,Delivered,2024,2,Q1
+PO0000855,SUP0010,Seoul Parts Manufacturing,SKU00016,Camping Tent,Outdoors,612,110.0,67320.0,2022-10-03,2022-10-25,2022-10-25,0,Yes,Montreal DC,Delivered,2022,10,Q4
+PO0000856,SUP0017,Montreal Distribution,SKU00014,Smart Watch,Electronics,1303,95.0,123785.0,2024-12-10,2025-01-31,2025-01-31,0,Yes,Toronto DC,In Transit,2024,12,Q4
+PO0000857,SUP0004,Busan Industrial Corp,SKU00019,Water Bottle 1L,Sports,1460,10.0,14600.0,2024-12-19,2025-01-23,2025-01-23,0,Yes,Montreal DC,In Transit,2024,12,Q4
+PO0000858,SUP0014,Ho Chi Minh Apparel,SKU00020,Throw Blanket,Home,1326,15.0,19890.0,2023-10-11,2023-10-31,2023-10-31,0,Yes,Montreal DC,Delivered,2023,10,Q4
+PO0000859,SUP0005,Singapore Trade Hub,SKU00020,Throw Blanket,Home,1069,15.0,16035.0,2024-10-13,2024-11-20,2024-11-20,0,Yes,Calgary DC,Delivered,2024,10,Q4
+PO0000860,SUP0006,Hong Kong Merchandise Ltd,SKU00029,Kids Building Blocks,Toys,53,11.0,583.0,2023-04-22,2023-05-24,2023-06-03,10,No,Toronto DC,Delivered,2023,4,Q2
+PO0000861,SUP0001,Shanghai Premier Manufacturing,SKU00015,Cookware Set,Kitchen,899,75.0,67425.0,2022-08-30,2022-09-14,2022-09-14,0,Yes,Calgary DC,Delivered,2022,8,Q3
+PO0000862,SUP0002,Ningbo Global Exports,SKU00011,Bluetooth Speaker,Electronics,484,30.0,14520.0,2023-12-18,2024-01-06,2024-01-24,18,No,Toronto DC,Delivered,2023,12,Q4
+PO0000863,SUP0007,Rotterdam European Goods,SKU00023,Bamboo Cutting Board,Kitchen,680,12.0,8160.0,2023-07-31,2023-09-25,2023-09-25,0,Yes,Montreal DC,Delivered,2023,7,Q3
+PO0000864,SUP0017,Montreal Distribution,SKU00018,Gaming Mouse,Electronics,732,25.0,18300.0,2023-10-26,2023-12-17,2023-12-17,0,Yes,Montreal DC,Delivered,2023,10,Q4
+PO0000865,SUP0013,Jakarta Industrial PT,SKU00024,USB-C Hub,Electronics,1757,20.0,35140.0,2022-03-01,2022-04-05,2022-04-05,0,Yes,Montreal DC,Delivered,2022,3,Q1
+PO0000866,SUP0016,Guadalajara Auto Parts,SKU00030,Car Phone Mount,Automotive,1036,6.0,6216.0,2024-08-29,2024-09-16,2024-09-16,0,Yes,Vancouver DC,Delivered,2024,8,Q3
+PO0000867,SUP0015,Colombo Trading Co,SKU00029,Kids Building Blocks,Toys,897,11.0,9867.0,2023-11-18,2024-01-02,2024-01-02,0,Yes,Toronto DC,Delivered,2023,11,Q4
+PO0000868,SUP0017,Montreal Distribution,SKU00010,Desk Lamp,Furniture,476,20.0,9520.0,2023-10-09,2023-11-30,2023-11-30,0,Yes,Montreal DC,Delivered,2023,10,Q4
+PO0000869,SUP0012,Bangkok Consumer Goods,SKU00003,Winter Jacket,Apparel,744,55.0,40920.0,2022-11-02,2022-12-24,2023-01-02,9,No,Calgary DC,Delivered,2022,11,Q4
+PO0000870,SUP0018,Toronto Wholesale Inc,SKU00027,Face Moisturizer,Beauty,433,12.0,5196.0,2022-12-06,2023-01-30,2023-01-30,0,Yes,Toronto DC,Delivered,2022,12,Q4
+PO0000871,SUP0010,Seoul Parts Manufacturing,SKU00023,Bamboo Cutting Board,Kitchen,227,12.0,2724.0,2023-10-07,2023-10-29,2023-10-29,0,Yes,Calgary DC,Delivered,2023,10,Q4
+PO0000872,SUP0008,Hamburg Quality Products,SKU00012,Backpack,Accessories,669,28.0,18732.0,2024-07-14,2024-08-14,2024-08-14,0,Yes,Vancouver DC,Delivered,2024,7,Q3
+PO0000873,SUP0004,Busan Industrial Corp,SKU00012,Backpack,Accessories,958,28.0,26824.0,2022-03-18,2022-04-22,2022-04-29,7,No,Toronto DC,Delivered,2022,3,Q1
+PO0000874,SUP0016,Guadalajara Auto Parts,SKU00029,Kids Building Blocks,Toys,1941,11.0,21351.0,2024-10-21,2024-11-08,2024-11-08,0,Yes,Calgary DC,Delivered,2024,10,Q4
+PO0000875,SUP0017,Montreal Distribution,SKU00010,Desk Lamp,Furniture,251,20.0,5020.0,2023-11-02,2023-12-24,2023-12-24,0,Yes,Vancouver DC,Delivered,2023,11,Q4
+PO0000876,SUP0007,Rotterdam European Goods,SKU00024,USB-C Hub,Electronics,1821,20.0,36420.0,2022-03-16,2022-05-11,2022-05-11,0,Yes,Toronto DC,Delivered,2022,3,Q1
+PO0000877,SUP0001,Shanghai Premier Manufacturing,SKU00010,Desk Lamp,Furniture,732,20.0,14640.0,2022-04-01,2022-04-16,2022-05-06,20,No,Calgary DC,Delivered,2022,4,Q2
+PO0000878,SUP0002,Ningbo Global Exports,SKU00004,Kitchen Blender,Appliances,1603,32.0,51296.0,2024-12-02,2024-12-21,2024-12-21,0,Yes,Montreal DC,Delivered,2024,12,Q4
+PO0000879,SUP0007,Rotterdam European Goods,SKU00011,Bluetooth Speaker,Electronics,1140,30.0,34200.0,2023-02-15,2023-04-12,2023-04-12,0,Yes,Montreal DC,Delivered,2023,2,Q1
+PO0000880,SUP0015,Colombo Trading Co,SKU00022,Resistance Bands,Sports,610,7.0,4270.0,2022-08-29,2022-10-13,2022-10-13,0,Yes,Toronto DC,Delivered,2022,8,Q3
+PO0000881,SUP0001,Shanghai Premier Manufacturing,SKU00020,Throw Blanket,Home,767,15.0,11505.0,2024-11-18,2024-12-03,2024-12-03,0,Yes,Montreal DC,Delivered,2024,11,Q4
+PO0000882,SUP0009,Taipei Electronics Co,SKU00005,Running Shoes,Footwear,195,48.0,9360.0,2023-08-04,2023-09-12,2023-09-12,0,Yes,Montreal DC,Delivered,2023,8,Q3
+PO0000883,SUP0020,Calgary Resource Supply,SKU00029,Kids Building Blocks,Toys,316,11.0,3476.0,2023-11-25,2023-12-26,2023-12-26,0,Yes,Toronto DC,Delivered,2023,11,Q4
+PO0000884,SUP0016,Guadalajara Auto Parts,SKU00029,Kids Building Blocks,Toys,226,11.0,2486.0,2022-04-14,2022-05-02,2022-05-02,0,Yes,Calgary DC,Delivered,2022,4,Q2
+PO0000885,SUP0013,Jakarta Industrial PT,SKU00006,Laptop Stand,Electronics,730,18.0,13140.0,2024-07-02,2024-08-06,2024-08-06,0,Yes,Vancouver DC,Delivered,2024,7,Q3
+PO0000886,SUP0018,Toronto Wholesale Inc,SKU00003,Winter Jacket,Apparel,1714,55.0,94270.0,2024-08-11,2024-10-05,2024-10-05,0,Yes,Calgary DC,Delivered,2024,8,Q3
+PO0000887,SUP0004,Busan Industrial Corp,SKU00015,Cookware Set,Kitchen,1990,75.0,149250.0,2023-09-28,2023-11-02,2023-11-02,0,Yes,Vancouver DC,Delivered,2023,9,Q3
+PO0000888,SUP0005,Singapore Trade Hub,SKU00028,Dog Leash Set,Pet Supplies,1482,8.0,11856.0,2023-06-13,2023-07-21,2023-07-21,0,Yes,Montreal DC,Delivered,2023,6,Q2
+PO0000889,SUP0011,Mumbai Textiles Ltd,SKU00015,Cookware Set,Kitchen,281,75.0,21075.0,2024-09-25,2024-10-17,2024-10-17,0,Yes,Montreal DC,Delivered,2024,9,Q3
+PO0000890,SUP0016,Guadalajara Auto Parts,SKU00015,Cookware Set,Kitchen,1287,75.0,96525.0,2022-12-16,2023-01-03,2023-01-03,0,Yes,Vancouver DC,Delivered,2022,12,Q4
+PO0000891,SUP0017,Montreal Distribution,SKU00004,Kitchen Blender,Appliances,1380,32.0,44160.0,2024-04-10,2024-06-01,2024-06-01,0,Yes,Toronto DC,Delivered,2024,4,Q2
+PO0000892,SUP0010,Seoul Parts Manufacturing,SKU00018,Gaming Mouse,Electronics,538,25.0,13450.0,2024-08-02,2024-08-24,2024-08-24,0,Yes,Vancouver DC,Delivered,2024,8,Q3
+PO0000893,SUP0018,Toronto Wholesale Inc,SKU00006,Laptop Stand,Electronics,476,18.0,8568.0,2024-09-14,2024-11-08,2024-11-08,0,Yes,Calgary DC,Delivered,2024,9,Q3
+PO0000894,SUP0014,Ho Chi Minh Apparel,SKU00019,Water Bottle 1L,Sports,404,10.0,4040.0,2023-12-02,2023-12-22,2023-12-22,0,Yes,Toronto DC,Delivered,2023,12,Q4
+PO0000895,SUP0019,Vancouver Pacific Trading,SKU00027,Face Moisturizer,Beauty,998,12.0,11976.0,2024-09-23,2024-10-21,2024-10-21,0,Yes,Montreal DC,Delivered,2024,9,Q3
+PO0000896,SUP0018,Toronto Wholesale Inc,SKU00004,Kitchen Blender,Appliances,881,32.0,28192.0,2024-06-30,2024-08-24,2024-08-24,0,Yes,Toronto DC,Delivered,2024,6,Q2
+PO0000897,SUP0020,Calgary Resource Supply,SKU00004,Kitchen Blender,Appliances,1402,32.0,44864.0,2024-02-16,2024-03-18,2024-03-18,0,Yes,Toronto DC,Delivered,2024,2,Q1
+PO0000898,SUP0003,Shenzhen Tech Components,SKU00007,Yoga Mat,Sports,1352,12.0,16224.0,2022-10-12,2022-11-12,2022-12-01,19,No,Toronto DC,Delivered,2022,10,Q4
+PO0000899,SUP0005,Singapore Trade Hub,SKU00022,Resistance Bands,Sports,848,7.0,5936.0,2022-11-02,2022-12-10,2022-12-10,0,Yes,Calgary DC,Delivered,2022,11,Q4
+PO0000900,SUP0007,Rotterdam European Goods,SKU00007,Yoga Mat,Sports,1920,12.0,23040.0,2023-10-11,2023-12-06,2023-12-06,0,Yes,Montreal DC,Delivered,2023,10,Q4
+PO0000901,SUP0014,Ho Chi Minh Apparel,SKU00023,Bamboo Cutting Board,Kitchen,1302,12.0,15624.0,2023-12-07,2023-12-27,2023-12-27,0,Yes,Calgary DC,Delivered,2023,12,Q4
+PO0000902,SUP0005,Singapore Trade Hub,SKU00028,Dog Leash Set,Pet Supplies,1174,8.0,9392.0,2023-08-26,2023-10-03,2023-10-03,0,Yes,Toronto DC,Delivered,2023,8,Q3
+PO0000903,SUP0001,Shanghai Premier Manufacturing,SKU00023,Bamboo Cutting Board,Kitchen,1822,12.0,21864.0,2024-01-06,2024-01-21,2024-01-25,4,No,Toronto DC,Delivered,2024,1,Q1
+PO0000904,SUP0008,Hamburg Quality Products,SKU00014,Smart Watch,Electronics,881,95.0,83695.0,2024-03-18,2024-04-18,2024-04-18,0,Yes,Calgary DC,Delivered,2024,3,Q1
+PO0000905,SUP0014,Ho Chi Minh Apparel,SKU00018,Gaming Mouse,Electronics,435,25.0,10875.0,2023-03-09,2023-03-29,2023-03-29,0,Yes,Calgary DC,Delivered,2023,3,Q1
+PO0000906,SUP0012,Bangkok Consumer Goods,SKU00027,Face Moisturizer,Beauty,1837,12.0,22044.0,2024-05-04,2024-06-25,2024-06-25,0,Yes,Vancouver DC,Delivered,2024,5,Q2
+PO0000907,SUP0005,Singapore Trade Hub,SKU00001,Wireless Headphones,Electronics,1862,45.0,83790.0,2022-05-27,2022-07-04,2022-07-04,0,Yes,Calgary DC,Delivered,2022,5,Q2
+PO0000908,SUP0014,Ho Chi Minh Apparel,SKU00005,Running Shoes,Footwear,901,48.0,43248.0,2022-06-23,2022-07-13,2022-07-13,0,Yes,Calgary DC,Delivered,2022,6,Q2
+PO0000909,SUP0020,Calgary Resource Supply,SKU00030,Car Phone Mount,Automotive,1093,6.0,6558.0,2024-05-21,2024-06-21,2024-06-21,0,Yes,Calgary DC,Delivered,2024,5,Q2
+PO0000910,SUP0018,Toronto Wholesale Inc,SKU00027,Face Moisturizer,Beauty,430,12.0,5160.0,2024-07-10,2024-09-03,2024-09-03,0,Yes,Calgary DC,Delivered,2024,7,Q3
+PO0000911,SUP0020,Calgary Resource Supply,SKU00001,Wireless Headphones,Electronics,601,45.0,27045.0,2024-10-17,2024-11-17,2024-11-17,0,Yes,Calgary DC,Delivered,2024,10,Q4
+PO0000912,SUP0018,Toronto Wholesale Inc,SKU00019,Water Bottle 1L,Sports,1213,10.0,12130.0,2024-01-22,2024-03-17,2024-03-19,2,No,Calgary DC,Delivered,2024,1,Q1
+PO0000913,SUP0012,Bangkok Consumer Goods,SKU00004,Kitchen Blender,Appliances,1547,32.0,49504.0,2024-09-13,2024-11-04,2024-11-04,0,Yes,Montreal DC,Delivered,2024,9,Q3
+PO0000914,SUP0015,Colombo Trading Co,SKU00017,Vitamin C 90 Pack,Health,231,8.0,1848.0,2022-06-10,2022-07-25,2022-08-11,17,No,Vancouver DC,Delivered,2022,6,Q2
+PO0000915,SUP0016,Guadalajara Auto Parts,SKU00021,Air Purifier,Appliances,689,80.0,55120.0,2022-06-09,2022-06-27,2022-06-27,0,Yes,Toronto DC,Delivered,2022,6,Q2
+PO0000916,SUP0011,Mumbai Textiles Ltd,SKU00018,Gaming Mouse,Electronics,1905,25.0,47625.0,2022-01-23,2022-02-14,2022-02-14,0,Yes,Calgary DC,Delivered,2022,1,Q1
+PO0000917,SUP0019,Vancouver Pacific Trading,SKU00024,USB-C Hub,Electronics,1684,20.0,33680.0,2023-11-10,2023-12-08,2023-12-08,0,Yes,Montreal DC,Delivered,2023,11,Q4
+PO0000918,SUP0010,Seoul Parts Manufacturing,SKU00006,Laptop Stand,Electronics,1538,18.0,27684.0,2022-03-14,2022-04-05,2022-04-05,0,Yes,Montreal DC,Delivered,2022,3,Q1
+PO0000919,SUP0002,Ningbo Global Exports,SKU00021,Air Purifier,Appliances,155,80.0,12400.0,2024-08-27,2024-09-15,2024-09-15,0,Yes,Montreal DC,Delivered,2024,8,Q3
+PO0000920,SUP0020,Calgary Resource Supply,SKU00001,Wireless Headphones,Electronics,1085,45.0,48825.0,2023-08-11,2023-09-11,2023-09-11,0,Yes,Toronto DC,Delivered,2023,8,Q3
+PO0000921,SUP0009,Taipei Electronics Co,SKU00009,Denim Jeans,Apparel,1806,22.0,39732.0,2022-09-29,2022-11-07,2022-11-07,0,Yes,Montreal DC,Delivered,2022,9,Q3
+PO0000922,SUP0001,Shanghai Premier Manufacturing,SKU00024,USB-C Hub,Electronics,1261,20.0,25220.0,2022-08-17,2022-09-01,2022-09-01,0,Yes,Vancouver DC,Delivered,2022,8,Q3
+PO0000923,SUP0015,Colombo Trading Co,SKU00012,Backpack,Accessories,533,28.0,14924.0,2022-12-26,2023-02-09,2023-02-09,0,Yes,Calgary DC,Delivered,2022,12,Q4
+PO0000924,SUP0006,Hong Kong Merchandise Ltd,SKU00026,Standing Desk,Furniture,222,185.0,41070.0,2024-12-16,2025-01-17,2025-01-17,0,Yes,Vancouver DC,In Transit,2024,12,Q4
+PO0000925,SUP0020,Calgary Resource Supply,SKU00030,Car Phone Mount,Automotive,895,6.0,5370.0,2022-11-12,2022-12-13,2022-12-13,0,Yes,Calgary DC,Delivered,2022,11,Q4
+PO0000926,SUP0008,Hamburg Quality Products,SKU00022,Resistance Bands,Sports,1553,7.0,10871.0,2024-06-20,2024-07-21,2024-07-21,0,Yes,Montreal DC,Delivered,2024,6,Q2
+PO0000927,SUP0002,Ningbo Global Exports,SKU00021,Air Purifier,Appliances,1000,80.0,80000.0,2023-06-26,2023-07-15,2023-07-15,0,Yes,Calgary DC,Delivered,2023,6,Q2
+PO0000928,SUP0016,Guadalajara Auto Parts,SKU00010,Desk Lamp,Furniture,1449,20.0,28980.0,2024-09-02,2024-09-20,2024-09-20,0,Yes,Calgary DC,Delivered,2024,9,Q3
+PO0000929,SUP0016,Guadalajara Auto Parts,SKU00009,Denim Jeans,Apparel,74,22.0,1628.0,2022-10-25,2022-11-12,2022-11-29,17,No,Montreal DC,Delivered,2022,10,Q4
+PO0000930,SUP0015,Colombo Trading Co,SKU00013,Protein Powder 2kg,Health,134,18.0,2412.0,2023-10-09,2023-11-23,2023-11-23,0,Yes,Toronto DC,Delivered,2023,10,Q4
+PO0000931,SUP0018,Toronto Wholesale Inc,SKU00021,Air Purifier,Appliances,1385,80.0,110800.0,2023-12-26,2024-02-19,2024-02-19,0,Yes,Montreal DC,Delivered,2023,12,Q4
+PO0000932,SUP0011,Mumbai Textiles Ltd,SKU00009,Denim Jeans,Apparel,1246,22.0,27412.0,2023-07-01,2023-07-23,2023-07-23,0,Yes,Calgary DC,Delivered,2023,7,Q3
+PO0000933,SUP0015,Colombo Trading Co,SKU00025,Insulated Lunch Bag,Accessories,1114,9.0,10026.0,2023-05-11,2023-06-25,2023-06-25,0,Yes,Montreal DC,Delivered,2023,5,Q2
+PO0000934,SUP0006,Hong Kong Merchandise Ltd,SKU00011,Bluetooth Speaker,Electronics,74,30.0,2220.0,2022-01-22,2022-02-23,2022-02-24,1,No,Calgary DC,Delivered,2022,1,Q1
+PO0000935,SUP0004,Busan Industrial Corp,SKU00017,Vitamin C 90 Pack,Health,1535,8.0,12280.0,2022-08-01,2022-09-05,2022-09-05,0,Yes,Montreal DC,Delivered,2022,8,Q3
+PO0000936,SUP0009,Taipei Electronics Co,SKU00007,Yoga Mat,Sports,166,12.0,1992.0,2022-03-11,2022-04-19,2022-04-19,0,Yes,Vancouver DC,Delivered,2022,3,Q1
+PO0000937,SUP0020,Calgary Resource Supply,SKU00021,Air Purifier,Appliances,1288,80.0,103040.0,2022-09-07,2022-10-08,2022-10-08,0,Yes,Vancouver DC,Delivered,2022,9,Q3
+PO0000938,SUP0013,Jakarta Industrial PT,SKU00022,Resistance Bands,Sports,568,7.0,3976.0,2023-01-14,2023-02-18,2023-02-18,0,Yes,Montreal DC,Delivered,2023,1,Q1
+PO0000939,SUP0015,Colombo Trading Co,SKU00022,Resistance Bands,Sports,616,7.0,4312.0,2022-06-05,2022-07-20,2022-08-04,15,No,Calgary DC,Delivered,2022,6,Q2
+PO0000940,SUP0011,Mumbai Textiles Ltd,SKU00009,Denim Jeans,Apparel,177,22.0,3894.0,2022-11-28,2022-12-20,2022-12-20,0,Yes,Calgary DC,Delivered,2022,11,Q4
+PO0000941,SUP0013,Jakarta Industrial PT,SKU00011,Bluetooth Speaker,Electronics,592,30.0,17760.0,2022-05-04,2022-06-08,2022-06-17,9,No,Vancouver DC,Delivered,2022,5,Q2
+PO0000942,SUP0015,Colombo Trading Co,SKU00003,Winter Jacket,Apparel,415,55.0,22825.0,2024-10-04,2024-11-18,2024-11-18,0,Yes,Calgary DC,Delivered,2024,10,Q4
+PO0000943,SUP0004,Busan Industrial Corp,SKU00005,Running Shoes,Footwear,267,48.0,12816.0,2024-06-02,2024-07-07,2024-07-07,0,Yes,Calgary DC,Delivered,2024,6,Q2
+PO0000944,SUP0009,Taipei Electronics Co,SKU00004,Kitchen Blender,Appliances,1540,32.0,49280.0,2022-03-13,2022-04-21,2022-04-21,0,Yes,Montreal DC,Delivered,2022,3,Q1
+PO0000945,SUP0015,Colombo Trading Co,SKU00001,Wireless Headphones,Electronics,51,45.0,2295.0,2024-10-16,2024-11-30,2024-11-30,0,Yes,Toronto DC,Delivered,2024,10,Q4
+PO0000946,SUP0013,Jakarta Industrial PT,SKU00009,Denim Jeans,Apparel,1226,22.0,26972.0,2022-11-07,2022-12-12,2022-12-23,11,No,Toronto DC,Delivered,2022,11,Q4
+PO0000947,SUP0017,Montreal Distribution,SKU00023,Bamboo Cutting Board,Kitchen,1778,12.0,21336.0,2024-10-01,2024-11-22,2024-11-22,0,Yes,Toronto DC,Delivered,2024,10,Q4
+PO0000948,SUP0018,Toronto Wholesale Inc,SKU00008,Coffee Maker,Appliances,1725,38.0,65550.0,2022-01-07,2022-03-03,2022-03-16,13,No,Calgary DC,Delivered,2022,1,Q1
+PO0000949,SUP0004,Busan Industrial Corp,SKU00019,Water Bottle 1L,Sports,870,10.0,8700.0,2024-01-06,2024-02-10,2024-02-10,0,Yes,Toronto DC,Delivered,2024,1,Q1
+PO0000950,SUP0003,Shenzhen Tech Components,SKU00012,Backpack,Accessories,991,28.0,27748.0,2024-12-30,2025-01-30,2025-01-30,0,Yes,Montreal DC,In Transit,2024,12,Q4
+PO0000951,SUP0007,Rotterdam European Goods,SKU00006,Laptop Stand,Electronics,662,18.0,11916.0,2022-03-22,2022-05-17,2022-05-17,0,Yes,Calgary DC,Delivered,2022,3,Q1
+PO0000952,SUP0004,Busan Industrial Corp,SKU00021,Air Purifier,Appliances,1345,80.0,107600.0,2024-01-06,2024-02-10,2024-02-10,0,Yes,Calgary DC,Delivered,2024,1,Q1
+PO0000953,SUP0007,Rotterdam European Goods,SKU00005,Running Shoes,Footwear,1264,48.0,60672.0,2022-03-15,2022-05-10,2022-05-10,0,Yes,Vancouver DC,Delivered,2022,3,Q1
+PO0000954,SUP0016,Guadalajara Auto Parts,SKU00013,Protein Powder 2kg,Health,1073,18.0,19314.0,2022-05-10,2022-05-28,2022-05-28,0,Yes,Calgary DC,Delivered,2022,5,Q2
+PO0000955,SUP0001,Shanghai Premier Manufacturing,SKU00002,Office Chair,Furniture,1526,120.0,183120.0,2023-11-26,2023-12-11,2023-12-11,0,Yes,Toronto DC,Delivered,2023,11,Q4
+PO0000956,SUP0013,Jakarta Industrial PT,SKU00004,Kitchen Blender,Appliances,1438,32.0,46016.0,2023-03-10,2023-04-14,2023-04-14,0,Yes,Vancouver DC,Delivered,2023,3,Q1
+PO0000957,SUP0019,Vancouver Pacific Trading,SKU00008,Coffee Maker,Appliances,1051,38.0,39938.0,2022-05-28,2022-06-25,2022-06-25,0,Yes,Toronto DC,Delivered,2022,5,Q2
+PO0000958,SUP0016,Guadalajara Auto Parts,SKU00030,Car Phone Mount,Automotive,317,6.0,1902.0,2022-04-04,2022-04-22,2022-04-22,0,Yes,Toronto DC,Delivered,2022,4,Q2
+PO0000959,SUP0006,Hong Kong Merchandise Ltd,SKU00021,Air Purifier,Appliances,249,80.0,19920.0,2022-04-13,2022-05-15,2022-05-25,10,No,Calgary DC,Delivered,2022,4,Q2
+PO0000960,SUP0020,Calgary Resource Supply,SKU00006,Laptop Stand,Electronics,1268,18.0,22824.0,2022-05-11,2022-06-11,2022-06-11,0,Yes,Vancouver DC,Delivered,2022,5,Q2
+PO0000961,SUP0003,Shenzhen Tech Components,SKU00026,Standing Desk,Furniture,1761,185.0,325785.0,2023-02-20,2023-03-23,2023-03-23,0,Yes,Calgary DC,Delivered,2023,2,Q1
+PO0000962,SUP0011,Mumbai Textiles Ltd,SKU00004,Kitchen Blender,Appliances,1674,32.0,53568.0,2022-10-09,2022-10-31,2022-11-11,11,No,Vancouver DC,Delivered,2022,10,Q4
+PO0000963,SUP0002,Ningbo Global Exports,SKU00019,Water Bottle 1L,Sports,610,10.0,6100.0,2022-12-22,2023-01-10,2023-01-10,0,Yes,Vancouver DC,Delivered,2022,12,Q4
+PO0000964,SUP0014,Ho Chi Minh Apparel,SKU00006,Laptop Stand,Electronics,548,18.0,9864.0,2024-01-28,2024-02-17,2024-02-17,0,Yes,Toronto DC,Delivered,2024,1,Q1
+PO0000965,SUP0005,Singapore Trade Hub,SKU00004,Kitchen Blender,Appliances,1047,32.0,33504.0,2024-02-10,2024-03-19,2024-03-19,0,Yes,Toronto DC,Delivered,2024,2,Q1
+PO0000966,SUP0001,Shanghai Premier Manufacturing,SKU00001,Wireless Headphones,Electronics,1265,45.0,56925.0,2023-01-03,2023-01-18,2023-01-18,0,Yes,Montreal DC,Delivered,2023,1,Q1
+PO0000967,SUP0014,Ho Chi Minh Apparel,SKU00023,Bamboo Cutting Board,Kitchen,1360,12.0,16320.0,2024-09-01,2024-09-21,2024-09-21,0,Yes,Montreal DC,Delivered,2024,9,Q3
+PO0000968,SUP0017,Montreal Distribution,SKU00015,Cookware Set,Kitchen,1300,75.0,97500.0,2024-04-23,2024-06-14,2024-06-22,8,No,Toronto DC,Delivered,2024,4,Q2
+PO0000969,SUP0020,Calgary Resource Supply,SKU00006,Laptop Stand,Electronics,1334,18.0,24012.0,2024-10-20,2024-11-20,2024-12-10,20,No,Montreal DC,Delivered,2024,10,Q4
+PO0000970,SUP0012,Bangkok Consumer Goods,SKU00014,Smart Watch,Electronics,290,95.0,27550.0,2022-01-10,2022-03-03,2022-03-03,0,Yes,Toronto DC,Delivered,2022,1,Q1
+PO0000971,SUP0020,Calgary Resource Supply,SKU00012,Backpack,Accessories,1332,28.0,37296.0,2024-11-05,2024-12-06,2024-12-06,0,Yes,Vancouver DC,Delivered,2024,11,Q4
+PO0000972,SUP0009,Taipei Electronics Co,SKU00002,Office Chair,Furniture,1453,120.0,174360.0,2023-02-01,2023-03-12,2023-03-12,0,Yes,Calgary DC,Delivered,2023,2,Q1
+PO0000973,SUP0016,Guadalajara Auto Parts,SKU00006,Laptop Stand,Electronics,795,18.0,14310.0,2022-11-24,2022-12-12,2022-12-12,0,Yes,Montreal DC,Delivered,2022,11,Q4
+PO0000974,SUP0007,Rotterdam European Goods,SKU00014,Smart Watch,Electronics,1872,95.0,177840.0,2023-05-30,2023-07-25,2023-07-25,0,Yes,Calgary DC,Delivered,2023,5,Q2
+PO0000975,SUP0002,Ningbo Global Exports,SKU00004,Kitchen Blender,Appliances,1658,32.0,53056.0,2022-04-18,2022-05-07,2022-05-07,0,Yes,Toronto DC,Delivered,2022,4,Q2
+PO0000976,SUP0016,Guadalajara Auto Parts,SKU00017,Vitamin C 90 Pack,Health,1527,8.0,12216.0,2022-08-26,2022-09-13,2022-09-16,3,No,Calgary DC,Delivered,2022,8,Q3
+PO0000977,SUP0019,Vancouver Pacific Trading,SKU00019,Water Bottle 1L,Sports,1436,10.0,14360.0,2023-10-30,2023-11-27,2023-11-27,0,Yes,Montreal DC,Delivered,2023,10,Q4
+PO0000978,SUP0008,Hamburg Quality Products,SKU00025,Insulated Lunch Bag,Accessories,535,9.0,4815.0,2022-08-14,2022-09-14,2022-09-14,0,Yes,Calgary DC,Delivered,2022,8,Q3
+PO0000979,SUP0007,Rotterdam European Goods,SKU00013,Protein Powder 2kg,Health,1042,18.0,18756.0,2023-03-28,2023-05-23,2023-05-23,0,Yes,Toronto DC,Delivered,2023,3,Q1
+PO0000980,SUP0014,Ho Chi Minh Apparel,SKU00005,Running Shoes,Footwear,843,48.0,40464.0,2023-03-19,2023-04-08,2023-04-08,0,Yes,Montreal DC,Delivered,2023,3,Q1
+PO0000981,SUP0005,Singapore Trade Hub,SKU00015,Cookware Set,Kitchen,464,75.0,34800.0,2023-02-02,2023-03-12,2023-03-24,12,No,Montreal DC,Delivered,2023,2,Q1
+PO0000982,SUP0005,Singapore Trade Hub,SKU00002,Office Chair,Furniture,1794,120.0,215280.0,2022-05-03,2022-06-10,2022-06-10,0,Yes,Calgary DC,Delivered,2022,5,Q2
+PO0000983,SUP0015,Colombo Trading Co,SKU00014,Smart Watch,Electronics,654,95.0,62130.0,2022-12-17,2023-01-31,2023-01-31,0,Yes,Vancouver DC,Delivered,2022,12,Q4
+PO0000984,SUP0020,Calgary Resource Supply,SKU00029,Kids Building Blocks,Toys,1801,11.0,19811.0,2022-12-15,2023-01-15,2023-02-03,19,No,Vancouver DC,Delivered,2022,12,Q4
+PO0000985,SUP0003,Shenzhen Tech Components,SKU00014,Smart Watch,Electronics,493,95.0,46835.0,2024-12-04,2025-01-04,2025-01-20,16,No,Calgary DC,In Transit,2024,12,Q4
+PO0000986,SUP0015,Colombo Trading Co,SKU00009,Denim Jeans,Apparel,555,22.0,12210.0,2022-01-30,2022-03-16,2022-03-16,0,Yes,Vancouver DC,Delivered,2022,1,Q1
+PO0000987,SUP0011,Mumbai Textiles Ltd,SKU00014,Smart Watch,Electronics,1921,95.0,182495.0,2023-04-01,2023-04-23,2023-05-12,19,No,Toronto DC,Delivered,2023,4,Q2
+PO0000988,SUP0014,Ho Chi Minh Apparel,SKU00002,Office Chair,Furniture,1082,120.0,129840.0,2022-03-24,2022-04-13,2022-04-13,0,Yes,Toronto DC,Delivered,2022,3,Q1
+PO0000989,SUP0014,Ho Chi Minh Apparel,SKU00017,Vitamin C 90 Pack,Health,1476,8.0,11808.0,2024-03-18,2024-04-07,2024-04-23,16,No,Toronto DC,Delivered,2024,3,Q1
+PO0000990,SUP0015,Colombo Trading Co,SKU00016,Camping Tent,Outdoors,75,110.0,8250.0,2023-05-08,2023-06-22,2023-06-22,0,Yes,Calgary DC,Delivered,2023,5,Q2
+PO0000991,SUP0007,Rotterdam European Goods,SKU00005,Running Shoes,Footwear,235,48.0,11280.0,2024-01-05,2024-03-01,2024-03-01,0,Yes,Toronto DC,Delivered,2024,1,Q1
+PO0000992,SUP0016,Guadalajara Auto Parts,SKU00022,Resistance Bands,Sports,1807,7.0,12649.0,2023-09-17,2023-10-05,2023-10-05,0,Yes,Toronto DC,Delivered,2023,9,Q3
+PO0000993,SUP0015,Colombo Trading Co,SKU00015,Cookware Set,Kitchen,1834,75.0,137550.0,2022-10-11,2022-11-25,2022-11-25,0,Yes,Montreal DC,Delivered,2022,10,Q4
+PO0000994,SUP0015,Colombo Trading Co,SKU00023,Bamboo Cutting Board,Kitchen,1464,12.0,17568.0,2022-01-03,2022-02-17,2022-02-17,0,Yes,Montreal DC,Delivered,2022,1,Q1
+PO0000995,SUP0017,Montreal Distribution,SKU00002,Office Chair,Furniture,1479,120.0,177480.0,2023-08-31,2023-10-22,2023-10-22,0,Yes,Vancouver DC,Delivered,2023,8,Q3
+PO0000996,SUP0003,Shenzhen Tech Components,SKU00020,Throw Blanket,Home,1913,15.0,28695.0,2023-11-19,2023-12-20,2023-12-20,0,Yes,Montreal DC,Delivered,2023,11,Q4
+PO0000997,SUP0002,Ningbo Global Exports,SKU00004,Kitchen Blender,Appliances,133,32.0,4256.0,2024-02-24,2024-03-14,2024-03-14,0,Yes,Montreal DC,Delivered,2024,2,Q1
+PO0000998,SUP0012,Bangkok Consumer Goods,SKU00006,Laptop Stand,Electronics,469,18.0,8442.0,2022-05-18,2022-07-09,2022-07-09,0,Yes,Vancouver DC,Delivered,2022,5,Q2
+PO0000999,SUP0011,Mumbai Textiles Ltd,SKU00008,Coffee Maker,Appliances,1590,38.0,60420.0,2022-08-21,2022-09-12,2022-09-12,0,Yes,Vancouver DC,Delivered,2022,8,Q3
+PO0001000,SUP0008,Hamburg Quality Products,SKU00011,Bluetooth Speaker,Electronics,916,30.0,27480.0,2023-12-24,2024-01-24,2024-01-24,0,Yes,Montreal DC,Delivered,2023,12,Q4
