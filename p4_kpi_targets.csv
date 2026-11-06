@@ -1,361 +1,361 @@
-KPI_ID,KPI_Name,Unit,Year,Month,Quarter,Target_Value,Actual_Value,Variance_Pct,Achievement_Pct,Status,Category
-KPI0000001,On_Time_Delivery_Pct,%,2022,1,Q1,95.0,99.03,4.2,104.2,Green,Delivery
-KPI0000002,Forecast_Accuracy_Pct,%,2022,1,Q1,90.0,83.71,-7.0,93.0,Yellow,Quality
-KPI0000003,Inventory_Turnover,x,2022,1,Q1,8.0,8.6,7.5,107.5,Green,Inventory
-KPI0000004,Supplier_On_Time_Pct,%,2022,1,Q1,92.0,78.27,-14.9,85.1,Yellow,Operations
-KPI0000005,Order_Fulfillment_Rate_Pct,%,2022,1,Q1,98.0,99.8,1.8,101.8,Green,Operations
-KPI0000006,Freight_Cost_Per_Unit_USD,USD,2022,1,Q1,12.0,13.0,8.3,108.3,Green,Financial
-KPI0000007,Gross_Margin_Pct,%,2022,1,Q1,45.0,38.55,-14.3,85.7,Yellow,Financial
-KPI0000008,Days_Of_Supply,days,2022,1,Q1,30.0,29.82,-0.6,99.4,Green,Inventory
-KPI0000009,Backorder_Rate_Pct,%,2022,1,Q1,2.0,1.91,-4.7,95.5,Green,Operations
-KPI0000010,Supplier_Quality_Score,score,2022,1,Q1,90.0,94.49,5.0,105.0,Green,Quality
-KPI0000011,On_Time_Delivery_Pct,%,2022,2,Q1,95.0,106.22,11.8,111.8,Green,Delivery
-KPI0000012,Forecast_Accuracy_Pct,%,2022,2,Q1,90.0,95.32,5.9,105.9,Green,Quality
-KPI0000013,Inventory_Turnover,x,2022,2,Q1,8.0,9.05,13.1,113.1,Green,Inventory
-KPI0000014,Supplier_On_Time_Pct,%,2022,2,Q1,92.0,94.96,3.2,103.2,Green,Operations
-KPI0000015,Order_Fulfillment_Rate_Pct,%,2022,2,Q1,98.0,85.2,-13.1,86.9,Yellow,Operations
-KPI0000016,Freight_Cost_Per_Unit_USD,USD,2022,2,Q1,12.0,11.94,-0.5,99.5,Green,Financial
-KPI0000017,Gross_Margin_Pct,%,2022,2,Q1,45.0,43.25,-3.9,96.1,Green,Financial
-KPI0000018,Days_Of_Supply,days,2022,2,Q1,30.0,26.88,-10.4,89.6,Yellow,Inventory
-KPI0000019,Backorder_Rate_Pct,%,2022,2,Q1,2.0,2.11,5.3,105.5,Green,Operations
-KPI0000020,Supplier_Quality_Score,score,2022,2,Q1,90.0,83.99,-6.7,93.3,Yellow,Quality
-KPI0000021,On_Time_Delivery_Pct,%,2022,3,Q1,95.0,83.49,-12.1,87.9,Yellow,Delivery
-KPI0000022,Forecast_Accuracy_Pct,%,2022,3,Q1,90.0,84.78,-5.8,94.2,Yellow,Quality
-KPI0000023,Inventory_Turnover,x,2022,3,Q1,8.0,8.67,8.4,108.4,Green,Inventory
-KPI0000024,Supplier_On_Time_Pct,%,2022,3,Q1,92.0,87.56,-4.8,95.2,Green,Operations
-KPI0000025,Order_Fulfillment_Rate_Pct,%,2022,3,Q1,98.0,103.06,5.2,105.2,Green,Operations
-KPI0000026,Freight_Cost_Per_Unit_USD,USD,2022,3,Q1,12.0,11.75,-2.1,97.9,Green,Financial
-KPI0000027,Gross_Margin_Pct,%,2022,3,Q1,45.0,41.97,-6.7,93.3,Yellow,Financial
-KPI0000028,Days_Of_Supply,days,2022,3,Q1,30.0,30.37,1.2,101.2,Green,Inventory
-KPI0000029,Backorder_Rate_Pct,%,2022,3,Q1,2.0,2.01,0.6,100.5,Green,Operations
-KPI0000030,Supplier_Quality_Score,score,2022,3,Q1,90.0,94.67,5.2,105.2,Green,Quality
-KPI0000031,On_Time_Delivery_Pct,%,2022,4,Q2,95.0,87.72,-7.7,92.3,Yellow,Delivery
-KPI0000032,Forecast_Accuracy_Pct,%,2022,4,Q2,90.0,97.58,8.4,108.4,Green,Quality
-KPI0000033,Inventory_Turnover,x,2022,4,Q2,8.0,7.61,-4.9,95.1,Green,Inventory
-KPI0000034,Supplier_On_Time_Pct,%,2022,4,Q2,92.0,93.94,2.1,102.1,Green,Operations
-KPI0000035,Order_Fulfillment_Rate_Pct,%,2022,4,Q2,98.0,91.3,-6.8,93.2,Yellow,Operations
-KPI0000036,Freight_Cost_Per_Unit_USD,USD,2022,4,Q2,12.0,11.8,-1.7,98.3,Green,Financial
-KPI0000037,Gross_Margin_Pct,%,2022,4,Q2,45.0,42.98,-4.5,95.5,Green,Financial
-KPI0000038,Days_Of_Supply,days,2022,4,Q2,30.0,32.52,8.4,108.4,Green,Inventory
-KPI0000039,Backorder_Rate_Pct,%,2022,4,Q2,2.0,2.05,2.5,102.5,Green,Operations
-KPI0000040,Supplier_Quality_Score,score,2022,4,Q2,90.0,77.49,-13.9,86.1,Yellow,Quality
-KPI0000041,On_Time_Delivery_Pct,%,2022,5,Q2,95.0,81.28,-14.4,85.6,Yellow,Delivery
-KPI0000042,Forecast_Accuracy_Pct,%,2022,5,Q2,90.0,85.31,-5.2,94.8,Yellow,Quality
-KPI0000043,Inventory_Turnover,x,2022,5,Q2,8.0,8.54,6.8,106.7,Green,Inventory
-KPI0000044,Supplier_On_Time_Pct,%,2022,5,Q2,92.0,85.47,-7.1,92.9,Yellow,Operations
-KPI0000045,Order_Fulfillment_Rate_Pct,%,2022,5,Q2,98.0,106.64,8.8,108.8,Green,Operations
-KPI0000046,Freight_Cost_Per_Unit_USD,USD,2022,5,Q2,12.0,10.96,-8.7,91.3,Yellow,Financial
-KPI0000047,Gross_Margin_Pct,%,2022,5,Q2,45.0,49.53,10.1,110.1,Green,Financial
-KPI0000048,Days_Of_Supply,days,2022,5,Q2,30.0,27.5,-8.3,91.7,Yellow,Inventory
-KPI0000049,Backorder_Rate_Pct,%,2022,5,Q2,2.0,2.16,8.0,108.0,Green,Operations
-KPI0000050,Supplier_Quality_Score,score,2022,5,Q2,90.0,91.0,1.1,101.1,Green,Quality
-KPI0000051,On_Time_Delivery_Pct,%,2022,6,Q2,95.0,99.48,4.7,104.7,Green,Delivery
-KPI0000052,Forecast_Accuracy_Pct,%,2022,6,Q2,90.0,79.25,-11.9,88.1,Yellow,Quality
-KPI0000053,Inventory_Turnover,x,2022,6,Q2,8.0,8.86,10.8,110.8,Green,Inventory
-KPI0000054,Supplier_On_Time_Pct,%,2022,6,Q2,92.0,100.3,9.0,109.0,Green,Operations
-KPI0000055,Order_Fulfillment_Rate_Pct,%,2022,6,Q2,98.0,88.44,-9.8,90.2,Yellow,Operations
-KPI0000056,Freight_Cost_Per_Unit_USD,USD,2022,6,Q2,12.0,10.71,-10.8,89.2,Yellow,Financial
-KPI0000057,Gross_Margin_Pct,%,2022,6,Q2,45.0,38.29,-14.9,85.1,Yellow,Financial
-KPI0000058,Days_Of_Supply,days,2022,6,Q2,30.0,30.74,2.5,102.5,Green,Inventory
-KPI0000059,Backorder_Rate_Pct,%,2022,6,Q2,2.0,2.16,8.0,108.0,Green,Operations
-KPI0000060,Supplier_Quality_Score,score,2022,6,Q2,90.0,99.68,10.8,110.8,Green,Quality
-KPI0000061,On_Time_Delivery_Pct,%,2022,7,Q3,95.0,82.28,-13.4,86.6,Yellow,Delivery
-KPI0000062,Forecast_Accuracy_Pct,%,2022,7,Q3,90.0,87.43,-2.9,97.1,Green,Quality
-KPI0000063,Inventory_Turnover,x,2022,7,Q3,8.0,9.08,13.5,113.5,Green,Inventory
-KPI0000064,Supplier_On_Time_Pct,%,2022,7,Q3,92.0,84.85,-7.8,92.2,Yellow,Operations
-KPI0000065,Order_Fulfillment_Rate_Pct,%,2022,7,Q3,98.0,108.73,11.0,110.9,Green,Operations
-KPI0000066,Freight_Cost_Per_Unit_USD,USD,2022,7,Q3,12.0,11.44,-4.6,95.3,Green,Financial
-KPI0000067,Gross_Margin_Pct,%,2022,7,Q3,45.0,43.11,-4.2,95.8,Green,Financial
-KPI0000068,Days_Of_Supply,days,2022,7,Q3,30.0,29.67,-1.1,98.9,Green,Inventory
-KPI0000069,Backorder_Rate_Pct,%,2022,7,Q3,2.0,1.77,-11.3,88.5,Yellow,Operations
-KPI0000070,Supplier_Quality_Score,score,2022,7,Q3,90.0,77.88,-13.5,86.5,Yellow,Quality
-KPI0000071,On_Time_Delivery_Pct,%,2022,8,Q3,95.0,82.11,-13.6,86.4,Yellow,Delivery
-KPI0000072,Forecast_Accuracy_Pct,%,2022,8,Q3,90.0,79.82,-11.3,88.7,Yellow,Quality
-KPI0000073,Inventory_Turnover,x,2022,8,Q3,8.0,7.6,-5.0,95.0,Green,Inventory
-KPI0000074,Supplier_On_Time_Pct,%,2022,8,Q3,92.0,85.16,-7.4,92.6,Yellow,Operations
-KPI0000075,Order_Fulfillment_Rate_Pct,%,2022,8,Q3,98.0,96.67,-1.4,98.6,Green,Operations
-KPI0000076,Freight_Cost_Per_Unit_USD,USD,2022,8,Q3,12.0,11.02,-8.1,91.8,Yellow,Financial
-KPI0000077,Gross_Margin_Pct,%,2022,8,Q3,45.0,42.13,-6.4,93.6,Yellow,Financial
-KPI0000078,Days_Of_Supply,days,2022,8,Q3,30.0,34.15,13.8,113.8,Green,Inventory
-KPI0000079,Backorder_Rate_Pct,%,2022,8,Q3,2.0,1.84,-7.8,92.0,Yellow,Operations
-KPI0000080,Supplier_Quality_Score,score,2022,8,Q3,90.0,78.44,-12.8,87.2,Yellow,Quality
-KPI0000081,On_Time_Delivery_Pct,%,2022,9,Q3,95.0,106.24,11.8,111.8,Green,Delivery
-KPI0000082,Forecast_Accuracy_Pct,%,2022,9,Q3,90.0,83.59,-7.1,92.9,Yellow,Quality
-KPI0000083,Inventory_Turnover,x,2022,9,Q3,8.0,8.09,1.1,101.1,Green,Inventory
-KPI0000084,Supplier_On_Time_Pct,%,2022,9,Q3,92.0,81.88,-11.0,89.0,Yellow,Operations
-KPI0000085,Order_Fulfillment_Rate_Pct,%,2022,9,Q3,98.0,93.66,-4.4,95.6,Green,Operations
-KPI0000086,Freight_Cost_Per_Unit_USD,USD,2022,9,Q3,12.0,11.52,-4.0,96.0,Green,Financial
-KPI0000087,Gross_Margin_Pct,%,2022,9,Q3,45.0,51.24,13.9,113.9,Green,Financial
-KPI0000088,Days_Of_Supply,days,2022,9,Q3,30.0,28.53,-4.9,95.1,Green,Inventory
-KPI0000089,Backorder_Rate_Pct,%,2022,9,Q3,2.0,1.85,-7.4,92.5,Yellow,Operations
-KPI0000090,Supplier_Quality_Score,score,2022,9,Q3,90.0,82.53,-8.3,91.7,Yellow,Quality
-KPI0000091,On_Time_Delivery_Pct,%,2022,10,Q4,95.0,88.46,-6.9,93.1,Yellow,Delivery
-KPI0000092,Forecast_Accuracy_Pct,%,2022,10,Q4,90.0,102.59,14.0,114.0,Green,Quality
-KPI0000093,Inventory_Turnover,x,2022,10,Q4,8.0,8.32,4.0,104.0,Green,Inventory
-KPI0000094,Supplier_On_Time_Pct,%,2022,10,Q4,92.0,86.73,-5.7,94.3,Yellow,Operations
-KPI0000095,Order_Fulfillment_Rate_Pct,%,2022,10,Q4,98.0,94.87,-3.2,96.8,Green,Operations
-KPI0000096,Freight_Cost_Per_Unit_USD,USD,2022,10,Q4,12.0,11.38,-5.1,94.8,Yellow,Financial
-KPI0000097,Gross_Margin_Pct,%,2022,10,Q4,45.0,47.01,4.5,104.5,Green,Financial
-KPI0000098,Days_Of_Supply,days,2022,10,Q4,30.0,29.71,-1.0,99.0,Green,Inventory
-KPI0000099,Backorder_Rate_Pct,%,2022,10,Q4,2.0,2.07,3.6,103.5,Green,Operations
-KPI0000100,Supplier_Quality_Score,score,2022,10,Q4,90.0,84.98,-5.6,94.4,Yellow,Quality
-KPI0000101,On_Time_Delivery_Pct,%,2022,11,Q4,95.0,87.53,-7.9,92.1,Yellow,Delivery
-KPI0000102,Forecast_Accuracy_Pct,%,2022,11,Q4,90.0,80.4,-10.7,89.3,Yellow,Quality
-KPI0000103,Inventory_Turnover,x,2022,11,Q4,8.0,7.68,-4.0,96.0,Green,Inventory
-KPI0000104,Supplier_On_Time_Pct,%,2022,11,Q4,92.0,88.49,-3.8,96.2,Green,Operations
-KPI0000105,Order_Fulfillment_Rate_Pct,%,2022,11,Q4,98.0,99.55,1.6,101.6,Green,Operations
-KPI0000106,Freight_Cost_Per_Unit_USD,USD,2022,11,Q4,12.0,13.2,10.0,110.0,Green,Financial
-KPI0000107,Gross_Margin_Pct,%,2022,11,Q4,45.0,47.35,5.2,105.2,Green,Financial
-KPI0000108,Days_Of_Supply,days,2022,11,Q4,30.0,30.74,2.5,102.5,Green,Inventory
-KPI0000109,Backorder_Rate_Pct,%,2022,11,Q4,2.0,2.28,14.0,114.0,Green,Operations
-KPI0000110,Supplier_Quality_Score,score,2022,11,Q4,90.0,85.79,-4.7,95.3,Green,Quality
-KPI0000111,On_Time_Delivery_Pct,%,2022,12,Q4,95.0,102.03,7.4,107.4,Green,Delivery
-KPI0000112,Forecast_Accuracy_Pct,%,2022,12,Q4,90.0,84.64,-6.0,94.0,Yellow,Quality
-KPI0000113,Inventory_Turnover,x,2022,12,Q4,8.0,7.97,-0.4,99.6,Green,Inventory
-KPI0000114,Supplier_On_Time_Pct,%,2022,12,Q4,92.0,103.81,12.8,112.8,Green,Operations
-KPI0000115,Order_Fulfillment_Rate_Pct,%,2022,12,Q4,98.0,86.17,-12.1,87.9,Yellow,Operations
-KPI0000116,Freight_Cost_Per_Unit_USD,USD,2022,12,Q4,12.0,11.67,-2.7,97.2,Green,Financial
-KPI0000117,Gross_Margin_Pct,%,2022,12,Q4,45.0,38.85,-13.7,86.3,Yellow,Financial
-KPI0000118,Days_Of_Supply,days,2022,12,Q4,30.0,32.59,8.6,108.6,Green,Inventory
-KPI0000119,Backorder_Rate_Pct,%,2022,12,Q4,2.0,2.25,12.3,112.5,Green,Operations
-KPI0000120,Supplier_Quality_Score,score,2022,12,Q4,90.0,97.38,8.2,108.2,Green,Quality
-KPI0000121,On_Time_Delivery_Pct,%,2023,1,Q1,95.0,88.23,-7.1,92.9,Yellow,Delivery
-KPI0000122,Forecast_Accuracy_Pct,%,2023,1,Q1,90.0,93.79,4.2,104.2,Green,Quality
-KPI0000123,Inventory_Turnover,x,2023,1,Q1,8.0,8.66,8.3,108.2,Green,Inventory
-KPI0000124,Supplier_On_Time_Pct,%,2023,1,Q1,92.0,89.53,-2.7,97.3,Green,Operations
-KPI0000125,Order_Fulfillment_Rate_Pct,%,2023,1,Q1,98.0,90.31,-7.8,92.2,Yellow,Operations
-KPI0000126,Freight_Cost_Per_Unit_USD,USD,2023,1,Q1,12.0,12.87,7.2,107.2,Green,Financial
-KPI0000127,Gross_Margin_Pct,%,2023,1,Q1,45.0,47.1,4.7,104.7,Green,Financial
-KPI0000128,Days_Of_Supply,days,2023,1,Q1,30.0,34.16,13.9,113.9,Green,Inventory
-KPI0000129,Backorder_Rate_Pct,%,2023,1,Q1,2.0,1.88,-5.9,94.0,Yellow,Operations
-KPI0000130,Supplier_Quality_Score,score,2023,1,Q1,90.0,76.55,-14.9,85.1,Yellow,Quality
-KPI0000131,On_Time_Delivery_Pct,%,2023,2,Q1,95.0,81.27,-14.5,85.5,Yellow,Delivery
-KPI0000132,Forecast_Accuracy_Pct,%,2023,2,Q1,90.0,79.25,-11.9,88.1,Yellow,Quality
-KPI0000133,Inventory_Turnover,x,2023,2,Q1,8.0,7.76,-3.0,97.0,Green,Inventory
-KPI0000134,Supplier_On_Time_Pct,%,2023,2,Q1,92.0,94.56,2.8,102.8,Green,Operations
-KPI0000135,Order_Fulfillment_Rate_Pct,%,2023,2,Q1,98.0,111.99,14.3,114.3,Green,Operations
-KPI0000136,Freight_Cost_Per_Unit_USD,USD,2023,2,Q1,12.0,12.48,4.0,104.0,Green,Financial
-KPI0000137,Gross_Margin_Pct,%,2023,2,Q1,45.0,39.55,-12.1,87.9,Yellow,Financial
-KPI0000138,Days_Of_Supply,days,2023,2,Q1,30.0,32.07,6.9,106.9,Green,Inventory
-KPI0000139,Backorder_Rate_Pct,%,2023,2,Q1,2.0,2.0,-0.2,100.0,Green,Operations
-KPI0000140,Supplier_Quality_Score,score,2023,2,Q1,90.0,92.43,2.7,102.7,Green,Quality
-KPI0000141,On_Time_Delivery_Pct,%,2023,3,Q1,95.0,101.28,6.6,106.6,Green,Delivery
-KPI0000142,Forecast_Accuracy_Pct,%,2023,3,Q1,90.0,98.28,9.2,109.2,Green,Quality
-KPI0000143,Inventory_Turnover,x,2023,3,Q1,8.0,8.46,5.8,105.8,Green,Inventory
-KPI0000144,Supplier_On_Time_Pct,%,2023,3,Q1,92.0,105.09,14.2,114.2,Green,Operations
-KPI0000145,Order_Fulfillment_Rate_Pct,%,2023,3,Q1,98.0,86.96,-11.3,88.7,Yellow,Operations
-KPI0000146,Freight_Cost_Per_Unit_USD,USD,2023,3,Q1,12.0,11.46,-4.5,95.5,Green,Financial
-KPI0000147,Gross_Margin_Pct,%,2023,3,Q1,45.0,42.56,-5.4,94.6,Yellow,Financial
-KPI0000148,Days_Of_Supply,days,2023,3,Q1,30.0,28.56,-4.8,95.2,Green,Inventory
-KPI0000149,Backorder_Rate_Pct,%,2023,3,Q1,2.0,1.73,-13.7,86.5,Yellow,Operations
-KPI0000150,Supplier_Quality_Score,score,2023,3,Q1,90.0,95.75,6.4,106.4,Green,Quality
-KPI0000151,On_Time_Delivery_Pct,%,2023,4,Q2,95.0,94.98,-0.0,100.0,Green,Delivery
-KPI0000152,Forecast_Accuracy_Pct,%,2023,4,Q2,90.0,84.15,-6.5,93.5,Yellow,Quality
-KPI0000153,Inventory_Turnover,x,2023,4,Q2,8.0,8.51,6.4,106.4,Green,Inventory
-KPI0000154,Supplier_On_Time_Pct,%,2023,4,Q2,92.0,89.31,-2.9,97.1,Green,Operations
-KPI0000155,Order_Fulfillment_Rate_Pct,%,2023,4,Q2,98.0,86.91,-11.3,88.7,Yellow,Operations
-KPI0000156,Freight_Cost_Per_Unit_USD,USD,2023,4,Q2,12.0,10.29,-14.2,85.8,Yellow,Financial
-KPI0000157,Gross_Margin_Pct,%,2023,4,Q2,45.0,46.46,3.3,103.2,Green,Financial
-KPI0000158,Days_Of_Supply,days,2023,4,Q2,30.0,28.99,-3.4,96.6,Green,Inventory
-KPI0000159,Backorder_Rate_Pct,%,2023,4,Q2,2.0,1.71,-14.4,85.5,Yellow,Operations
-KPI0000160,Supplier_Quality_Score,score,2023,4,Q2,90.0,88.92,-1.2,98.8,Green,Quality
-KPI0000161,On_Time_Delivery_Pct,%,2023,5,Q2,95.0,98.3,3.5,103.5,Green,Delivery
-KPI0000162,Forecast_Accuracy_Pct,%,2023,5,Q2,90.0,77.34,-14.1,85.9,Yellow,Quality
-KPI0000163,Inventory_Turnover,x,2023,5,Q2,8.0,8.83,10.4,110.4,Green,Inventory
-KPI0000164,Supplier_On_Time_Pct,%,2023,5,Q2,92.0,99.12,7.7,107.7,Green,Operations
-KPI0000165,Order_Fulfillment_Rate_Pct,%,2023,5,Q2,98.0,96.19,-1.9,98.2,Green,Operations
-KPI0000166,Freight_Cost_Per_Unit_USD,USD,2023,5,Q2,12.0,10.33,-13.9,86.1,Yellow,Financial
-KPI0000167,Gross_Margin_Pct,%,2023,5,Q2,45.0,43.42,-3.5,96.5,Green,Financial
-KPI0000168,Days_Of_Supply,days,2023,5,Q2,30.0,30.66,2.2,102.2,Green,Inventory
-KPI0000169,Backorder_Rate_Pct,%,2023,5,Q2,2.0,2.09,4.4,104.5,Green,Operations
-KPI0000170,Supplier_Quality_Score,score,2023,5,Q2,90.0,92.01,2.2,102.2,Green,Quality
-KPI0000171,On_Time_Delivery_Pct,%,2023,6,Q2,95.0,94.68,-0.3,99.7,Green,Delivery
-KPI0000172,Forecast_Accuracy_Pct,%,2023,6,Q2,90.0,88.18,-2.0,98.0,Green,Quality
-KPI0000173,Inventory_Turnover,x,2023,6,Q2,8.0,8.23,2.9,102.9,Green,Inventory
-KPI0000174,Supplier_On_Time_Pct,%,2023,6,Q2,92.0,104.26,13.3,113.3,Green,Operations
-KPI0000175,Order_Fulfillment_Rate_Pct,%,2023,6,Q2,98.0,92.49,-5.6,94.4,Yellow,Operations
-KPI0000176,Freight_Cost_Per_Unit_USD,USD,2023,6,Q2,12.0,12.65,5.4,105.4,Green,Financial
-KPI0000177,Gross_Margin_Pct,%,2023,6,Q2,45.0,43.62,-3.1,96.9,Green,Financial
-KPI0000178,Days_Of_Supply,days,2023,6,Q2,30.0,31.83,6.1,106.1,Green,Inventory
-KPI0000179,Backorder_Rate_Pct,%,2023,6,Q2,2.0,1.77,-11.7,88.5,Yellow,Operations
-KPI0000180,Supplier_Quality_Score,score,2023,6,Q2,90.0,98.05,8.9,108.9,Green,Quality
-KPI0000181,On_Time_Delivery_Pct,%,2023,7,Q3,95.0,97.23,2.3,102.3,Green,Delivery
-KPI0000182,Forecast_Accuracy_Pct,%,2023,7,Q3,90.0,97.58,8.4,108.4,Green,Quality
-KPI0000183,Inventory_Turnover,x,2023,7,Q3,8.0,8.39,4.9,104.9,Green,Inventory
-KPI0000184,Supplier_On_Time_Pct,%,2023,7,Q3,92.0,99.47,8.1,108.1,Green,Operations
-KPI0000185,Order_Fulfillment_Rate_Pct,%,2023,7,Q3,98.0,110.45,12.7,112.7,Green,Operations
-KPI0000186,Freight_Cost_Per_Unit_USD,USD,2023,7,Q3,12.0,11.73,-2.3,97.8,Green,Financial
-KPI0000187,Gross_Margin_Pct,%,2023,7,Q3,45.0,43.67,-2.9,97.0,Green,Financial
-KPI0000188,Days_Of_Supply,days,2023,7,Q3,30.0,27.75,-7.5,92.5,Yellow,Inventory
-KPI0000189,Backorder_Rate_Pct,%,2023,7,Q3,2.0,2.3,14.9,115.0,Green,Operations
-KPI0000190,Supplier_Quality_Score,score,2023,7,Q3,90.0,97.85,8.7,108.7,Green,Quality
-KPI0000191,On_Time_Delivery_Pct,%,2023,8,Q3,95.0,94.62,-0.4,99.6,Green,Delivery
-KPI0000192,Forecast_Accuracy_Pct,%,2023,8,Q3,90.0,82.98,-7.8,92.2,Yellow,Quality
-KPI0000193,Inventory_Turnover,x,2023,8,Q3,8.0,8.91,11.4,111.4,Green,Inventory
-KPI0000194,Supplier_On_Time_Pct,%,2023,8,Q3,92.0,100.16,8.9,108.9,Green,Operations
-KPI0000195,Order_Fulfillment_Rate_Pct,%,2023,8,Q3,98.0,103.97,6.1,106.1,Green,Operations
-KPI0000196,Freight_Cost_Per_Unit_USD,USD,2023,8,Q3,12.0,12.34,2.8,102.8,Green,Financial
-KPI0000197,Gross_Margin_Pct,%,2023,8,Q3,45.0,38.86,-13.6,86.4,Yellow,Financial
-KPI0000198,Days_Of_Supply,days,2023,8,Q3,30.0,26.02,-13.3,86.7,Yellow,Inventory
-KPI0000199,Backorder_Rate_Pct,%,2023,8,Q3,2.0,1.78,-11.2,89.0,Yellow,Operations
-KPI0000200,Supplier_Quality_Score,score,2023,8,Q3,90.0,90.92,1.0,101.0,Green,Quality
-KPI0000201,On_Time_Delivery_Pct,%,2023,9,Q3,95.0,86.86,-8.6,91.4,Yellow,Delivery
-KPI0000202,Forecast_Accuracy_Pct,%,2023,9,Q3,90.0,97.54,8.4,108.4,Green,Quality
-KPI0000203,Inventory_Turnover,x,2023,9,Q3,8.0,9.12,14.0,114.0,Green,Inventory
-KPI0000204,Supplier_On_Time_Pct,%,2023,9,Q3,92.0,84.56,-8.1,91.9,Yellow,Operations
-KPI0000205,Order_Fulfillment_Rate_Pct,%,2023,9,Q3,98.0,93.45,-4.6,95.4,Green,Operations
-KPI0000206,Freight_Cost_Per_Unit_USD,USD,2023,9,Q3,12.0,10.58,-11.8,88.2,Yellow,Financial
-KPI0000207,Gross_Margin_Pct,%,2023,9,Q3,45.0,40.87,-9.2,90.8,Yellow,Financial
-KPI0000208,Days_Of_Supply,days,2023,9,Q3,30.0,25.57,-14.8,85.2,Yellow,Inventory
-KPI0000209,Backorder_Rate_Pct,%,2023,9,Q3,2.0,1.86,-6.8,93.0,Yellow,Operations
-KPI0000210,Supplier_Quality_Score,score,2023,9,Q3,90.0,77.77,-13.6,86.4,Yellow,Quality
-KPI0000211,On_Time_Delivery_Pct,%,2023,10,Q4,95.0,94.09,-1.0,99.0,Green,Delivery
-KPI0000212,Forecast_Accuracy_Pct,%,2023,10,Q4,90.0,99.65,10.7,110.7,Green,Quality
-KPI0000213,Inventory_Turnover,x,2023,10,Q4,8.0,7.2,-10.1,90.0,Yellow,Inventory
-KPI0000214,Supplier_On_Time_Pct,%,2023,10,Q4,92.0,95.73,4.1,104.1,Green,Operations
-KPI0000215,Order_Fulfillment_Rate_Pct,%,2023,10,Q4,98.0,111.98,14.3,114.3,Green,Operations
-KPI0000216,Freight_Cost_Per_Unit_USD,USD,2023,10,Q4,12.0,11.02,-8.2,91.8,Yellow,Financial
-KPI0000217,Gross_Margin_Pct,%,2023,10,Q4,45.0,43.72,-2.8,97.2,Green,Financial
-KPI0000218,Days_Of_Supply,days,2023,10,Q4,30.0,31.55,5.2,105.2,Green,Inventory
-KPI0000219,Backorder_Rate_Pct,%,2023,10,Q4,2.0,1.84,-8.2,92.0,Yellow,Operations
-KPI0000220,Supplier_Quality_Score,score,2023,10,Q4,90.0,89.45,-0.6,99.4,Green,Quality
-KPI0000221,On_Time_Delivery_Pct,%,2023,11,Q4,95.0,102.75,8.2,108.2,Green,Delivery
-KPI0000222,Forecast_Accuracy_Pct,%,2023,11,Q4,90.0,91.83,2.0,102.0,Green,Quality
-KPI0000223,Inventory_Turnover,x,2023,11,Q4,8.0,7.86,-1.8,98.2,Green,Inventory
-KPI0000224,Supplier_On_Time_Pct,%,2023,11,Q4,92.0,100.84,9.6,109.6,Green,Operations
-KPI0000225,Order_Fulfillment_Rate_Pct,%,2023,11,Q4,98.0,85.14,-13.1,86.9,Yellow,Operations
-KPI0000226,Freight_Cost_Per_Unit_USD,USD,2023,11,Q4,12.0,12.7,5.8,105.8,Green,Financial
-KPI0000227,Gross_Margin_Pct,%,2023,11,Q4,45.0,45.27,0.6,100.6,Green,Financial
-KPI0000228,Days_Of_Supply,days,2023,11,Q4,30.0,25.7,-14.3,85.7,Yellow,Inventory
-KPI0000229,Backorder_Rate_Pct,%,2023,11,Q4,2.0,2.12,6.1,106.0,Green,Operations
-KPI0000230,Supplier_Quality_Score,score,2023,11,Q4,90.0,99.56,10.6,110.6,Green,Quality
-KPI0000231,On_Time_Delivery_Pct,%,2023,12,Q4,95.0,106.15,11.7,111.7,Green,Delivery
-KPI0000232,Forecast_Accuracy_Pct,%,2023,12,Q4,90.0,76.8,-14.7,85.3,Yellow,Quality
-KPI0000233,Inventory_Turnover,x,2023,12,Q4,8.0,6.92,-13.5,86.5,Yellow,Inventory
-KPI0000234,Supplier_On_Time_Pct,%,2023,12,Q4,92.0,90.79,-1.3,98.7,Green,Operations
-KPI0000235,Order_Fulfillment_Rate_Pct,%,2023,12,Q4,98.0,104.49,6.6,106.6,Green,Operations
-KPI0000236,Freight_Cost_Per_Unit_USD,USD,2023,12,Q4,12.0,13.1,9.1,109.2,Green,Financial
-KPI0000237,Gross_Margin_Pct,%,2023,12,Q4,45.0,48.7,8.2,108.2,Green,Financial
-KPI0000238,Days_Of_Supply,days,2023,12,Q4,30.0,29.43,-1.9,98.1,Green,Inventory
-KPI0000239,Backorder_Rate_Pct,%,2023,12,Q4,2.0,1.92,-4.1,96.0,Green,Operations
-KPI0000240,Supplier_Quality_Score,score,2023,12,Q4,90.0,98.47,9.4,109.4,Green,Quality
-KPI0000241,On_Time_Delivery_Pct,%,2024,1,Q1,95.0,91.86,-3.3,96.7,Green,Delivery
-KPI0000242,Forecast_Accuracy_Pct,%,2024,1,Q1,90.0,77.18,-14.2,85.8,Yellow,Quality
-KPI0000243,Inventory_Turnover,x,2024,1,Q1,8.0,7.22,-9.8,90.2,Yellow,Inventory
-KPI0000244,Supplier_On_Time_Pct,%,2024,1,Q1,92.0,101.65,10.5,110.5,Green,Operations
-KPI0000245,Order_Fulfillment_Rate_Pct,%,2024,1,Q1,98.0,88.64,-9.6,90.4,Yellow,Operations
-KPI0000246,Freight_Cost_Per_Unit_USD,USD,2024,1,Q1,12.0,13.77,14.7,114.8,Green,Financial
-KPI0000247,Gross_Margin_Pct,%,2024,1,Q1,45.0,43.85,-2.5,97.4,Green,Financial
-KPI0000248,Days_Of_Supply,days,2024,1,Q1,30.0,33.57,11.9,111.9,Green,Inventory
-KPI0000249,Backorder_Rate_Pct,%,2024,1,Q1,2.0,1.98,-0.9,99.0,Green,Operations
-KPI0000250,Supplier_Quality_Score,score,2024,1,Q1,90.0,92.47,2.7,102.7,Green,Quality
-KPI0000251,On_Time_Delivery_Pct,%,2024,2,Q1,95.0,88.29,-7.1,92.9,Yellow,Delivery
-KPI0000252,Forecast_Accuracy_Pct,%,2024,2,Q1,90.0,97.52,8.4,108.4,Green,Quality
-KPI0000253,Inventory_Turnover,x,2024,2,Q1,8.0,6.96,-13.0,87.0,Yellow,Inventory
-KPI0000254,Supplier_On_Time_Pct,%,2024,2,Q1,92.0,102.66,11.6,111.6,Green,Operations
-KPI0000255,Order_Fulfillment_Rate_Pct,%,2024,2,Q1,98.0,108.7,10.9,110.9,Green,Operations
-KPI0000256,Freight_Cost_Per_Unit_USD,USD,2024,2,Q1,12.0,12.08,0.7,100.7,Green,Financial
-KPI0000257,Gross_Margin_Pct,%,2024,2,Q1,45.0,44.04,-2.1,97.9,Green,Financial
-KPI0000258,Days_Of_Supply,days,2024,2,Q1,30.0,30.75,2.5,102.5,Green,Inventory
-KPI0000259,Backorder_Rate_Pct,%,2024,2,Q1,2.0,1.75,-12.3,87.5,Yellow,Operations
-KPI0000260,Supplier_Quality_Score,score,2024,2,Q1,90.0,79.91,-11.2,88.8,Yellow,Quality
-KPI0000261,On_Time_Delivery_Pct,%,2024,3,Q1,95.0,84.41,-11.1,88.9,Yellow,Delivery
-KPI0000262,Forecast_Accuracy_Pct,%,2024,3,Q1,90.0,81.8,-9.1,90.9,Yellow,Quality
-KPI0000263,Inventory_Turnover,x,2024,3,Q1,8.0,8.73,9.1,109.1,Green,Inventory
-KPI0000264,Supplier_On_Time_Pct,%,2024,3,Q1,92.0,80.29,-12.7,87.3,Yellow,Operations
-KPI0000265,Order_Fulfillment_Rate_Pct,%,2024,3,Q1,98.0,101.72,3.8,103.8,Green,Operations
-KPI0000266,Freight_Cost_Per_Unit_USD,USD,2024,3,Q1,12.0,10.8,-10.0,90.0,Yellow,Financial
-KPI0000267,Gross_Margin_Pct,%,2024,3,Q1,45.0,49.95,11.0,111.0,Green,Financial
-KPI0000268,Days_Of_Supply,days,2024,3,Q1,30.0,32.75,9.2,109.2,Green,Inventory
-KPI0000269,Backorder_Rate_Pct,%,2024,3,Q1,2.0,1.75,-12.5,87.5,Yellow,Operations
-KPI0000270,Supplier_Quality_Score,score,2024,3,Q1,90.0,79.42,-11.8,88.2,Yellow,Quality
-KPI0000271,On_Time_Delivery_Pct,%,2024,4,Q2,95.0,94.69,-0.3,99.7,Green,Delivery
-KPI0000272,Forecast_Accuracy_Pct,%,2024,4,Q2,90.0,93.83,4.3,104.3,Green,Quality
-KPI0000273,Inventory_Turnover,x,2024,4,Q2,8.0,8.16,2.0,102.0,Green,Inventory
-KPI0000274,Supplier_On_Time_Pct,%,2024,4,Q2,92.0,105.21,14.4,114.4,Green,Operations
-KPI0000275,Order_Fulfillment_Rate_Pct,%,2024,4,Q2,98.0,108.08,10.3,110.3,Green,Operations
-KPI0000276,Freight_Cost_Per_Unit_USD,USD,2024,4,Q2,12.0,13.12,9.3,109.3,Green,Financial
-KPI0000277,Gross_Margin_Pct,%,2024,4,Q2,45.0,49.93,11.0,111.0,Green,Financial
-KPI0000278,Days_Of_Supply,days,2024,4,Q2,30.0,29.05,-3.2,96.8,Green,Inventory
-KPI0000279,Backorder_Rate_Pct,%,2024,4,Q2,2.0,2.15,7.7,107.5,Green,Operations
-KPI0000280,Supplier_Quality_Score,score,2024,4,Q2,90.0,85.1,-5.4,94.6,Yellow,Quality
-KPI0000281,On_Time_Delivery_Pct,%,2024,5,Q2,95.0,108.22,13.9,113.9,Green,Delivery
-KPI0000282,Forecast_Accuracy_Pct,%,2024,5,Q2,90.0,93.49,3.9,103.9,Green,Quality
-KPI0000283,Inventory_Turnover,x,2024,5,Q2,8.0,7.45,-6.8,93.1,Yellow,Inventory
-KPI0000284,Supplier_On_Time_Pct,%,2024,5,Q2,92.0,103.45,12.4,112.4,Green,Operations
-KPI0000285,Order_Fulfillment_Rate_Pct,%,2024,5,Q2,98.0,103.88,6.0,106.0,Green,Operations
-KPI0000286,Freight_Cost_Per_Unit_USD,USD,2024,5,Q2,12.0,10.85,-9.6,90.4,Yellow,Financial
-KPI0000287,Gross_Margin_Pct,%,2024,5,Q2,45.0,47.52,5.6,105.6,Green,Financial
-KPI0000288,Days_Of_Supply,days,2024,5,Q2,30.0,28.35,-5.5,94.5,Yellow,Inventory
-KPI0000289,Backorder_Rate_Pct,%,2024,5,Q2,2.0,1.87,-6.4,93.5,Yellow,Operations
-KPI0000290,Supplier_Quality_Score,score,2024,5,Q2,90.0,78.56,-12.7,87.3,Yellow,Quality
-KPI0000291,On_Time_Delivery_Pct,%,2024,6,Q2,95.0,95.59,0.6,100.6,Green,Delivery
-KPI0000292,Forecast_Accuracy_Pct,%,2024,6,Q2,90.0,98.03,8.9,108.9,Green,Quality
-KPI0000293,Inventory_Turnover,x,2024,6,Q2,8.0,8.45,5.6,105.6,Green,Inventory
-KPI0000294,Supplier_On_Time_Pct,%,2024,6,Q2,92.0,96.57,5.0,105.0,Green,Operations
-KPI0000295,Order_Fulfillment_Rate_Pct,%,2024,6,Q2,98.0,105.78,7.9,107.9,Green,Operations
-KPI0000296,Freight_Cost_Per_Unit_USD,USD,2024,6,Q2,12.0,12.71,5.9,105.9,Green,Financial
-KPI0000297,Gross_Margin_Pct,%,2024,6,Q2,45.0,39.4,-12.4,87.6,Yellow,Financial
-KPI0000298,Days_Of_Supply,days,2024,6,Q2,30.0,28.94,-3.5,96.5,Green,Inventory
-KPI0000299,Backorder_Rate_Pct,%,2024,6,Q2,2.0,1.97,-1.5,98.5,Green,Operations
-KPI0000300,Supplier_Quality_Score,score,2024,6,Q2,90.0,90.3,0.3,100.3,Green,Quality
-KPI0000301,On_Time_Delivery_Pct,%,2024,7,Q3,95.0,81.27,-14.5,85.5,Yellow,Delivery
-KPI0000302,Forecast_Accuracy_Pct,%,2024,7,Q3,90.0,85.63,-4.9,95.1,Green,Quality
-KPI0000303,Inventory_Turnover,x,2024,7,Q3,8.0,6.94,-13.3,86.8,Yellow,Inventory
-KPI0000304,Supplier_On_Time_Pct,%,2024,7,Q3,92.0,93.45,1.6,101.6,Green,Operations
-KPI0000305,Order_Fulfillment_Rate_Pct,%,2024,7,Q3,98.0,102.35,4.4,104.4,Green,Operations
-KPI0000306,Freight_Cost_Per_Unit_USD,USD,2024,7,Q3,12.0,12.14,1.2,101.2,Green,Financial
-KPI0000307,Gross_Margin_Pct,%,2024,7,Q3,45.0,47.57,5.7,105.7,Green,Financial
-KPI0000308,Days_Of_Supply,days,2024,7,Q3,30.0,27.45,-8.5,91.5,Yellow,Inventory
-KPI0000309,Backorder_Rate_Pct,%,2024,7,Q3,2.0,2.2,10.1,110.0,Green,Operations
-KPI0000310,Supplier_Quality_Score,score,2024,7,Q3,90.0,96.0,6.7,106.7,Green,Quality
-KPI0000311,On_Time_Delivery_Pct,%,2024,8,Q3,95.0,95.37,0.4,100.4,Green,Delivery
-KPI0000312,Forecast_Accuracy_Pct,%,2024,8,Q3,90.0,97.57,8.4,108.4,Green,Quality
-KPI0000313,Inventory_Turnover,x,2024,8,Q3,8.0,8.09,1.1,101.1,Green,Inventory
-KPI0000314,Supplier_On_Time_Pct,%,2024,8,Q3,92.0,102.98,11.9,111.9,Green,Operations
-KPI0000315,Order_Fulfillment_Rate_Pct,%,2024,8,Q3,98.0,108.64,10.9,110.9,Green,Operations
-KPI0000316,Freight_Cost_Per_Unit_USD,USD,2024,8,Q3,12.0,13.58,13.2,113.2,Green,Financial
-KPI0000317,Gross_Margin_Pct,%,2024,8,Q3,45.0,41.76,-7.2,92.8,Yellow,Financial
-KPI0000318,Days_Of_Supply,days,2024,8,Q3,30.0,31.54,5.1,105.1,Green,Inventory
-KPI0000319,Backorder_Rate_Pct,%,2024,8,Q3,2.0,1.8,-10.0,90.0,Yellow,Operations
-KPI0000320,Supplier_Quality_Score,score,2024,8,Q3,90.0,102.05,13.4,113.4,Green,Quality
-KPI0000321,On_Time_Delivery_Pct,%,2024,9,Q3,95.0,88.19,-7.2,92.8,Yellow,Delivery
-KPI0000322,Forecast_Accuracy_Pct,%,2024,9,Q3,90.0,90.6,0.7,100.7,Green,Quality
-KPI0000323,Inventory_Turnover,x,2024,9,Q3,8.0,7.28,-9.1,91.0,Yellow,Inventory
-KPI0000324,Supplier_On_Time_Pct,%,2024,9,Q3,92.0,87.13,-5.3,94.7,Yellow,Operations
-KPI0000325,Order_Fulfillment_Rate_Pct,%,2024,9,Q3,98.0,111.96,14.2,114.2,Green,Operations
-KPI0000326,Freight_Cost_Per_Unit_USD,USD,2024,9,Q3,12.0,13.44,12.0,112.0,Green,Financial
-KPI0000327,Gross_Margin_Pct,%,2024,9,Q3,45.0,39.75,-11.7,88.3,Yellow,Financial
-KPI0000328,Days_Of_Supply,days,2024,9,Q3,30.0,29.49,-1.7,98.3,Green,Inventory
-KPI0000329,Backorder_Rate_Pct,%,2024,9,Q3,2.0,2.03,1.3,101.5,Green,Operations
-KPI0000330,Supplier_Quality_Score,score,2024,9,Q3,90.0,101.11,12.3,112.3,Green,Quality
-KPI0000331,On_Time_Delivery_Pct,%,2024,10,Q4,95.0,81.08,-14.7,85.3,Yellow,Delivery
-KPI0000332,Forecast_Accuracy_Pct,%,2024,10,Q4,90.0,76.54,-15.0,85.0,Yellow,Quality
-KPI0000333,Inventory_Turnover,x,2024,10,Q4,8.0,7.96,-0.5,99.5,Green,Inventory
-KPI0000334,Supplier_On_Time_Pct,%,2024,10,Q4,92.0,99.66,8.3,108.3,Green,Operations
-KPI0000335,Order_Fulfillment_Rate_Pct,%,2024,10,Q4,98.0,110.35,12.6,112.6,Green,Operations
-KPI0000336,Freight_Cost_Per_Unit_USD,USD,2024,10,Q4,12.0,11.89,-0.9,99.1,Green,Financial
-KPI0000337,Gross_Margin_Pct,%,2024,10,Q4,45.0,44.77,-0.5,99.5,Green,Financial
-KPI0000338,Days_Of_Supply,days,2024,10,Q4,30.0,32.09,7.0,107.0,Green,Inventory
-KPI0000339,Backorder_Rate_Pct,%,2024,10,Q4,2.0,1.71,-14.7,85.5,Yellow,Operations
-KPI0000340,Supplier_Quality_Score,score,2024,10,Q4,90.0,87.89,-2.3,97.7,Green,Quality
-KPI0000341,On_Time_Delivery_Pct,%,2024,11,Q4,95.0,99.7,5.0,104.9,Green,Delivery
-KPI0000342,Forecast_Accuracy_Pct,%,2024,11,Q4,90.0,88.26,-1.9,98.1,Green,Quality
-KPI0000343,Inventory_Turnover,x,2024,11,Q4,8.0,9.13,14.1,114.1,Green,Inventory
-KPI0000344,Supplier_On_Time_Pct,%,2024,11,Q4,92.0,84.75,-7.9,92.1,Yellow,Operations
-KPI0000345,Order_Fulfillment_Rate_Pct,%,2024,11,Q4,98.0,96.97,-1.0,98.9,Green,Operations
-KPI0000346,Freight_Cost_Per_Unit_USD,USD,2024,11,Q4,12.0,10.72,-10.7,89.3,Yellow,Financial
-KPI0000347,Gross_Margin_Pct,%,2024,11,Q4,45.0,46.4,3.1,103.1,Green,Financial
-KPI0000348,Days_Of_Supply,days,2024,11,Q4,30.0,25.52,-14.9,85.1,Yellow,Inventory
-KPI0000349,Backorder_Rate_Pct,%,2024,11,Q4,2.0,1.95,-2.4,97.5,Green,Operations
-KPI0000350,Supplier_Quality_Score,score,2024,11,Q4,90.0,89.54,-0.5,99.5,Green,Quality
-KPI0000351,On_Time_Delivery_Pct,%,2024,12,Q4,95.0,104.64,10.2,110.1,Green,Delivery
-KPI0000352,Forecast_Accuracy_Pct,%,2024,12,Q4,90.0,93.69,4.1,104.1,Green,Quality
-KPI0000353,Inventory_Turnover,x,2024,12,Q4,8.0,7.25,-9.4,90.6,Yellow,Inventory
-KPI0000354,Supplier_On_Time_Pct,%,2024,12,Q4,92.0,80.79,-12.2,87.8,Yellow,Operations
-KPI0000355,Order_Fulfillment_Rate_Pct,%,2024,12,Q4,98.0,87.63,-10.6,89.4,Yellow,Operations
-KPI0000356,Freight_Cost_Per_Unit_USD,USD,2024,12,Q4,12.0,11.21,-6.5,93.4,Yellow,Financial
-KPI0000357,Gross_Margin_Pct,%,2024,12,Q4,45.0,45.32,0.7,100.7,Green,Financial
-KPI0000358,Days_Of_Supply,days,2024,12,Q4,30.0,30.15,0.5,100.5,Green,Inventory
-KPI0000359,Backorder_Rate_Pct,%,2024,12,Q4,2.0,2.04,1.8,102.0,Green,Operations
-KPI0000360,Supplier_Quality_Score,score,2024,12,Q4,90.0,94.23,4.7,104.7,Green,Quality
+KPI_ID,KPI_Name,Unit,Direction,Year,Month,Quarter,Target_Value,Actual_Value,Variance_Pct,Achievement_Pct,Status,Category
+KPI0000001,On_Time_Delivery_Pct,%,Higher is better,2022,1,Q1,95.0,91.69,-3.5,96.5,Green,Delivery
+KPI0000002,Forecast_Accuracy_Pct,%,Higher is better,2022,1,Q1,90.0,88.33,-1.9,98.1,Green,Planning
+KPI0000003,Inventory_Turnover,x,Higher is better,2022,1,Q1,8.0,7.55,-5.6,94.4,Yellow,Inventory
+KPI0000004,Supplier_On_Time_Pct,%,Higher is better,2022,1,Q1,92.0,82.08,-10.8,89.2,Yellow,Supplier
+KPI0000005,Order_Fulfillment_Rate_Pct,%,Higher is better,2022,1,Q1,98.0,91.53,-6.6,93.4,Yellow,Operations
+KPI0000006,Freight_Cost_Per_Unit_USD,USD,Lower is better,2022,1,Q1,12.0,12.6,5.0,95.2,Green,Financial
+KPI0000007,Gross_Margin_Pct,%,Higher is better,2022,1,Q1,45.0,48.63,8.1,108.1,Green,Financial
+KPI0000008,Days_Of_Supply,days,Lower is better,2022,1,Q1,30.0,35.28,17.6,85.0,Yellow,Inventory
+KPI0000009,Backorder_Rate_Pct,%,Lower is better,2022,1,Q1,2.0,2.92,46.0,68.5,Red,Operations
+KPI0000010,Supplier_Quality_Score,score,Higher is better,2022,1,Q1,90.0,90.27,0.3,100.3,Green,Supplier
+KPI0000011,On_Time_Delivery_Pct,%,Higher is better,2022,2,Q1,95.0,95.45,0.5,100.5,Green,Delivery
+KPI0000012,Forecast_Accuracy_Pct,%,Higher is better,2022,2,Q1,90.0,86.02,-4.4,95.6,Green,Planning
+KPI0000013,Inventory_Turnover,x,Higher is better,2022,2,Q1,8.0,6.17,-22.9,77.1,Red,Inventory
+KPI0000014,Supplier_On_Time_Pct,%,Higher is better,2022,2,Q1,92.0,91.81,-0.2,99.8,Green,Supplier
+KPI0000015,Order_Fulfillment_Rate_Pct,%,Higher is better,2022,2,Q1,98.0,98.62,0.6,100.6,Green,Operations
+KPI0000016,Freight_Cost_Per_Unit_USD,USD,Lower is better,2022,2,Q1,12.0,13.79,14.9,87.0,Yellow,Financial
+KPI0000017,Gross_Margin_Pct,%,Higher is better,2022,2,Q1,45.0,37.29,-17.1,82.9,Red,Financial
+KPI0000018,Days_Of_Supply,days,Lower is better,2022,2,Q1,30.0,23.55,-21.5,127.4,Green,Inventory
+KPI0000019,Backorder_Rate_Pct,%,Lower is better,2022,2,Q1,2.0,1.76,-12.0,113.6,Green,Operations
+KPI0000020,Supplier_Quality_Score,score,Higher is better,2022,2,Q1,90.0,87.08,-3.2,96.8,Green,Supplier
+KPI0000021,On_Time_Delivery_Pct,%,Higher is better,2022,3,Q1,95.0,94.98,-0.0,100.0,Green,Delivery
+KPI0000022,Forecast_Accuracy_Pct,%,Higher is better,2022,3,Q1,90.0,84.4,-6.2,93.8,Yellow,Planning
+KPI0000023,Inventory_Turnover,x,Higher is better,2022,3,Q1,8.0,8.27,3.4,103.4,Green,Inventory
+KPI0000024,Supplier_On_Time_Pct,%,Higher is better,2022,3,Q1,92.0,79.46,-13.6,86.4,Yellow,Supplier
+KPI0000025,Order_Fulfillment_Rate_Pct,%,Higher is better,2022,3,Q1,98.0,97.7,-0.3,99.7,Green,Operations
+KPI0000026,Freight_Cost_Per_Unit_USD,USD,Lower is better,2022,3,Q1,12.0,13.6,13.3,88.2,Yellow,Financial
+KPI0000027,Gross_Margin_Pct,%,Higher is better,2022,3,Q1,45.0,41.49,-7.8,92.2,Yellow,Financial
+KPI0000028,Days_Of_Supply,days,Lower is better,2022,3,Q1,30.0,42.23,40.8,71.0,Red,Inventory
+KPI0000029,Backorder_Rate_Pct,%,Lower is better,2022,3,Q1,2.0,2.63,31.5,76.0,Red,Operations
+KPI0000030,Supplier_Quality_Score,score,Higher is better,2022,3,Q1,90.0,94.62,5.1,105.1,Green,Supplier
+KPI0000031,On_Time_Delivery_Pct,%,Higher is better,2022,4,Q2,95.0,89.75,-5.5,94.5,Yellow,Delivery
+KPI0000032,Forecast_Accuracy_Pct,%,Higher is better,2022,4,Q2,90.0,79.46,-11.7,88.3,Yellow,Planning
+KPI0000033,Inventory_Turnover,x,Higher is better,2022,4,Q2,8.0,7.45,-6.9,93.1,Yellow,Inventory
+KPI0000034,Supplier_On_Time_Pct,%,Higher is better,2022,4,Q2,92.0,83.94,-8.8,91.2,Yellow,Supplier
+KPI0000035,Order_Fulfillment_Rate_Pct,%,Higher is better,2022,4,Q2,98.0,99.33,1.4,101.4,Green,Operations
+KPI0000036,Freight_Cost_Per_Unit_USD,USD,Lower is better,2022,4,Q2,12.0,13.35,11.2,89.9,Yellow,Financial
+KPI0000037,Gross_Margin_Pct,%,Higher is better,2022,4,Q2,45.0,42.38,-5.8,94.2,Yellow,Financial
+KPI0000038,Days_Of_Supply,days,Lower is better,2022,4,Q2,30.0,27.77,-7.4,108.0,Green,Inventory
+KPI0000039,Backorder_Rate_Pct,%,Lower is better,2022,4,Q2,2.0,1.98,-1.0,101.0,Green,Operations
+KPI0000040,Supplier_Quality_Score,score,Higher is better,2022,4,Q2,90.0,94.77,5.3,105.3,Green,Supplier
+KPI0000041,On_Time_Delivery_Pct,%,Higher is better,2022,5,Q2,95.0,88.73,-6.6,93.4,Yellow,Delivery
+KPI0000042,Forecast_Accuracy_Pct,%,Higher is better,2022,5,Q2,90.0,86.59,-3.8,96.2,Green,Planning
+KPI0000043,Inventory_Turnover,x,Higher is better,2022,5,Q2,8.0,8.19,2.4,102.4,Green,Inventory
+KPI0000044,Supplier_On_Time_Pct,%,Higher is better,2022,5,Q2,92.0,72.53,-21.2,78.8,Red,Supplier
+KPI0000045,Order_Fulfillment_Rate_Pct,%,Higher is better,2022,5,Q2,98.0,96.52,-1.5,98.5,Green,Operations
+KPI0000046,Freight_Cost_Per_Unit_USD,USD,Lower is better,2022,5,Q2,12.0,15.12,26.0,79.4,Red,Financial
+KPI0000047,Gross_Margin_Pct,%,Higher is better,2022,5,Q2,45.0,36.05,-19.9,80.1,Red,Financial
+KPI0000048,Days_Of_Supply,days,Lower is better,2022,5,Q2,30.0,31.19,4.0,96.2,Green,Inventory
+KPI0000049,Backorder_Rate_Pct,%,Lower is better,2022,5,Q2,2.0,2.23,11.5,89.7,Yellow,Operations
+KPI0000050,Supplier_Quality_Score,score,Higher is better,2022,5,Q2,90.0,85.65,-4.8,95.2,Green,Supplier
+KPI0000051,On_Time_Delivery_Pct,%,Higher is better,2022,6,Q2,95.0,96.22,1.3,101.3,Green,Delivery
+KPI0000052,Forecast_Accuracy_Pct,%,Higher is better,2022,6,Q2,90.0,84.42,-6.2,93.8,Yellow,Planning
+KPI0000053,Inventory_Turnover,x,Higher is better,2022,6,Q2,8.0,6.38,-20.2,79.8,Red,Inventory
+KPI0000054,Supplier_On_Time_Pct,%,Higher is better,2022,6,Q2,92.0,91.77,-0.3,99.8,Green,Supplier
+KPI0000055,Order_Fulfillment_Rate_Pct,%,Higher is better,2022,6,Q2,98.0,99.61,1.6,101.6,Green,Operations
+KPI0000056,Freight_Cost_Per_Unit_USD,USD,Lower is better,2022,6,Q2,12.0,14.51,20.9,82.7,Red,Financial
+KPI0000057,Gross_Margin_Pct,%,Higher is better,2022,6,Q2,45.0,50.07,11.3,111.3,Green,Financial
+KPI0000058,Days_Of_Supply,days,Lower is better,2022,6,Q2,30.0,34.87,16.2,86.0,Yellow,Inventory
+KPI0000059,Backorder_Rate_Pct,%,Lower is better,2022,6,Q2,2.0,2.37,18.5,84.4,Red,Operations
+KPI0000060,Supplier_Quality_Score,score,Higher is better,2022,6,Q2,90.0,83.52,-7.2,92.8,Yellow,Supplier
+KPI0000061,On_Time_Delivery_Pct,%,Higher is better,2022,7,Q3,95.0,96.94,2.0,102.0,Green,Delivery
+KPI0000062,Forecast_Accuracy_Pct,%,Higher is better,2022,7,Q3,90.0,80.51,-10.5,89.5,Yellow,Planning
+KPI0000063,Inventory_Turnover,x,Higher is better,2022,7,Q3,8.0,7.35,-8.1,91.9,Yellow,Inventory
+KPI0000064,Supplier_On_Time_Pct,%,Higher is better,2022,7,Q3,92.0,74.49,-19.0,81.0,Red,Supplier
+KPI0000065,Order_Fulfillment_Rate_Pct,%,Higher is better,2022,7,Q3,98.0,91.64,-6.5,93.5,Yellow,Operations
+KPI0000066,Freight_Cost_Per_Unit_USD,USD,Lower is better,2022,7,Q3,12.0,12.03,0.2,99.8,Green,Financial
+KPI0000067,Gross_Margin_Pct,%,Higher is better,2022,7,Q3,45.0,49.48,10.0,110.0,Green,Financial
+KPI0000068,Days_Of_Supply,days,Lower is better,2022,7,Q3,30.0,21.92,-26.9,136.9,Green,Inventory
+KPI0000069,Backorder_Rate_Pct,%,Lower is better,2022,7,Q3,2.0,1.42,-29.0,140.8,Green,Operations
+KPI0000070,Supplier_Quality_Score,score,Higher is better,2022,7,Q3,90.0,90.49,0.5,100.5,Green,Supplier
+KPI0000071,On_Time_Delivery_Pct,%,Higher is better,2022,8,Q3,95.0,100.0,5.3,105.3,Green,Delivery
+KPI0000072,Forecast_Accuracy_Pct,%,Higher is better,2022,8,Q3,90.0,89.13,-1.0,99.0,Green,Planning
+KPI0000073,Inventory_Turnover,x,Higher is better,2022,8,Q3,8.0,5.97,-25.4,74.6,Red,Inventory
+KPI0000074,Supplier_On_Time_Pct,%,Higher is better,2022,8,Q3,92.0,64.16,-30.3,69.7,Red,Supplier
+KPI0000075,Order_Fulfillment_Rate_Pct,%,Higher is better,2022,8,Q3,98.0,98.18,0.2,100.2,Green,Operations
+KPI0000076,Freight_Cost_Per_Unit_USD,USD,Lower is better,2022,8,Q3,12.0,11.68,-2.7,102.7,Green,Financial
+KPI0000077,Gross_Margin_Pct,%,Higher is better,2022,8,Q3,45.0,39.74,-11.7,88.3,Yellow,Financial
+KPI0000078,Days_Of_Supply,days,Lower is better,2022,8,Q3,30.0,38.16,27.2,78.6,Red,Inventory
+KPI0000079,Backorder_Rate_Pct,%,Lower is better,2022,8,Q3,2.0,2.95,47.5,67.8,Red,Operations
+KPI0000080,Supplier_Quality_Score,score,Higher is better,2022,8,Q3,90.0,90.17,0.2,100.2,Green,Supplier
+KPI0000081,On_Time_Delivery_Pct,%,Higher is better,2022,9,Q3,95.0,94.93,-0.1,99.9,Green,Delivery
+KPI0000082,Forecast_Accuracy_Pct,%,Higher is better,2022,9,Q3,90.0,88.13,-2.1,97.9,Green,Planning
+KPI0000083,Inventory_Turnover,x,Higher is better,2022,9,Q3,8.0,9.33,16.6,116.6,Green,Inventory
+KPI0000084,Supplier_On_Time_Pct,%,Higher is better,2022,9,Q3,92.0,90.18,-2.0,98.0,Green,Supplier
+KPI0000085,Order_Fulfillment_Rate_Pct,%,Higher is better,2022,9,Q3,98.0,99.02,1.0,101.0,Green,Operations
+KPI0000086,Freight_Cost_Per_Unit_USD,USD,Lower is better,2022,9,Q3,12.0,13.83,15.2,86.8,Yellow,Financial
+KPI0000087,Gross_Margin_Pct,%,Higher is better,2022,9,Q3,45.0,37.95,-15.7,84.3,Red,Financial
+KPI0000088,Days_Of_Supply,days,Lower is better,2022,9,Q3,30.0,39.79,32.6,75.4,Red,Inventory
+KPI0000089,Backorder_Rate_Pct,%,Lower is better,2022,9,Q3,2.0,2.86,43.0,69.9,Red,Operations
+KPI0000090,Supplier_Quality_Score,score,Higher is better,2022,9,Q3,90.0,91.89,2.1,102.1,Green,Supplier
+KPI0000091,On_Time_Delivery_Pct,%,Higher is better,2022,10,Q4,95.0,82.32,-13.3,86.7,Yellow,Delivery
+KPI0000092,Forecast_Accuracy_Pct,%,Higher is better,2022,10,Q4,90.0,80.49,-10.6,89.4,Yellow,Planning
+KPI0000093,Inventory_Turnover,x,Higher is better,2022,10,Q4,8.0,8.61,7.6,107.6,Green,Inventory
+KPI0000094,Supplier_On_Time_Pct,%,Higher is better,2022,10,Q4,92.0,70.1,-23.8,76.2,Red,Supplier
+KPI0000095,Order_Fulfillment_Rate_Pct,%,Higher is better,2022,10,Q4,98.0,95.63,-2.4,97.6,Green,Operations
+KPI0000096,Freight_Cost_Per_Unit_USD,USD,Lower is better,2022,10,Q4,12.0,14.61,21.7,82.1,Red,Financial
+KPI0000097,Gross_Margin_Pct,%,Higher is better,2022,10,Q4,45.0,39.01,-13.3,86.7,Yellow,Financial
+KPI0000098,Days_Of_Supply,days,Lower is better,2022,10,Q4,30.0,41.54,38.5,72.2,Red,Inventory
+KPI0000099,Backorder_Rate_Pct,%,Lower is better,2022,10,Q4,2.0,2.62,31.0,76.3,Red,Operations
+KPI0000100,Supplier_Quality_Score,score,Higher is better,2022,10,Q4,90.0,88.87,-1.3,98.7,Green,Supplier
+KPI0000101,On_Time_Delivery_Pct,%,Higher is better,2022,11,Q4,95.0,95.47,0.5,100.5,Green,Delivery
+KPI0000102,Forecast_Accuracy_Pct,%,Higher is better,2022,11,Q4,90.0,89.77,-0.3,99.7,Green,Planning
+KPI0000103,Inventory_Turnover,x,Higher is better,2022,11,Q4,8.0,7.92,-1.0,99.0,Green,Inventory
+KPI0000104,Supplier_On_Time_Pct,%,Higher is better,2022,11,Q4,92.0,94.63,2.9,102.9,Green,Supplier
+KPI0000105,Order_Fulfillment_Rate_Pct,%,Higher is better,2022,11,Q4,98.0,93.34,-4.8,95.2,Green,Operations
+KPI0000106,Freight_Cost_Per_Unit_USD,USD,Lower is better,2022,11,Q4,12.0,12.2,1.7,98.4,Green,Financial
+KPI0000107,Gross_Margin_Pct,%,Higher is better,2022,11,Q4,45.0,48.57,7.9,107.9,Green,Financial
+KPI0000108,Days_Of_Supply,days,Lower is better,2022,11,Q4,30.0,32.98,9.9,91.0,Yellow,Inventory
+KPI0000109,Backorder_Rate_Pct,%,Lower is better,2022,11,Q4,2.0,1.76,-12.0,113.6,Green,Operations
+KPI0000110,Supplier_Quality_Score,score,Higher is better,2022,11,Q4,90.0,93.85,4.3,104.3,Green,Supplier
+KPI0000111,On_Time_Delivery_Pct,%,Higher is better,2022,12,Q4,95.0,100.0,5.3,105.3,Green,Delivery
+KPI0000112,Forecast_Accuracy_Pct,%,Higher is better,2022,12,Q4,90.0,81.94,-9.0,91.0,Yellow,Planning
+KPI0000113,Inventory_Turnover,x,Higher is better,2022,12,Q4,8.0,6.48,-19.0,81.0,Red,Inventory
+KPI0000114,Supplier_On_Time_Pct,%,Higher is better,2022,12,Q4,92.0,84.08,-8.6,91.4,Yellow,Supplier
+KPI0000115,Order_Fulfillment_Rate_Pct,%,Higher is better,2022,12,Q4,98.0,95.9,-2.1,97.9,Green,Operations
+KPI0000116,Freight_Cost_Per_Unit_USD,USD,Lower is better,2022,12,Q4,12.0,12.39,3.3,96.9,Green,Financial
+KPI0000117,Gross_Margin_Pct,%,Higher is better,2022,12,Q4,45.0,50.06,11.2,111.2,Green,Financial
+KPI0000118,Days_Of_Supply,days,Lower is better,2022,12,Q4,30.0,27.27,-9.1,110.0,Green,Inventory
+KPI0000119,Backorder_Rate_Pct,%,Lower is better,2022,12,Q4,2.0,3.04,52.0,65.8,Red,Operations
+KPI0000120,Supplier_Quality_Score,score,Higher is better,2022,12,Q4,90.0,83.93,-6.7,93.3,Yellow,Supplier
+KPI0000121,On_Time_Delivery_Pct,%,Higher is better,2023,1,Q1,95.0,89.8,-5.5,94.5,Yellow,Delivery
+KPI0000122,Forecast_Accuracy_Pct,%,Higher is better,2023,1,Q1,90.0,90.27,0.3,100.3,Green,Planning
+KPI0000123,Inventory_Turnover,x,Higher is better,2023,1,Q1,8.0,8.94,11.7,111.8,Green,Inventory
+KPI0000124,Supplier_On_Time_Pct,%,Higher is better,2023,1,Q1,92.0,92.9,1.0,101.0,Green,Supplier
+KPI0000125,Order_Fulfillment_Rate_Pct,%,Higher is better,2023,1,Q1,98.0,98.96,1.0,101.0,Green,Operations
+KPI0000126,Freight_Cost_Per_Unit_USD,USD,Lower is better,2023,1,Q1,12.0,13.05,8.8,92.0,Yellow,Financial
+KPI0000127,Gross_Margin_Pct,%,Higher is better,2023,1,Q1,45.0,45.28,0.6,100.6,Green,Financial
+KPI0000128,Days_Of_Supply,days,Lower is better,2023,1,Q1,30.0,35.73,19.1,84.0,Red,Inventory
+KPI0000129,Backorder_Rate_Pct,%,Lower is better,2023,1,Q1,2.0,2.17,8.5,92.2,Yellow,Operations
+KPI0000130,Supplier_Quality_Score,score,Higher is better,2023,1,Q1,90.0,91.47,1.6,101.6,Green,Supplier
+KPI0000131,On_Time_Delivery_Pct,%,Higher is better,2023,2,Q1,95.0,97.6,2.7,102.7,Green,Delivery
+KPI0000132,Forecast_Accuracy_Pct,%,Higher is better,2023,2,Q1,90.0,85.78,-4.7,95.3,Green,Planning
+KPI0000133,Inventory_Turnover,x,Higher is better,2023,2,Q1,8.0,8.6,7.5,107.5,Green,Inventory
+KPI0000134,Supplier_On_Time_Pct,%,Higher is better,2023,2,Q1,92.0,90.52,-1.6,98.4,Green,Supplier
+KPI0000135,Order_Fulfillment_Rate_Pct,%,Higher is better,2023,2,Q1,98.0,100.0,2.0,102.0,Green,Operations
+KPI0000136,Freight_Cost_Per_Unit_USD,USD,Lower is better,2023,2,Q1,12.0,13.35,11.2,89.9,Yellow,Financial
+KPI0000137,Gross_Margin_Pct,%,Higher is better,2023,2,Q1,45.0,42.95,-4.6,95.4,Green,Financial
+KPI0000138,Days_Of_Supply,days,Lower is better,2023,2,Q1,30.0,30.6,2.0,98.0,Green,Inventory
+KPI0000139,Backorder_Rate_Pct,%,Lower is better,2023,2,Q1,2.0,2.27,13.5,88.1,Yellow,Operations
+KPI0000140,Supplier_Quality_Score,score,Higher is better,2023,2,Q1,90.0,94.43,4.9,104.9,Green,Supplier
+KPI0000141,On_Time_Delivery_Pct,%,Higher is better,2023,3,Q1,95.0,92.46,-2.7,97.3,Green,Delivery
+KPI0000142,Forecast_Accuracy_Pct,%,Higher is better,2023,3,Q1,90.0,88.59,-1.6,98.4,Green,Planning
+KPI0000143,Inventory_Turnover,x,Higher is better,2023,3,Q1,8.0,9.63,20.4,120.4,Green,Inventory
+KPI0000144,Supplier_On_Time_Pct,%,Higher is better,2023,3,Q1,92.0,64.65,-29.7,70.3,Red,Supplier
+KPI0000145,Order_Fulfillment_Rate_Pct,%,Higher is better,2023,3,Q1,98.0,91.86,-6.3,93.7,Yellow,Operations
+KPI0000146,Freight_Cost_Per_Unit_USD,USD,Lower is better,2023,3,Q1,12.0,13.21,10.1,90.8,Yellow,Financial
+KPI0000147,Gross_Margin_Pct,%,Higher is better,2023,3,Q1,45.0,46.32,2.9,102.9,Green,Financial
+KPI0000148,Days_Of_Supply,days,Lower is better,2023,3,Q1,30.0,33.88,12.9,88.5,Yellow,Inventory
+KPI0000149,Backorder_Rate_Pct,%,Lower is better,2023,3,Q1,2.0,2.01,0.5,99.5,Green,Operations
+KPI0000150,Supplier_Quality_Score,score,Higher is better,2023,3,Q1,90.0,93.26,3.6,103.6,Green,Supplier
+KPI0000151,On_Time_Delivery_Pct,%,Higher is better,2023,4,Q2,95.0,96.04,1.1,101.1,Green,Delivery
+KPI0000152,Forecast_Accuracy_Pct,%,Higher is better,2023,4,Q2,90.0,82.1,-8.8,91.2,Yellow,Planning
+KPI0000153,Inventory_Turnover,x,Higher is better,2023,4,Q2,8.0,10.2,27.5,127.5,Green,Inventory
+KPI0000154,Supplier_On_Time_Pct,%,Higher is better,2023,4,Q2,92.0,88.87,-3.4,96.6,Green,Supplier
+KPI0000155,Order_Fulfillment_Rate_Pct,%,Higher is better,2023,4,Q2,98.0,94.7,-3.4,96.6,Green,Operations
+KPI0000156,Freight_Cost_Per_Unit_USD,USD,Lower is better,2023,4,Q2,12.0,12.62,5.2,95.1,Green,Financial
+KPI0000157,Gross_Margin_Pct,%,Higher is better,2023,4,Q2,45.0,43.82,-2.6,97.4,Green,Financial
+KPI0000158,Days_Of_Supply,days,Lower is better,2023,4,Q2,30.0,32.24,7.5,93.1,Yellow,Inventory
+KPI0000159,Backorder_Rate_Pct,%,Lower is better,2023,4,Q2,2.0,0.64,-68.0,312.5,Green,Operations
+KPI0000160,Supplier_Quality_Score,score,Higher is better,2023,4,Q2,90.0,88.17,-2.0,98.0,Green,Supplier
+KPI0000161,On_Time_Delivery_Pct,%,Higher is better,2023,5,Q2,95.0,100.0,5.3,105.3,Green,Delivery
+KPI0000162,Forecast_Accuracy_Pct,%,Higher is better,2023,5,Q2,90.0,77.49,-13.9,86.1,Yellow,Planning
+KPI0000163,Inventory_Turnover,x,Higher is better,2023,5,Q2,8.0,7.81,-2.4,97.6,Green,Inventory
+KPI0000164,Supplier_On_Time_Pct,%,Higher is better,2023,5,Q2,92.0,93.87,2.0,102.0,Green,Supplier
+KPI0000165,Order_Fulfillment_Rate_Pct,%,Higher is better,2023,5,Q2,98.0,100.0,2.0,102.0,Green,Operations
+KPI0000166,Freight_Cost_Per_Unit_USD,USD,Lower is better,2023,5,Q2,12.0,15.29,27.4,78.5,Red,Financial
+KPI0000167,Gross_Margin_Pct,%,Higher is better,2023,5,Q2,45.0,37.86,-15.9,84.1,Red,Financial
+KPI0000168,Days_Of_Supply,days,Lower is better,2023,5,Q2,30.0,30.66,2.2,97.8,Green,Inventory
+KPI0000169,Backorder_Rate_Pct,%,Lower is better,2023,5,Q2,2.0,2.07,3.5,96.6,Green,Operations
+KPI0000170,Supplier_Quality_Score,score,Higher is better,2023,5,Q2,90.0,93.21,3.6,103.6,Green,Supplier
+KPI0000171,On_Time_Delivery_Pct,%,Higher is better,2023,6,Q2,95.0,100.0,5.3,105.3,Green,Delivery
+KPI0000172,Forecast_Accuracy_Pct,%,Higher is better,2023,6,Q2,90.0,66.63,-26.0,74.0,Red,Planning
+KPI0000173,Inventory_Turnover,x,Higher is better,2023,6,Q2,8.0,8.93,11.6,111.6,Green,Inventory
+KPI0000174,Supplier_On_Time_Pct,%,Higher is better,2023,6,Q2,92.0,74.03,-19.5,80.5,Red,Supplier
+KPI0000175,Order_Fulfillment_Rate_Pct,%,Higher is better,2023,6,Q2,98.0,100.0,2.0,102.0,Green,Operations
+KPI0000176,Freight_Cost_Per_Unit_USD,USD,Lower is better,2023,6,Q2,12.0,10.27,-14.4,116.8,Green,Financial
+KPI0000177,Gross_Margin_Pct,%,Higher is better,2023,6,Q2,45.0,45.49,1.1,101.1,Green,Financial
+KPI0000178,Days_Of_Supply,days,Lower is better,2023,6,Q2,30.0,39.0,30.0,76.9,Red,Inventory
+KPI0000179,Backorder_Rate_Pct,%,Lower is better,2023,6,Q2,2.0,2.18,9.0,91.7,Yellow,Operations
+KPI0000180,Supplier_Quality_Score,score,Higher is better,2023,6,Q2,90.0,91.31,1.5,101.5,Green,Supplier
+KPI0000181,On_Time_Delivery_Pct,%,Higher is better,2023,7,Q3,95.0,99.12,4.3,104.3,Green,Delivery
+KPI0000182,Forecast_Accuracy_Pct,%,Higher is better,2023,7,Q3,90.0,87.01,-3.3,96.7,Green,Planning
+KPI0000183,Inventory_Turnover,x,Higher is better,2023,7,Q3,8.0,7.8,-2.5,97.5,Green,Inventory
+KPI0000184,Supplier_On_Time_Pct,%,Higher is better,2023,7,Q3,92.0,98.76,7.3,107.3,Green,Supplier
+KPI0000185,Order_Fulfillment_Rate_Pct,%,Higher is better,2023,7,Q3,98.0,100.0,2.0,102.0,Green,Operations
+KPI0000186,Freight_Cost_Per_Unit_USD,USD,Lower is better,2023,7,Q3,12.0,12.28,2.3,97.7,Green,Financial
+KPI0000187,Gross_Margin_Pct,%,Higher is better,2023,7,Q3,45.0,55.92,24.3,124.3,Green,Financial
+KPI0000188,Days_Of_Supply,days,Lower is better,2023,7,Q3,30.0,26.34,-12.2,113.9,Green,Inventory
+KPI0000189,Backorder_Rate_Pct,%,Lower is better,2023,7,Q3,2.0,2.82,41.0,70.9,Red,Operations
+KPI0000190,Supplier_Quality_Score,score,Higher is better,2023,7,Q3,90.0,89.3,-0.8,99.2,Green,Supplier
+KPI0000191,On_Time_Delivery_Pct,%,Higher is better,2023,8,Q3,95.0,95.37,0.4,100.4,Green,Delivery
+KPI0000192,Forecast_Accuracy_Pct,%,Higher is better,2023,8,Q3,90.0,91.12,1.2,101.2,Green,Planning
+KPI0000193,Inventory_Turnover,x,Higher is better,2023,8,Q3,8.0,8.1,1.2,101.2,Green,Inventory
+KPI0000194,Supplier_On_Time_Pct,%,Higher is better,2023,8,Q3,92.0,91.4,-0.7,99.3,Green,Supplier
+KPI0000195,Order_Fulfillment_Rate_Pct,%,Higher is better,2023,8,Q3,98.0,90.12,-8.0,92.0,Yellow,Operations
+KPI0000196,Freight_Cost_Per_Unit_USD,USD,Lower is better,2023,8,Q3,12.0,10.23,-14.7,117.3,Green,Financial
+KPI0000197,Gross_Margin_Pct,%,Higher is better,2023,8,Q3,45.0,47.31,5.1,105.1,Green,Financial
+KPI0000198,Days_Of_Supply,days,Lower is better,2023,8,Q3,30.0,27.32,-8.9,109.8,Green,Inventory
+KPI0000199,Backorder_Rate_Pct,%,Lower is better,2023,8,Q3,2.0,1.65,-17.5,121.2,Green,Operations
+KPI0000200,Supplier_Quality_Score,score,Higher is better,2023,8,Q3,90.0,83.92,-6.8,93.2,Yellow,Supplier
+KPI0000201,On_Time_Delivery_Pct,%,Higher is better,2023,9,Q3,95.0,100.0,5.3,105.3,Green,Delivery
+KPI0000202,Forecast_Accuracy_Pct,%,Higher is better,2023,9,Q3,90.0,91.46,1.6,101.6,Green,Planning
+KPI0000203,Inventory_Turnover,x,Higher is better,2023,9,Q3,8.0,9.31,16.4,116.4,Green,Inventory
+KPI0000204,Supplier_On_Time_Pct,%,Higher is better,2023,9,Q3,92.0,78.39,-14.8,85.2,Yellow,Supplier
+KPI0000205,Order_Fulfillment_Rate_Pct,%,Higher is better,2023,9,Q3,98.0,97.66,-0.3,99.7,Green,Operations
+KPI0000206,Freight_Cost_Per_Unit_USD,USD,Lower is better,2023,9,Q3,12.0,10.85,-9.6,110.6,Green,Financial
+KPI0000207,Gross_Margin_Pct,%,Higher is better,2023,9,Q3,45.0,47.94,6.5,106.5,Green,Financial
+KPI0000208,Days_Of_Supply,days,Lower is better,2023,9,Q3,30.0,41.09,37.0,73.0,Red,Inventory
+KPI0000209,Backorder_Rate_Pct,%,Lower is better,2023,9,Q3,2.0,1.73,-13.5,115.6,Green,Operations
+KPI0000210,Supplier_Quality_Score,score,Higher is better,2023,9,Q3,90.0,97.61,8.5,108.5,Green,Supplier
+KPI0000211,On_Time_Delivery_Pct,%,Higher is better,2023,10,Q4,95.0,100.0,5.3,105.3,Green,Delivery
+KPI0000212,Forecast_Accuracy_Pct,%,Higher is better,2023,10,Q4,90.0,84.85,-5.7,94.3,Yellow,Planning
+KPI0000213,Inventory_Turnover,x,Higher is better,2023,10,Q4,8.0,6.0,-25.0,75.0,Red,Inventory
+KPI0000214,Supplier_On_Time_Pct,%,Higher is better,2023,10,Q4,92.0,97.85,6.4,106.4,Green,Supplier
+KPI0000215,Order_Fulfillment_Rate_Pct,%,Higher is better,2023,10,Q4,98.0,97.23,-0.8,99.2,Green,Operations
+KPI0000216,Freight_Cost_Per_Unit_USD,USD,Lower is better,2023,10,Q4,12.0,11.74,-2.2,102.2,Green,Financial
+KPI0000217,Gross_Margin_Pct,%,Higher is better,2023,10,Q4,45.0,46.48,3.3,103.3,Green,Financial
+KPI0000218,Days_Of_Supply,days,Lower is better,2023,10,Q4,30.0,34.7,15.7,86.5,Yellow,Inventory
+KPI0000219,Backorder_Rate_Pct,%,Lower is better,2023,10,Q4,2.0,3.16,58.0,63.3,Red,Operations
+KPI0000220,Supplier_Quality_Score,score,Higher is better,2023,10,Q4,90.0,86.04,-4.4,95.6,Green,Supplier
+KPI0000221,On_Time_Delivery_Pct,%,Higher is better,2023,11,Q4,95.0,100.0,5.3,105.3,Green,Delivery
+KPI0000222,Forecast_Accuracy_Pct,%,Higher is better,2023,11,Q4,90.0,96.88,7.6,107.6,Green,Planning
+KPI0000223,Inventory_Turnover,x,Higher is better,2023,11,Q4,8.0,9.29,16.1,116.1,Green,Inventory
+KPI0000224,Supplier_On_Time_Pct,%,Higher is better,2023,11,Q4,92.0,84.75,-7.9,92.1,Yellow,Supplier
+KPI0000225,Order_Fulfillment_Rate_Pct,%,Higher is better,2023,11,Q4,98.0,94.11,-4.0,96.0,Green,Operations
+KPI0000226,Freight_Cost_Per_Unit_USD,USD,Lower is better,2023,11,Q4,12.0,14.46,20.5,83.0,Red,Financial
+KPI0000227,Gross_Margin_Pct,%,Higher is better,2023,11,Q4,45.0,45.35,0.8,100.8,Green,Financial
+KPI0000228,Days_Of_Supply,days,Lower is better,2023,11,Q4,30.0,33.15,10.5,90.5,Yellow,Inventory
+KPI0000229,Backorder_Rate_Pct,%,Lower is better,2023,11,Q4,2.0,3.12,56.0,64.1,Red,Operations
+KPI0000230,Supplier_Quality_Score,score,Higher is better,2023,11,Q4,90.0,89.49,-0.6,99.4,Green,Supplier
+KPI0000231,On_Time_Delivery_Pct,%,Higher is better,2023,12,Q4,95.0,81.72,-14.0,86.0,Yellow,Delivery
+KPI0000232,Forecast_Accuracy_Pct,%,Higher is better,2023,12,Q4,90.0,83.43,-7.3,92.7,Yellow,Planning
+KPI0000233,Inventory_Turnover,x,Higher is better,2023,12,Q4,8.0,6.12,-23.5,76.5,Red,Inventory
+KPI0000234,Supplier_On_Time_Pct,%,Higher is better,2023,12,Q4,92.0,93.08,1.2,101.2,Green,Supplier
+KPI0000235,Order_Fulfillment_Rate_Pct,%,Higher is better,2023,12,Q4,98.0,99.36,1.4,101.4,Green,Operations
+KPI0000236,Freight_Cost_Per_Unit_USD,USD,Lower is better,2023,12,Q4,12.0,11.72,-2.3,102.4,Green,Financial
+KPI0000237,Gross_Margin_Pct,%,Higher is better,2023,12,Q4,45.0,44.87,-0.3,99.7,Green,Financial
+KPI0000238,Days_Of_Supply,days,Lower is better,2023,12,Q4,30.0,36.96,23.2,81.2,Red,Inventory
+KPI0000239,Backorder_Rate_Pct,%,Lower is better,2023,12,Q4,2.0,2.31,15.5,86.6,Yellow,Operations
+KPI0000240,Supplier_Quality_Score,score,Higher is better,2023,12,Q4,90.0,96.69,7.4,107.4,Green,Supplier
+KPI0000241,On_Time_Delivery_Pct,%,Higher is better,2024,1,Q1,95.0,95.08,0.1,100.1,Green,Delivery
+KPI0000242,Forecast_Accuracy_Pct,%,Higher is better,2024,1,Q1,90.0,94.3,4.8,104.8,Green,Planning
+KPI0000243,Inventory_Turnover,x,Higher is better,2024,1,Q1,8.0,9.39,17.4,117.4,Green,Inventory
+KPI0000244,Supplier_On_Time_Pct,%,Higher is better,2024,1,Q1,92.0,100.0,8.7,108.7,Green,Supplier
+KPI0000245,Order_Fulfillment_Rate_Pct,%,Higher is better,2024,1,Q1,98.0,95.15,-2.9,97.1,Green,Operations
+KPI0000246,Freight_Cost_Per_Unit_USD,USD,Lower is better,2024,1,Q1,12.0,14.14,17.8,84.9,Red,Financial
+KPI0000247,Gross_Margin_Pct,%,Higher is better,2024,1,Q1,45.0,37.6,-16.4,83.6,Red,Financial
+KPI0000248,Days_Of_Supply,days,Lower is better,2024,1,Q1,30.0,26.41,-12.0,113.6,Green,Inventory
+KPI0000249,Backorder_Rate_Pct,%,Lower is better,2024,1,Q1,2.0,1.07,-46.5,186.9,Green,Operations
+KPI0000250,Supplier_Quality_Score,score,Higher is better,2024,1,Q1,90.0,96.12,6.8,106.8,Green,Supplier
+KPI0000251,On_Time_Delivery_Pct,%,Higher is better,2024,2,Q1,95.0,88.45,-6.9,93.1,Yellow,Delivery
+KPI0000252,Forecast_Accuracy_Pct,%,Higher is better,2024,2,Q1,90.0,86.76,-3.6,96.4,Green,Planning
+KPI0000253,Inventory_Turnover,x,Higher is better,2024,2,Q1,8.0,7.78,-2.7,97.2,Green,Inventory
+KPI0000254,Supplier_On_Time_Pct,%,Higher is better,2024,2,Q1,92.0,86.7,-5.8,94.2,Yellow,Supplier
+KPI0000255,Order_Fulfillment_Rate_Pct,%,Higher is better,2024,2,Q1,98.0,95.59,-2.5,97.5,Green,Operations
+KPI0000256,Freight_Cost_Per_Unit_USD,USD,Lower is better,2024,2,Q1,12.0,13.05,8.8,92.0,Yellow,Financial
+KPI0000257,Gross_Margin_Pct,%,Higher is better,2024,2,Q1,45.0,52.48,16.6,116.6,Green,Financial
+KPI0000258,Days_Of_Supply,days,Lower is better,2024,2,Q1,30.0,32.49,8.3,92.3,Yellow,Inventory
+KPI0000259,Backorder_Rate_Pct,%,Lower is better,2024,2,Q1,2.0,2.57,28.5,77.8,Red,Operations
+KPI0000260,Supplier_Quality_Score,score,Higher is better,2024,2,Q1,90.0,95.85,6.5,106.5,Green,Supplier
+KPI0000261,On_Time_Delivery_Pct,%,Higher is better,2024,3,Q1,95.0,94.39,-0.6,99.4,Green,Delivery
+KPI0000262,Forecast_Accuracy_Pct,%,Higher is better,2024,3,Q1,90.0,77.83,-13.5,86.5,Yellow,Planning
+KPI0000263,Inventory_Turnover,x,Higher is better,2024,3,Q1,8.0,7.43,-7.1,92.9,Yellow,Inventory
+KPI0000264,Supplier_On_Time_Pct,%,Higher is better,2024,3,Q1,92.0,95.88,4.2,104.2,Green,Supplier
+KPI0000265,Order_Fulfillment_Rate_Pct,%,Higher is better,2024,3,Q1,98.0,90.47,-7.7,92.3,Yellow,Operations
+KPI0000266,Freight_Cost_Per_Unit_USD,USD,Lower is better,2024,3,Q1,12.0,11.65,-2.9,103.0,Green,Financial
+KPI0000267,Gross_Margin_Pct,%,Higher is better,2024,3,Q1,45.0,49.33,9.6,109.6,Green,Financial
+KPI0000268,Days_Of_Supply,days,Lower is better,2024,3,Q1,30.0,36.52,21.7,82.1,Red,Inventory
+KPI0000269,Backorder_Rate_Pct,%,Lower is better,2024,3,Q1,2.0,2.25,12.5,88.9,Yellow,Operations
+KPI0000270,Supplier_Quality_Score,score,Higher is better,2024,3,Q1,90.0,95.02,5.6,105.6,Green,Supplier
+KPI0000271,On_Time_Delivery_Pct,%,Higher is better,2024,4,Q2,95.0,96.52,1.6,101.6,Green,Delivery
+KPI0000272,Forecast_Accuracy_Pct,%,Higher is better,2024,4,Q2,90.0,78.45,-12.8,87.2,Yellow,Planning
+KPI0000273,Inventory_Turnover,x,Higher is better,2024,4,Q2,8.0,6.47,-19.1,80.9,Red,Inventory
+KPI0000274,Supplier_On_Time_Pct,%,Higher is better,2024,4,Q2,92.0,81.74,-11.2,88.8,Yellow,Supplier
+KPI0000275,Order_Fulfillment_Rate_Pct,%,Higher is better,2024,4,Q2,98.0,100.0,2.0,102.0,Green,Operations
+KPI0000276,Freight_Cost_Per_Unit_USD,USD,Lower is better,2024,4,Q2,12.0,11.7,-2.5,102.6,Green,Financial
+KPI0000277,Gross_Margin_Pct,%,Higher is better,2024,4,Q2,45.0,41.62,-7.5,92.5,Yellow,Financial
+KPI0000278,Days_Of_Supply,days,Lower is better,2024,4,Q2,30.0,28.06,-6.5,106.9,Green,Inventory
+KPI0000279,Backorder_Rate_Pct,%,Lower is better,2024,4,Q2,2.0,1.33,-33.5,150.4,Green,Operations
+KPI0000280,Supplier_Quality_Score,score,Higher is better,2024,4,Q2,90.0,90.91,1.0,101.0,Green,Supplier
+KPI0000281,On_Time_Delivery_Pct,%,Higher is better,2024,5,Q2,95.0,88.89,-6.4,93.6,Yellow,Delivery
+KPI0000282,Forecast_Accuracy_Pct,%,Higher is better,2024,5,Q2,90.0,89.61,-0.4,99.6,Green,Planning
+KPI0000283,Inventory_Turnover,x,Higher is better,2024,5,Q2,8.0,5.71,-28.6,71.4,Red,Inventory
+KPI0000284,Supplier_On_Time_Pct,%,Higher is better,2024,5,Q2,92.0,89.79,-2.4,97.6,Green,Supplier
+KPI0000285,Order_Fulfillment_Rate_Pct,%,Higher is better,2024,5,Q2,98.0,95.49,-2.6,97.4,Green,Operations
+KPI0000286,Freight_Cost_Per_Unit_USD,USD,Lower is better,2024,5,Q2,12.0,9.38,-21.8,127.9,Green,Financial
+KPI0000287,Gross_Margin_Pct,%,Higher is better,2024,5,Q2,45.0,48.23,7.2,107.2,Green,Financial
+KPI0000288,Days_Of_Supply,days,Lower is better,2024,5,Q2,30.0,30.72,2.4,97.7,Green,Inventory
+KPI0000289,Backorder_Rate_Pct,%,Lower is better,2024,5,Q2,2.0,0.91,-54.5,219.8,Green,Operations
+KPI0000290,Supplier_Quality_Score,score,Higher is better,2024,5,Q2,90.0,87.55,-2.7,97.3,Green,Supplier
+KPI0000291,On_Time_Delivery_Pct,%,Higher is better,2024,6,Q2,95.0,97.32,2.4,102.4,Green,Delivery
+KPI0000292,Forecast_Accuracy_Pct,%,Higher is better,2024,6,Q2,90.0,83.73,-7.0,93.0,Yellow,Planning
+KPI0000293,Inventory_Turnover,x,Higher is better,2024,6,Q2,8.0,8.72,9.0,109.0,Green,Inventory
+KPI0000294,Supplier_On_Time_Pct,%,Higher is better,2024,6,Q2,92.0,93.31,1.4,101.4,Green,Supplier
+KPI0000295,Order_Fulfillment_Rate_Pct,%,Higher is better,2024,6,Q2,98.0,100.0,2.0,102.0,Green,Operations
+KPI0000296,Freight_Cost_Per_Unit_USD,USD,Lower is better,2024,6,Q2,12.0,13.18,9.8,91.0,Yellow,Financial
+KPI0000297,Gross_Margin_Pct,%,Higher is better,2024,6,Q2,45.0,50.72,12.7,112.7,Green,Financial
+KPI0000298,Days_Of_Supply,days,Lower is better,2024,6,Q2,30.0,35.75,19.2,83.9,Red,Inventory
+KPI0000299,Backorder_Rate_Pct,%,Lower is better,2024,6,Q2,2.0,2.52,26.0,79.4,Red,Operations
+KPI0000300,Supplier_Quality_Score,score,Higher is better,2024,6,Q2,90.0,82.15,-8.7,91.3,Yellow,Supplier
+KPI0000301,On_Time_Delivery_Pct,%,Higher is better,2024,7,Q3,95.0,100.0,5.3,105.3,Green,Delivery
+KPI0000302,Forecast_Accuracy_Pct,%,Higher is better,2024,7,Q3,90.0,96.5,7.2,107.2,Green,Planning
+KPI0000303,Inventory_Turnover,x,Higher is better,2024,7,Q3,8.0,7.69,-3.9,96.1,Green,Inventory
+KPI0000304,Supplier_On_Time_Pct,%,Higher is better,2024,7,Q3,92.0,83.28,-9.5,90.5,Yellow,Supplier
+KPI0000305,Order_Fulfillment_Rate_Pct,%,Higher is better,2024,7,Q3,98.0,100.0,2.0,102.0,Green,Operations
+KPI0000306,Freight_Cost_Per_Unit_USD,USD,Lower is better,2024,7,Q3,12.0,9.68,-19.3,124.0,Green,Financial
+KPI0000307,Gross_Margin_Pct,%,Higher is better,2024,7,Q3,45.0,47.24,5.0,105.0,Green,Financial
+KPI0000308,Days_Of_Supply,days,Lower is better,2024,7,Q3,30.0,45.26,50.9,66.3,Red,Inventory
+KPI0000309,Backorder_Rate_Pct,%,Lower is better,2024,7,Q3,2.0,1.69,-15.5,118.3,Green,Operations
+KPI0000310,Supplier_Quality_Score,score,Higher is better,2024,7,Q3,90.0,94.68,5.2,105.2,Green,Supplier
+KPI0000311,On_Time_Delivery_Pct,%,Higher is better,2024,8,Q3,95.0,100.0,5.3,105.3,Green,Delivery
+KPI0000312,Forecast_Accuracy_Pct,%,Higher is better,2024,8,Q3,90.0,86.25,-4.2,95.8,Green,Planning
+KPI0000313,Inventory_Turnover,x,Higher is better,2024,8,Q3,8.0,8.52,6.5,106.5,Green,Inventory
+KPI0000314,Supplier_On_Time_Pct,%,Higher is better,2024,8,Q3,92.0,94.69,2.9,102.9,Green,Supplier
+KPI0000315,Order_Fulfillment_Rate_Pct,%,Higher is better,2024,8,Q3,98.0,94.35,-3.7,96.3,Green,Operations
+KPI0000316,Freight_Cost_Per_Unit_USD,USD,Lower is better,2024,8,Q3,12.0,12.47,3.9,96.2,Green,Financial
+KPI0000317,Gross_Margin_Pct,%,Higher is better,2024,8,Q3,45.0,46.55,3.4,103.4,Green,Financial
+KPI0000318,Days_Of_Supply,days,Lower is better,2024,8,Q3,30.0,36.62,22.1,81.9,Red,Inventory
+KPI0000319,Backorder_Rate_Pct,%,Lower is better,2024,8,Q3,2.0,2.22,11.0,90.1,Yellow,Operations
+KPI0000320,Supplier_Quality_Score,score,Higher is better,2024,8,Q3,90.0,90.74,0.8,100.8,Green,Supplier
+KPI0000321,On_Time_Delivery_Pct,%,Higher is better,2024,9,Q3,95.0,90.02,-5.2,94.8,Yellow,Delivery
+KPI0000322,Forecast_Accuracy_Pct,%,Higher is better,2024,9,Q3,90.0,84.58,-6.0,94.0,Yellow,Planning
+KPI0000323,Inventory_Turnover,x,Higher is better,2024,9,Q3,8.0,8.84,10.5,110.5,Green,Inventory
+KPI0000324,Supplier_On_Time_Pct,%,Higher is better,2024,9,Q3,92.0,88.1,-4.2,95.8,Green,Supplier
+KPI0000325,Order_Fulfillment_Rate_Pct,%,Higher is better,2024,9,Q3,98.0,94.65,-3.4,96.6,Green,Operations
+KPI0000326,Freight_Cost_Per_Unit_USD,USD,Lower is better,2024,9,Q3,12.0,11.2,-6.7,107.1,Green,Financial
+KPI0000327,Gross_Margin_Pct,%,Higher is better,2024,9,Q3,45.0,56.18,24.8,124.8,Green,Financial
+KPI0000328,Days_Of_Supply,days,Lower is better,2024,9,Q3,30.0,38.3,27.7,78.3,Red,Inventory
+KPI0000329,Backorder_Rate_Pct,%,Lower is better,2024,9,Q3,2.0,2.63,31.5,76.0,Red,Operations
+KPI0000330,Supplier_Quality_Score,score,Higher is better,2024,9,Q3,90.0,80.0,-11.1,88.9,Yellow,Supplier
+KPI0000331,On_Time_Delivery_Pct,%,Higher is better,2024,10,Q4,95.0,99.4,4.6,104.6,Green,Delivery
+KPI0000332,Forecast_Accuracy_Pct,%,Higher is better,2024,10,Q4,90.0,90.67,0.7,100.7,Green,Planning
+KPI0000333,Inventory_Turnover,x,Higher is better,2024,10,Q4,8.0,9.61,20.1,120.1,Green,Inventory
+KPI0000334,Supplier_On_Time_Pct,%,Higher is better,2024,10,Q4,92.0,90.85,-1.3,98.8,Green,Supplier
+KPI0000335,Order_Fulfillment_Rate_Pct,%,Higher is better,2024,10,Q4,98.0,98.55,0.6,100.6,Green,Operations
+KPI0000336,Freight_Cost_Per_Unit_USD,USD,Lower is better,2024,10,Q4,12.0,13.49,12.4,89.0,Yellow,Financial
+KPI0000337,Gross_Margin_Pct,%,Higher is better,2024,10,Q4,45.0,37.53,-16.6,83.4,Red,Financial
+KPI0000338,Days_Of_Supply,days,Lower is better,2024,10,Q4,30.0,37.71,25.7,79.6,Red,Inventory
+KPI0000339,Backorder_Rate_Pct,%,Lower is better,2024,10,Q4,2.0,2.44,22.0,82.0,Red,Operations
+KPI0000340,Supplier_Quality_Score,score,Higher is better,2024,10,Q4,90.0,88.55,-1.6,98.4,Green,Supplier
+KPI0000341,On_Time_Delivery_Pct,%,Higher is better,2024,11,Q4,95.0,100.0,5.3,105.3,Green,Delivery
+KPI0000342,Forecast_Accuracy_Pct,%,Higher is better,2024,11,Q4,90.0,100.0,11.1,111.1,Green,Planning
+KPI0000343,Inventory_Turnover,x,Higher is better,2024,11,Q4,8.0,6.65,-16.9,83.1,Red,Inventory
+KPI0000344,Supplier_On_Time_Pct,%,Higher is better,2024,11,Q4,92.0,81.84,-11.0,89.0,Yellow,Supplier
+KPI0000345,Order_Fulfillment_Rate_Pct,%,Higher is better,2024,11,Q4,98.0,100.0,2.0,102.0,Green,Operations
+KPI0000346,Freight_Cost_Per_Unit_USD,USD,Lower is better,2024,11,Q4,12.0,12.91,7.6,93.0,Yellow,Financial
+KPI0000347,Gross_Margin_Pct,%,Higher is better,2024,11,Q4,45.0,43.81,-2.6,97.4,Green,Financial
+KPI0000348,Days_Of_Supply,days,Lower is better,2024,11,Q4,30.0,26.85,-10.5,111.7,Green,Inventory
+KPI0000349,Backorder_Rate_Pct,%,Lower is better,2024,11,Q4,2.0,3.51,75.5,57.0,Red,Operations
+KPI0000350,Supplier_Quality_Score,score,Higher is better,2024,11,Q4,90.0,96.42,7.1,107.1,Green,Supplier
+KPI0000351,On_Time_Delivery_Pct,%,Higher is better,2024,12,Q4,95.0,89.14,-6.2,93.8,Yellow,Delivery
+KPI0000352,Forecast_Accuracy_Pct,%,Higher is better,2024,12,Q4,90.0,77.62,-13.8,86.2,Yellow,Planning
+KPI0000353,Inventory_Turnover,x,Higher is better,2024,12,Q4,8.0,9.64,20.5,120.5,Green,Inventory
+KPI0000354,Supplier_On_Time_Pct,%,Higher is better,2024,12,Q4,92.0,95.59,3.9,103.9,Green,Supplier
+KPI0000355,Order_Fulfillment_Rate_Pct,%,Higher is better,2024,12,Q4,98.0,100.0,2.0,102.0,Green,Operations
+KPI0000356,Freight_Cost_Per_Unit_USD,USD,Lower is better,2024,12,Q4,12.0,13.96,16.3,86.0,Yellow,Financial
+KPI0000357,Gross_Margin_Pct,%,Higher is better,2024,12,Q4,45.0,41.92,-6.8,93.2,Yellow,Financial
+KPI0000358,Days_Of_Supply,days,Lower is better,2024,12,Q4,30.0,33.51,11.7,89.5,Yellow,Inventory
+KPI0000359,Backorder_Rate_Pct,%,Lower is better,2024,12,Q4,2.0,0.94,-53.0,212.8,Green,Operations
+KPI0000360,Supplier_Quality_Score,score,Higher is better,2024,12,Q4,90.0,88.43,-1.7,98.3,Green,Supplier
